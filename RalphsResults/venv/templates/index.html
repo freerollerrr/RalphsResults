@@ -1,0 +1,57 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet" type="text/css" href="home.css">
+<!-- original: <link rel="stylesheet" href="{{url_for('.static', filename='home.css')}}">  -->
+{% endblock %}
+
+{% block content %}
+<div class="sides">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                        aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Ralphs Results</a>
+            </div>
+
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#" class="currentTabColor">Home</a></li>
+                    <li><a href="{{ url_for('login') }}" class="currentTabColor">Login</a></li>
+                    <li><a href="{{ url_for('signup') }}" class="currentTabColor">Sign Up</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+
+    <div class="container2">
+
+        <div class="home">
+            <img src="static_images/pitch.jpg" width="100%" height="100%">
+            <H1>Welcome To RalphsResults</H1>
+            <p>In order to gain access to our content you will need to login via the the option above</p>
+            <p>or if you are a new user sign up to our site to gain access to our insight on future football
+                results.</p>
+            <h2>Gamble Responsibly</h2>
+            <p class="lead">Always Remember to only gamble what you can afford to lose.</p>
+            <p>The Purpose of this tool is to allow the user to compare possible out comes based on data
+                representations.
+            <p/>
+            <p>For the predictions we use ahead we focus primarily on the goals scored in a game and whether the team is
+                home or away.</p>
+        </div>
+
+    </div><!-- /.container2 -->
+</div>
+{% endblock %}

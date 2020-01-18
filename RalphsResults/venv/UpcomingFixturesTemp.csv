@@ -1,0 +1,2037 @@
+,DIVISION,DATE,TIME,FIXTURE,HOME TEAM,AWAY TEAM
+0,EPL,2018-08-10,20:00:00,Manchester United V Leicester City,Manchester United,Leicester City
+1,EPL,2018-08-11,12:30:00,Newcastle United V Tottenham Hotspur,Newcastle United,Tottenham Hotspur
+2,EPL,2018-08-11,15:00:00,Bournemouth V Cardiff City,Bournemouth,Cardiff City
+3,EPL,2018-08-11,15:00:00,Fulham V Crystal Palace,Fulham,Crystal Palace
+4,EPL,2018-08-11,15:00:00,Huddersfield Town V Chelsea,Huddersfield Town,Chelsea
+5,EPL,2018-08-11,15:00:00,Watford V Brighton and Hove Albion,Watford,Brighton and Hove Albion
+6,EPL,2018-08-11,17:30:00,Wolverhampton Wanderers V Everton,Wolverhampton Wanderers,Everton
+7,EPL,2018-08-12, 13:30,Liverpool V West Ham United,Liverpool,West Ham United
+8,EPL,2018-08-12, 13:30,Southampton V Burnley,Southampton,Burnley
+9,EPL,2018-08-12, 16:00,Arsenal V Manchester City,Arsenal,Manchester City
+10,EPL,2018-08-18, 12:30,Cardiff City V Newcastle United,Cardiff City,Newcastle United
+11,EPL,2018-08-18, 15:00,Everton V Southampton,Everton,Southampton
+12,EPL,2018-08-18, 15:00,Leicester City V Wolverhampton Wanderers,Leicester City,Wolverhampton Wanderers
+13,EPL,2018-08-18, 15:00,Tottenham Hotspur V Fulham,Tottenham Hotspur,Fulham
+14,EPL,2018-08-18, 15:00,West Ham United V Bournemouth,West Ham United,Bournemouth
+15,EPL,2018-08-18, 17:30,Chelsea V Arsenal,Chelsea,Arsenal
+16,EPL,2018-08-19, 13:30,Burnley V Watford,Burnley,Watford
+17,EPL,2018-08-19, 13:30,Manchester City V Huddersfield Town,Manchester City,Huddersfield Town
+18,EPL,2018-08-19, 16:00,Brighton and Hove Albion V Manchester United,Brighton and Hove Albion,Manchester United
+19,EPL,2018-08-20, 20:00,Crystal Palace V Liverpool,Crystal Palace,Liverpool
+20,EPL,2018-08-25, 12:30,Wolverhampton Wanderers V Manchester City,Wolverhampton Wanderers,Manchester City
+21,EPL,2018-08-25, 15:00,Arsenal V West Ham United,Arsenal,West Ham United
+22,EPL,2018-08-25, 15:00,Bournemouth V Everton,Bournemouth,Everton
+23,EPL,2018-08-25, 15:00,Fulham V Burnley,Fulham,Burnley
+24,EPL,2018-08-25, 15:00,Huddersfield Town V Cardiff City,Huddersfield Town,Cardiff City
+25,EPL,2018-08-25, 15:00,Southampton V Leicester City,Southampton,Leicester City
+26,EPL,2018-08-25, 17:30,Liverpool V Brighton and Hove Albion,Liverpool,Brighton and Hove Albion
+27,EPL,2018-08-26, 13:30,Watford V Crystal Palace,Watford,Crystal Palace
+28,EPL,2018-08-26, 16:00,Newcastle United V Chelsea,Newcastle United,Chelsea
+29,EPL,2018-08-27, 20:00,Manchester United V Tottenham Hotspur,Manchester United,Tottenham Hotspur
+30,EPL,2018-09-01, 12:30,Leicester City V Liverpool,Leicester City,Liverpool
+31,EPL,2018-09-01, 15:00,Brighton and Hove Albion V Fulham,Brighton and Hove Albion,Fulham
+32,EPL,2018-09-01, 15:00,Burnley V Manchester United,Burnley,Manchester United
+33,EPL,2018-09-01, 15:00,Chelsea V Bournemouth,Chelsea,Bournemouth
+34,EPL,2018-09-01, 15:00,Crystal Palace V Southampton,Crystal Palace,Southampton
+35,EPL,2018-09-01, 15:00,Everton V Huddersfield Town,Everton,Huddersfield Town
+36,EPL,2018-09-01, 15:00,West Ham United V Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers
+37,EPL,2018-09-01, 17:30,Manchester City V Newcastle United,Manchester City,Newcastle United
+38,EPL,2018-09-02, 13:30,Cardiff City V Arsenal,Cardiff City,Arsenal
+39,EPL,2018-09-02, 16:00,Watford V Tottenham Hotspur,Watford,Tottenham Hotspur
+40,EPL,2018-09-15, 12:30,Tottenham Hotspur V Liverpool,Tottenham Hotspur,Liverpool
+41,EPL,2018-09-15, 15:00,Bournemouth V Leicester City,Bournemouth,Leicester City
+42,EPL,2018-09-15, 15:00,Chelsea V Cardiff City,Chelsea,Cardiff City
+43,EPL,2018-09-15, 15:00,Huddersfield Town V Crystal Palace,Huddersfield Town,Crystal Palace
+44,EPL,2018-09-15, 15:00,Manchester City V Fulham,Manchester City,Fulham
+45,EPL,2018-09-15, 15:00,Newcastle United V Arsenal,Newcastle United,Arsenal
+46,EPL,2018-09-15, 17:30,Watford V Manchester United,Watford,Manchester United
+47,EPL,2018-09-16, 13:30,Wolverhampton Wanderers V Burnley,Wolverhampton Wanderers,Burnley
+48,EPL,2018-09-16, 16:00,Everton V West Ham United,Everton,West Ham United
+49,EPL,2018-09-17, 20:00,Southampton V Brighton and Hove Albion,Southampton,Brighton and Hove Albion
+50,EPL,2018-09-22, 12:30,Fulham V Watford,Fulham,Watford
+51,EPL,2018-09-22, 15:00,Burnley V Bournemouth,Burnley,Bournemouth
+52,EPL,2018-09-22, 15:00,Cardiff City V Manchester City,Cardiff City,Manchester City
+53,EPL,2018-09-22, 15:00,Crystal Palace V Newcastle United,Crystal Palace,Newcastle United
+54,EPL,2018-09-22, 15:00,Leicester City V Huddersfield Town,Leicester City,Huddersfield Town
+55,EPL,2018-09-22, 15:00,Liverpool V Southampton,Liverpool,Southampton
+56,EPL,2018-09-22, 15:00,Manchester United V Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers
+57,EPL,2018-09-22, 17:30,Brighton and Hove Albion V Tottenham Hotspur,Brighton and Hove Albion,Tottenham Hotspur
+58,EPL,2018-09-23, 13:30,West Ham United V Chelsea,West Ham United,Chelsea
+59,EPL,2018-09-23, 16:00,Arsenal V Everton,Arsenal,Everton
+60,EPL,2018-09-29, 12:30,West Ham United V Manchester United,West Ham United,Manchester United
+61,EPL,2018-09-29, 15:00,Arsenal V Watford,Arsenal,Watford
+62,EPL,2018-09-29, 15:00,Everton V Fulham,Everton,Fulham
+63,EPL,2018-09-29, 15:00,Huddersfield Town V Tottenham Hotspur,Huddersfield Town,Tottenham Hotspur
+64,EPL,2018-09-29, 15:00,Manchester City V Brighton and Hove Albion,Manchester City,Brighton and Hove Albion
+65,EPL,2018-09-29, 15:00,Newcastle United V Leicester City,Newcastle United,Leicester City
+66,EPL,2018-09-29, 15:00,Wolverhampton Wanderers V Southampton,Wolverhampton Wanderers,Southampton
+67,EPL,2018-09-29, 17:30,Chelsea V Liverpool,Chelsea,Liverpool
+68,EPL,2018-09-30, 16:00,Cardiff City V Burnley,Cardiff City,Burnley
+69,EPL,2018-10-01, 20:00,Bournemouth V Crystal Palace,Bournemouth,Crystal Palace
+70,EPL,2018-10-05, 20:00,Brighton and Hove Albion V West Ham United,Brighton and Hove Albion,West Ham United
+71,EPL,2018-10-06, 15:00,Burnley V Huddersfield Town,Burnley,Huddersfield Town
+72,EPL,2018-10-06, 15:00,Crystal Palace V Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers
+73,EPL,2018-10-06, 15:00,Leicester City V Everton,Leicester City,Everton
+74,EPL,2018-10-06, 15:00,Tottenham Hotspur V Cardiff City,Tottenham Hotspur,Cardiff City
+75,EPL,2018-10-06, 15:00,Watford V Bournemouth,Watford,Bournemouth
+76,EPL,2018-10-06, 17:30,Manchester United V Newcastle United,Manchester United,Newcastle United
+77,EPL,2018-10-07, 12:00,Fulham V Arsenal,Fulham,Arsenal
+78,EPL,2018-10-07, 14:15,Southampton V Chelsea,Southampton,Chelsea
+79,EPL,2018-10-07, 16:30,Liverpool V Manchester City,Liverpool,Manchester City
+80,EPL,2018-10-20, 12:30,Chelsea V Manchester United,Chelsea,Manchester United
+81,EPL,2018-10-20, 15:00,Bournemouth V Southampton,Bournemouth,Southampton
+82,EPL,2018-10-20, 15:00,Cardiff City V Fulham,Cardiff City,Fulham
+83,EPL,2018-10-20, 15:00,Manchester City V Burnley,Manchester City,Burnley
+84,EPL,2018-10-20, 15:00,Newcastle United V Brighton and Hove Albion,Newcastle United,Brighton and Hove Albion
+85,EPL,2018-10-20, 15:00,West Ham United V Tottenham Hotspur,West Ham United,Tottenham Hotspur
+86,EPL,2018-10-20, 15:00,Wolverhampton Wanderers V Watford,Wolverhampton Wanderers,Watford
+87,EPL,2018-10-20, 17:30,Huddersfield Town V Liverpool,Huddersfield Town,Liverpool
+88,EPL,2018-10-21, 16:00,Everton V Crystal Palace,Everton,Crystal Palace
+89,EPL,2018-10-22, 20:00,Arsenal V Leicester City,Arsenal,Leicester City
+90,EPL,2018-10-27, 12:30,Manchester United V Everton,Manchester United,Everton
+91,EPL,2018-10-27, 15:00,Brighton and Hove Albion V Wolverhampton Wanderers,Brighton and Hove Albion,Wolverhampton Wanderers
+92,EPL,2018-10-27, 15:00,Fulham V Bournemouth,Fulham,Bournemouth
+93,EPL,2018-10-27, 15:00,Liverpool V Cardiff City,Liverpool,Cardiff City
+94,EPL,2018-10-27, 15:00,Southampton V Newcastle United,Southampton,Newcastle United
+95,EPL,2018-10-27, 15:00,Watford V Huddersfield Town,Watford,Huddersfield Town
+96,EPL,2018-10-27, 17:30,Leicester City V West Ham United,Leicester City,West Ham United
+97,EPL,2018-10-28, 13:30,Burnley V Chelsea,Burnley,Chelsea
+98,EPL,2018-10-28, 13:30,Crystal Palace V Arsenal,Crystal Palace,Arsenal
+99,EPL,2018-10-28, 16:00,Tottenham Hotspur V Manchester City,Tottenham Hotspur,Manchester City
+100,EPL,2018-11-03, 12:30,Bournemouth V Manchester United,Bournemouth,Manchester United
+101,EPL,2018-11-03, 15:00,Cardiff City V Leicester City,Cardiff City,Leicester City
+102,EPL,2018-11-03, 15:00,Everton V Brighton and Hove Albion,Everton,Brighton and Hove Albion
+103,EPL,2018-11-03, 15:00,Manchester City V Southampton,Manchester City,Southampton
+104,EPL,2018-11-03, 15:00,Newcastle United V Watford,Newcastle United,Watford
+105,EPL,2018-11-03, 15:00,West Ham United V Burnley,West Ham United,Burnley
+106,EPL,2018-11-03, 17:30,Arsenal V Liverpool,Arsenal,Liverpool
+107,EPL,2018-11-04, 13:30,Wolverhampton Wanderers V Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur
+108,EPL,2018-11-04, 16:00,Chelsea V Crystal Palace,Chelsea,Crystal Palace
+109,EPL,2018-11-05, 20:00,Huddersfield Town V Fulham,Huddersfield Town,Fulham
+110,EPL,2018-11-10, 12:30,Cardiff City V Brighton and Hove Albion,Cardiff City,Brighton and Hove Albion
+111,EPL,2018-11-10, 15:00,Huddersfield Town V West Ham United,Huddersfield Town,West Ham United
+112,EPL,2018-11-10, 15:00,Leicester City V Burnley,Leicester City,Burnley
+113,EPL,2018-11-10, 15:00,Newcastle United V Bournemouth,Newcastle United,Bournemouth
+114,EPL,2018-11-10, 15:00,Southampton V Watford,Southampton,Watford
+115,EPL,2018-11-10, 17:30,Crystal Palace V Tottenham Hotspur,Crystal Palace,Tottenham Hotspur
+116,EPL,2018-11-11, 12:00,Liverpool V Fulham,Liverpool,Fulham
+117,EPL,2018-11-11, 14:15,Chelsea V Everton,Chelsea,Everton
+118,EPL,2018-11-11, 16:30,Arsenal V Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers
+119,EPL,2018-11-11, 16:30,Manchester City V Manchester United,Manchester City,Manchester United
+120,EPL,2018-11-24, 15:00,Brighton and Hove Albion V Leicester City,Brighton and Hove Albion,Leicester City
+121,EPL,2018-11-24, 15:00,Everton V Cardiff City,Everton,Cardiff City
+122,EPL,2018-11-24, 15:00,Fulham V Southampton,Fulham,Southampton
+123,EPL,2018-11-24, 15:00,Manchester United V Crystal Palace,Manchester United,Crystal Palace
+124,EPL,2018-11-24, 15:00,Watford V Liverpool,Watford,Liverpool
+125,EPL,2018-11-24, 15:00,West Ham United V Manchester City,West Ham United,Manchester City
+126,EPL,2018-11-24, 17:30,Tottenham Hotspur V Chelsea,Tottenham Hotspur,Chelsea
+127,EPL,2018-11-25, 13:30,Bournemouth V Arsenal,Bournemouth,Arsenal
+128,EPL,2018-11-25, 16:00,Wolverhampton Wanderers V Huddersfield Town,Wolverhampton Wanderers,Huddersfield Town
+129,EPL,2018-11-26, 20:00,Burnley V Newcastle United,Burnley,Newcastle United
+130,EPL,2018-12-01, 15:00,Arsenal V Tottenham Hotspur,Arsenal,Tottenham Hotspur
+131,EPL,2018-12-01, 15:00,Cardiff City V Wolverhampton Wanderers,Cardiff City,Wolverhampton Wanderers
+132,EPL,2018-12-01, 15:00,Chelsea V Fulham,Chelsea,Fulham
+133,EPL,2018-12-01, 15:00,Crystal Palace V Burnley,Crystal Palace,Burnley
+134,EPL,2018-12-01, 15:00,Huddersfield Town V Brighton and Hove Albion,Huddersfield Town,Brighton and Hove Albion
+135,EPL,2018-12-01, 15:00,Leicester City V Watford,Leicester City,Watford
+136,EPL,2018-12-01, 15:00,Liverpool V Everton,Liverpool,Everton
+137,EPL,2018-12-01, 15:00,Manchester City V Bournemouth,Manchester City,Bournemouth
+138,EPL,2018-12-01, 15:00,Newcastle United V West Ham United,Newcastle United,West Ham United
+139,EPL,2018-12-01, 15:00,Southampton V Manchester United,Southampton,Manchester United
+140,EPL,2018-12-04, 19:45,Bournemouth V Huddersfield Town,Bournemouth,Huddersfield Town
+141,EPL,2018-12-04, 19:45,Brighton and Hove Albion V Crystal Palace,Brighton and Hove Albion,Crystal Palace
+142,EPL,2018-12-04, 19:45,Burnley V Liverpool,Burnley,Liverpool
+143,EPL,2018-12-04, 19:45,Fulham V Leicester City,Fulham,Leicester City
+144,EPL,2018-12-04, 19:45,Watford V Manchester City,Watford,Manchester City
+145,EPL,2018-12-04, 19:45,West Ham United V Cardiff City,West Ham United,Cardiff City
+146,EPL,2018-12-04, 19:45,Wolverhampton Wanderers V Chelsea,Wolverhampton Wanderers,Chelsea
+147,EPL,2018-12-04, 20:00,Manchester United V Arsenal,Manchester United,Arsenal
+148,EPL,2018-12-05, 19:45,Everton V Newcastle United,Everton,Newcastle United
+149,EPL,2018-12-05, 20:00,Tottenham Hotspur V Southampton,Tottenham Hotspur,Southampton
+150,EPL,2018-12-08, 15:00,Arsenal V Huddersfield Town,Arsenal,Huddersfield Town
+151,EPL,2018-12-08, 15:00,Bournemouth V Liverpool,Bournemouth,Liverpool
+152,EPL,2018-12-08, 15:00,Burnley V Brighton and Hove Albion,Burnley,Brighton and Hove Albion
+153,EPL,2018-12-08, 15:00,Cardiff City V Southampton,Cardiff City,Southampton
+154,EPL,2018-12-08, 15:00,Chelsea V Manchester City,Chelsea,Manchester City
+155,EPL,2018-12-08, 15:00,Everton V Watford,Everton,Watford
+156,EPL,2018-12-08, 15:00,Leicester City V Tottenham Hotspur,Leicester City,Tottenham Hotspur
+157,EPL,2018-12-08, 15:00,Manchester United V Fulham,Manchester United,Fulham
+158,EPL,2018-12-08, 15:00,Newcastle United V Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers
+159,EPL,2018-12-08, 15:00,West Ham United V Crystal Palace,West Ham United,Crystal Palace
+160,EPL,2018-12-15, 15:00,Brighton and Hove Albion V Chelsea,Brighton and Hove Albion,Chelsea
+161,EPL,2018-12-15, 15:00,Crystal Palace V Leicester City,Crystal Palace,Leicester City
+162,EPL,2018-12-15, 15:00,Fulham V West Ham United,Fulham,West Ham United
+163,EPL,2018-12-15, 15:00,Huddersfield Town V Newcastle United,Huddersfield Town,Newcastle United
+164,EPL,2018-12-15, 15:00,Liverpool V Manchester United,Liverpool,Manchester United
+165,EPL,2018-12-15, 15:00,Manchester City V Everton,Manchester City,Everton
+166,EPL,2018-12-15, 15:00,Southampton V Arsenal,Southampton,Arsenal
+167,EPL,2018-12-15, 15:00,Tottenham Hotspur V Burnley,Tottenham Hotspur,Burnley
+168,EPL,2018-12-15, 15:00,Watford V Cardiff City,Watford,Cardiff City
+169,EPL,2018-12-15, 15:00,Wolverhampton Wanderers V Bournemouth,Wolverhampton Wanderers,Bournemouth
+170,EPL,2018-12-22, 15:00,Arsenal V Burnley,Arsenal,Burnley
+171,EPL,2018-12-22, 15:00,Bournemouth V Brighton and Hove Albion,Bournemouth,Brighton and Hove Albion
+172,EPL,2018-12-22, 15:00,Cardiff City V Manchester United,Cardiff City,Manchester United
+173,EPL,2018-12-22, 15:00,Chelsea V Leicester City,Chelsea,Leicester City
+174,EPL,2018-12-22, 15:00,Everton V Tottenham Hotspur,Everton,Tottenham Hotspur
+175,EPL,2018-12-22, 15:00,Huddersfield Town V Southampton,Huddersfield Town,Southampton
+176,EPL,2018-12-22, 15:00,Manchester City V Crystal Palace,Manchester City,Crystal Palace
+177,EPL,2018-12-22, 15:00,Newcastle United V Fulham,Newcastle United,Fulham
+178,EPL,2018-12-22, 15:00,West Ham United V Watford,West Ham United,Watford
+179,EPL,2018-12-22, 15:00,Wolverhampton Wanderers V Liverpool,Wolverhampton Wanderers,Liverpool
+180,EPL,2018-12-26, 15:00,Brighton and Hove Albion V Arsenal,Brighton and Hove Albion,Arsenal
+181,EPL,2018-12-26, 15:00,Burnley V Everton,Burnley,Everton
+182,EPL,2018-12-26, 15:00,Crystal Palace V Cardiff City,Crystal Palace,Cardiff City
+183,EPL,2018-12-26, 15:00,Fulham V Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers
+184,EPL,2018-12-26, 15:00,Leicester City V Manchester City,Leicester City,Manchester City
+185,EPL,2018-12-26, 15:00,Liverpool V Newcastle United,Liverpool,Newcastle United
+186,EPL,2018-12-26, 15:00,Manchester United V Huddersfield Town,Manchester United,Huddersfield Town
+187,EPL,2018-12-26, 15:00,Southampton V West Ham United,Southampton,West Ham United
+188,EPL,2018-12-26, 15:00,Tottenham Hotspur V Bournemouth,Tottenham Hotspur,Bournemouth
+189,EPL,2018-12-26, 15:00,Watford V Chelsea,Watford,Chelsea
+190,EPL,2018-12-29, 15:00,Brighton and Hove Albion V Everton,Brighton and Hove Albion,Everton
+191,EPL,2018-12-29, 15:00,Burnley V West Ham United,Burnley,West Ham United
+192,EPL,2018-12-29, 15:00,Crystal Palace V Chelsea,Crystal Palace,Chelsea
+193,EPL,2018-12-29, 15:00,Fulham V Huddersfield Town,Fulham,Huddersfield Town
+194,EPL,2018-12-29, 15:00,Leicester City V Cardiff City,Leicester City,Cardiff City
+195,EPL,2018-12-29, 15:00,Liverpool V Arsenal,Liverpool,Arsenal
+196,EPL,2018-12-29, 15:00,Manchester United V Bournemouth,Manchester United,Bournemouth
+197,EPL,2018-12-29, 15:00,Southampton V Manchester City,Southampton,Manchester City
+198,EPL,2018-12-29, 15:00,Tottenham Hotspur V Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers
+199,EPL,2018-12-29, 15:00,Watford V Newcastle United,Watford,Newcastle United
+200,EPL,2019-01-01, 15:00,Arsenal V Fulham,Arsenal,Fulham
+201,EPL,2019-01-01, 15:00,Bournemouth V Watford,Bournemouth,Watford
+202,EPL,2019-01-01, 15:00,Cardiff City V Tottenham Hotspur,Cardiff City,Tottenham Hotspur
+203,EPL,2019-01-01, 15:00,Chelsea V Southampton,Chelsea,Southampton
+204,EPL,2019-01-01, 15:00,Everton V Leicester City,Everton,Leicester City
+205,EPL,2019-01-01, 15:00,Huddersfield Town V Burnley,Huddersfield Town,Burnley
+206,EPL,2019-01-01, 15:00,Manchester City V Liverpool,Manchester City,Liverpool
+207,EPL,2019-01-01, 15:00,Newcastle United V Manchester United,Newcastle United,Manchester United
+208,EPL,2019-01-01, 15:00,West Ham United V Brighton and Hove Albion,West Ham United,Brighton and Hove Albion
+209,EPL,2019-01-01, 15:00,Wolverhampton Wanderers V Crystal Palace,Wolverhampton Wanderers,Crystal Palace
+210,EPL,2019-01-12, 15:00,Brighton and Hove Albion V Liverpool,Brighton and Hove Albion,Liverpool
+211,EPL,2019-01-12, 15:00,Burnley V Fulham,Burnley,Fulham
+212,EPL,2019-01-12, 15:00,Cardiff City V Huddersfield Town,Cardiff City,Huddersfield Town
+213,EPL,2019-01-12, 15:00,Chelsea V Newcastle United,Chelsea,Newcastle United
+214,EPL,2019-01-12, 15:00,Crystal Palace V Watford,Crystal Palace,Watford
+215,EPL,2019-01-12, 15:00,Everton V Bournemouth,Everton,Bournemouth
+216,EPL,2019-01-12, 15:00,Leicester City V Southampton,Leicester City,Southampton
+217,EPL,2019-01-12, 15:00,Manchester City V Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers
+218,EPL,2019-01-12, 15:00,Tottenham Hotspur V Manchester United,Tottenham Hotspur,Manchester United
+219,EPL,2019-01-12, 15:00,West Ham United V Arsenal,West Ham United,Arsenal
+220,EPL,2019-01-19, 15:00,Arsenal V Chelsea,Arsenal,Chelsea
+221,EPL,2019-01-19, 15:00,Bournemouth V West Ham United,Bournemouth,West Ham United
+222,EPL,2019-01-19, 15:00,Fulham V Tottenham Hotspur,Fulham,Tottenham Hotspur
+223,EPL,2019-01-19, 15:00,Huddersfield Town V Manchester City,Huddersfield Town,Manchester City
+224,EPL,2019-01-19, 15:00,Liverpool V Crystal Palace,Liverpool,Crystal Palace
+225,EPL,2019-01-19, 15:00,Manchester United V Brighton and Hove Albion,Manchester United,Brighton and Hove Albion
+226,EPL,2019-01-19, 15:00,Newcastle United V Cardiff City,Newcastle United,Cardiff City
+227,EPL,2019-01-19, 15:00,Southampton V Everton,Southampton,Everton
+228,EPL,2019-01-19, 15:00,Watford V Burnley,Watford,Burnley
+229,EPL,2019-01-19, 15:00,Wolverhampton Wanderers V Leicester City,Wolverhampton Wanderers,Leicester City
+230,EPL,2019-01-29, 19:45,Arsenal V Cardiff City,Arsenal,Cardiff City
+231,EPL,2019-01-29, 19:45,Bournemouth V Chelsea,Bournemouth,Chelsea
+232,EPL,2019-01-29, 19:45,Fulham V Brighton and Hove Albion,Fulham,Brighton and Hove Albion
+233,EPL,2019-01-29, 19:45,Huddersfield Town V Everton,Huddersfield Town,Everton
+234,EPL,2019-01-29, 19:45,Wolverhampton Wanderers V West Ham United,Wolverhampton Wanderers,West Ham United
+235,EPL,2019-01-29, 20:00,Manchester United V Burnley,Manchester United,Burnley
+236,EPL,2019-01-30, 19:45,Newcastle United V Manchester City,Newcastle United,Manchester City
+237,EPL,2019-01-30, 19:45,Southampton V Crystal Palace,Southampton,Crystal Palace
+238,EPL,2019-01-30, 20:00,Liverpool V Leicester City,Liverpool,Leicester City
+239,EPL,2019-01-30, 20:00,Tottenham Hotspur V Watford,Tottenham Hotspur,Watford
+240,EPL,2019-02-02, 15:00,Brighton and Hove Albion V Watford,Brighton and Hove Albion,Watford
+241,EPL,2019-02-02, 15:00,Burnley V Southampton,Burnley,Southampton
+242,EPL,2019-02-02, 15:00,Cardiff City V Bournemouth,Cardiff City,Bournemouth
+243,EPL,2019-02-02, 15:00,Chelsea V Huddersfield Town,Chelsea,Huddersfield Town
+244,EPL,2019-02-02, 15:00,Crystal Palace V Fulham,Crystal Palace,Fulham
+245,EPL,2019-02-02, 15:00,Everton V Wolverhampton Wanderers,Everton,Wolverhampton Wanderers
+246,EPL,2019-02-02, 15:00,Leicester City V Manchester United,Leicester City,Manchester United
+247,EPL,2019-02-02, 15:00,Manchester City V Arsenal,Manchester City,Arsenal
+248,EPL,2019-02-02, 15:00,Tottenham Hotspur V Newcastle United,Tottenham Hotspur,Newcastle United
+249,EPL,2019-02-02, 15:00,West Ham United V Liverpool,West Ham United,Liverpool
+250,EPL,2019-02-09, 15:00,Brighton and Hove Albion V Burnley,Brighton and Hove Albion,Burnley
+251,EPL,2019-02-09, 15:00,Crystal Palace V West Ham United,Crystal Palace,West Ham United
+252,EPL,2019-02-09, 15:00,Fulham V Manchester United,Fulham,Manchester United
+253,EPL,2019-02-09, 15:00,Huddersfield Town V Arsenal,Huddersfield Town,Arsenal
+254,EPL,2019-02-09, 15:00,Liverpool V Bournemouth,Liverpool,Bournemouth
+255,EPL,2019-02-09, 15:00,Manchester City V Chelsea,Manchester City,Chelsea
+256,EPL,2019-02-09, 15:00,Southampton V Cardiff City,Southampton,Cardiff City
+257,EPL,2019-02-09, 15:00,Tottenham Hotspur V Leicester City,Tottenham Hotspur,Leicester City
+258,EPL,2019-02-09, 15:00,Watford V Everton,Watford,Everton
+259,EPL,2019-02-09, 15:00,Wolverhampton Wanderers V Newcastle United,Wolverhampton Wanderers,Newcastle United
+260,EPL,2019-02-23, 15:00,Arsenal V Southampton,Arsenal,Southampton
+261,EPL,2019-02-23, 15:00,Bournemouth V Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers
+262,EPL,2019-02-23, 15:00,Burnley V Tottenham Hotspur,Burnley,Tottenham Hotspur
+263,EPL,2019-02-23, 15:00,Cardiff City V Watford,Cardiff City,Watford
+264,EPL,2019-02-23, 15:00,Chelsea V Brighton and Hove Albion,Chelsea,Brighton and Hove Albion
+265,EPL,2019-02-23, 15:00,Everton V Manchester City,Everton,Manchester City
+266,EPL,2019-02-23, 15:00,Leicester City V Crystal Palace,Leicester City,Crystal Palace
+267,EPL,2019-02-23, 15:00,Manchester United V Liverpool,Manchester United,Liverpool
+268,EPL,2019-02-23, 15:00,Newcastle United V Huddersfield Town,Newcastle United,Huddersfield Town
+269,EPL,2019-02-23, 15:00,West Ham United V Fulham,West Ham United,Fulham
+270,EPL,2019-02-26, 19:45,Arsenal V Bournemouth,Arsenal,Bournemouth
+271,EPL,2019-02-26, 19:45,Cardiff City V Everton,Cardiff City,Everton
+272,EPL,2019-02-26, 19:45,Huddersfield Town V Wolverhampton Wanderers,Huddersfield Town,Wolverhampton Wanderers
+273,EPL,2019-02-26, 19:45,Leicester City V Brighton and Hove Albion,Leicester City,Brighton and Hove Albion
+274,EPL,2019-02-26, 20:00,Crystal Palace V Manchester United,Crystal Palace,Manchester United
+275,EPL,2019-02-27, 19:45,Chelsea V Tottenham Hotspur,Chelsea,Tottenham Hotspur
+276,EPL,2019-02-27, 19:45,Newcastle United V Burnley,Newcastle United,Burnley
+277,EPL,2019-02-27, 19:45,Southampton V Fulham,Southampton,Fulham
+278,EPL,2019-02-27, 20:00,Liverpool V Watford,Liverpool,Watford
+279,EPL,2019-02-27, 20:00,Manchester City V West Ham United,Manchester City,West Ham United
+280,EPL,2019-03-02, 15:00,Bournemouth V Manchester City,Bournemouth,Manchester City
+281,EPL,2019-03-02, 15:00,Brighton and Hove Albion V Huddersfield Town,Brighton and Hove Albion,Huddersfield Town
+282,EPL,2019-03-02, 15:00,Burnley V Crystal Palace,Burnley,Crystal Palace
+283,EPL,2019-03-02, 15:00,Everton V Liverpool,Everton,Liverpool
+284,EPL,2019-03-02, 15:00,Fulham V Chelsea,Fulham,Chelsea
+285,EPL,2019-03-02, 15:00,Manchester United V Southampton,Manchester United,Southampton
+286,EPL,2019-03-02, 15:00,Tottenham Hotspur V Arsenal,Tottenham Hotspur,Arsenal
+287,EPL,2019-03-02, 15:00,Watford V Leicester City,Watford,Leicester City
+288,EPL,2019-03-02, 15:00,West Ham United V Newcastle United,West Ham United,Newcastle United
+289,EPL,2019-03-02, 15:00,Wolverhampton Wanderers V Cardiff City,Wolverhampton Wanderers,Cardiff City
+290,EPL,2019-03-09, 15:00,Arsenal V Manchester United,Arsenal,Manchester United
+291,EPL,2019-03-09, 15:00,Cardiff City V West Ham United,Cardiff City,West Ham United
+292,EPL,2019-03-09, 15:00,Chelsea V Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers
+293,EPL,2019-03-09, 15:00,Crystal Palace V Brighton and Hove Albion,Crystal Palace,Brighton and Hove Albion
+294,EPL,2019-03-09, 15:00,Huddersfield Town V Bournemouth,Huddersfield Town,Bournemouth
+295,EPL,2019-03-09, 15:00,Leicester City V Fulham,Leicester City,Fulham
+296,EPL,2019-03-09, 15:00,Liverpool V Burnley,Liverpool,Burnley
+297,EPL,2019-03-09, 15:00,Manchester City V Watford,Manchester City,Watford
+298,EPL,2019-03-09, 15:00,Newcastle United V Everton,Newcastle United,Everton
+299,EPL,2019-03-09, 15:00,Southampton V Tottenham Hotspur,Southampton,Tottenham Hotspur
+300,EPL,2019-03-16, 15:00,Bournemouth V Newcastle United,Bournemouth,Newcastle United
+301,EPL,2019-03-16, 15:00,Brighton and Hove Albion V Cardiff City,Brighton and Hove Albion,Cardiff City
+302,EPL,2019-03-16, 15:00,Burnley V Leicester City,Burnley,Leicester City
+303,EPL,2019-03-16, 15:00,Everton V Chelsea,Everton,Chelsea
+304,EPL,2019-03-16, 15:00,Fulham V Liverpool,Fulham,Liverpool
+305,EPL,2019-03-16, 15:00,Manchester United V Manchester City,Manchester United,Manchester City
+306,EPL,2019-03-16, 15:00,Tottenham Hotspur V Crystal Palace,Tottenham Hotspur,Crystal Palace
+307,EPL,2019-03-16, 15:00,Watford V Southampton,Watford,Southampton
+308,EPL,2019-03-16, 15:00,West Ham United V Huddersfield Town,West Ham United,Huddersfield Town
+309,EPL,2019-03-16, 15:00,Wolverhampton Wanderers V Arsenal,Wolverhampton Wanderers,Arsenal
+310,EPL,2019-03-30, 15:00,Arsenal V Newcastle United,Arsenal,Newcastle United
+311,EPL,2019-03-30, 15:00,Brighton and Hove Albion V Southampton,Brighton and Hove Albion,Southampton
+312,EPL,2019-03-30, 15:00,Burnley V Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers
+313,EPL,2019-03-30, 15:00,Cardiff City V Chelsea,Cardiff City,Chelsea
+314,EPL,2019-03-30, 15:00,Crystal Palace V Huddersfield Town,Crystal Palace,Huddersfield Town
+315,EPL,2019-03-30, 15:00,Fulham V Manchester City,Fulham,Manchester City
+316,EPL,2019-03-30, 15:00,Leicester City V Bournemouth,Leicester City,Bournemouth
+317,EPL,2019-03-30, 15:00,Liverpool V Tottenham Hotspur,Liverpool,Tottenham Hotspur
+318,EPL,2019-03-30, 15:00,Manchester United V Watford,Manchester United,Watford
+319,EPL,2019-03-30, 15:00,West Ham United V Everton,West Ham United,Everton
+320,EPL,2019-04-06, 15:00,Bournemouth V Burnley,Bournemouth,Burnley
+321,EPL,2019-04-06, 15:00,Chelsea V West Ham United,Chelsea,West Ham United
+322,EPL,2019-04-06, 15:00,Everton V Arsenal,Everton,Arsenal
+323,EPL,2019-04-06, 15:00,Huddersfield Town V Leicester City,Huddersfield Town,Leicester City
+324,EPL,2019-04-06, 15:00,Manchester City V Cardiff City,Manchester City,Cardiff City
+325,EPL,2019-04-06, 15:00,Newcastle United V Crystal Palace,Newcastle United,Crystal Palace
+326,EPL,2019-04-06, 15:00,Southampton V Liverpool,Southampton,Liverpool
+327,EPL,2019-04-06, 15:00,Tottenham Hotspur V Brighton and Hove Albion,Tottenham Hotspur,Brighton and Hove Albion
+328,EPL,2019-04-06, 15:00,Watford V Fulham,Watford,Fulham
+329,EPL,2019-04-06, 15:00,Wolverhampton Wanderers V Manchester United,Wolverhampton Wanderers,Manchester United
+330,EPL,2019-04-13, 15:00,Brighton and Hove Albion V Bournemouth,Brighton and Hove Albion,Bournemouth
+331,EPL,2019-04-13, 15:00,Burnley V Cardiff City,Burnley,Cardiff City
+332,EPL,2019-04-13, 15:00,Crystal Palace V Manchester City,Crystal Palace,Manchester City
+333,EPL,2019-04-13, 15:00,Fulham V Everton,Fulham,Everton
+334,EPL,2019-04-13, 15:00,Leicester City V Newcastle United,Leicester City,Newcastle United
+335,EPL,2019-04-13, 15:00,Liverpool V Chelsea,Liverpool,Chelsea
+336,EPL,2019-04-13, 15:00,Manchester United V West Ham United,Manchester United,West Ham United
+337,EPL,2019-04-13, 15:00,Southampton V Wolverhampton Wanderers,Southampton,Wolverhampton Wanderers
+338,EPL,2019-04-13, 15:00,Tottenham Hotspur V Huddersfield Town,Tottenham Hotspur,Huddersfield Town
+339,EPL,2019-04-13, 15:00,Watford V Arsenal,Watford,Arsenal
+340,EPL,2019-04-20, 15:00,Arsenal V Crystal Palace,Arsenal,Crystal Palace
+341,EPL,2019-04-20, 15:00,Bournemouth V Fulham,Bournemouth,Fulham
+342,EPL,2019-04-20, 15:00,Cardiff City V Liverpool,Cardiff City,Liverpool
+343,EPL,2019-04-20, 15:00,Chelsea V Burnley,Chelsea,Burnley
+344,EPL,2019-04-20, 15:00,Everton V Manchester United,Everton,Manchester United
+345,EPL,2019-04-20, 15:00,Huddersfield Town V Watford,Huddersfield Town,Watford
+346,EPL,2019-04-20, 15:00,Manchester City V Tottenham Hotspur,Manchester City,Tottenham Hotspur
+347,EPL,2019-04-20, 15:00,Newcastle United V Southampton,Newcastle United,Southampton
+348,EPL,2019-04-20, 15:00,West Ham United V Leicester City,West Ham United,Leicester City
+349,EPL,2019-04-20, 15:00,Wolverhampton Wanderers V Brighton and Hove Albion,Wolverhampton Wanderers,Brighton and Hove Albion
+350,EPL,2019-04-27, 15:00,Brighton and Hove Albion V Newcastle United,Brighton and Hove Albion,Newcastle United
+351,EPL,2019-04-27, 15:00,Burnley V Manchester City,Burnley,Manchester City
+352,EPL,2019-04-27, 15:00,Crystal Palace V Everton,Crystal Palace,Everton
+353,EPL,2019-04-27, 15:00,Fulham V Cardiff City,Fulham,Cardiff City
+354,EPL,2019-04-27, 15:00,Leicester City V Arsenal,Leicester City,Arsenal
+355,EPL,2019-04-27, 15:00,Liverpool V Huddersfield Town,Liverpool,Huddersfield Town
+356,EPL,2019-04-27, 15:00,Manchester United V Chelsea,Manchester United,Chelsea
+357,EPL,2019-04-27, 15:00,Southampton V Bournemouth,Southampton,Bournemouth
+358,EPL,2019-04-27, 15:00,Tottenham Hotspur V West Ham United,Tottenham Hotspur,West Ham United
+359,EPL,2019-04-27, 15:00,Watford V Wolverhampton Wanderers,Watford,Wolverhampton Wanderers
+360,EPL,2019-05-04, 15:00,Arsenal V Brighton and Hove Albion,Arsenal,Brighton and Hove Albion
+361,EPL,2019-05-04, 15:00,Bournemouth V Tottenham Hotspur,Bournemouth,Tottenham Hotspur
+362,EPL,2019-05-04, 15:00,Cardiff City V Crystal Palace,Cardiff City,Crystal Palace
+363,EPL,2019-05-04, 15:00,Chelsea V Watford,Chelsea,Watford
+364,EPL,2019-05-04, 15:00,Everton V Burnley,Everton,Burnley
+365,EPL,2019-05-04, 15:00,Huddersfield Town V Manchester United,Huddersfield Town,Manchester United
+366,EPL,2019-05-04, 15:00,Manchester City V Leicester City,Manchester City,Leicester City
+367,EPL,2019-05-04, 15:00,Newcastle United V Liverpool,Newcastle United,Liverpool
+368,EPL,2019-05-04, 15:00,West Ham United V Southampton,West Ham United,Southampton
+369,EPL,2019-05-04, 15:00,Wolverhampton Wanderers V Fulham,Wolverhampton Wanderers,Fulham
+370,EPL,2019-05-12, 15:00,Brighton and Hove Albion V Manchester City,Brighton and Hove Albion,Manchester City
+371,EPL,2019-05-12, 15:00,Burnley V Arsenal,Burnley,Arsenal
+372,EPL,2019-05-12, 15:00,Crystal Palace V Bournemouth,Crystal Palace,Bournemouth
+373,EPL,2019-05-12, 15:00,Fulham V Newcastle United,Fulham,Newcastle United
+374,EPL,2019-05-12, 15:00,Leicester City V Chelsea,Leicester City,Chelsea
+375,EPL,2019-05-12, 15:00,Liverpool V Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers
+376,EPL,2019-05-12, 15:00,Manchester United V Cardiff City,Manchester United,Cardiff City
+377,EPL,2019-05-12, 15:00,Southampton V Huddersfield Town,Southampton,Huddersfield Town
+378,EPL,2019-05-12, 15:00,Tottenham Hotspur V Everton,Tottenham Hotspur,Everton
+379,EPL,2019-05-12, 15:00,Watford V West Ham United,Watford,West Ham United
+380,EC,2018-08-03,20:00:00,Reading V Derby County,Reading,Derby County
+381,EC,2018-08-04,15:00:00,Birmingham City V Norwich City,Birmingham City,Norwich City
+382,EC,2018-08-04,15:00:00,Brentford V Rotherham United,Brentford,Rotherham United
+383,EC,2018-08-04,15:00:00,Bristol City V Nottingham Forest,Bristol City,Nottingham Forest
+384,EC,2018-08-04,15:00:00,Ipswich Town V Blackburn Rovers,Ipswich Town,Blackburn Rovers
+385,EC,2018-08-04,15:00:00,Millwall V Middlesbrough,Millwall,Middlesbrough
+386,EC,2018-08-04,15:00:00,Preston North End V Queens Park Rangers,Preston North End,Queens Park Rangers
+387,EC,2018-08-04,15:00:00,West Bromwich Albion V Bolton Wanderers,West Bromwich Albion,Bolton Wanderers
+388,EC,2018-08-04,15:00:00,Wigan Athletic V Sheffield Wednesday,Wigan Athletic,Sheffield Wednesday
+389,EC,2018-08-04,17:30:00,Sheffield United V Swansea City,Sheffield United,Swansea City
+390,EC,2018-08-05,16:30:00,Leeds United V Stoke City,Leeds United,Stoke City
+391,EC,2018-08-06,19:45:00,Hull City V Aston Villa,Hull City,Aston Villa
+392,EC,2018-08-07,19:45:00,Middlesbrough V Sheffield United,Middlesbrough,Sheffield United
+393,EC,2018-08-07,19:45:00,Nottingham Forest V West Bromwich Albion,Nottingham Forest,West Bromwich Albion
+394,EC,2018-08-11,15:00:00,Aston Villa V Wigan Athletic,Aston Villa,Wigan Athletic
+395,EC,2018-08-11,15:00:00,Blackburn Rovers V Millwall,Blackburn Rovers,Millwall
+396,EC,2018-08-11,15:00:00,Bolton Wanderers V Bristol City,Bolton Wanderers,Bristol City
+397,EC,2018-08-11,15:00:00,Middlesbrough V Birmingham City,Middlesbrough,Birmingham City
+398,EC,2018-08-11,15:00:00,Norwich City V West Bromwich Albion,Norwich City,West Bromwich Albion
+399,EC,2018-08-11,15:00:00,Nottingham Forest V Reading,Nottingham Forest,Reading
+400,EC,2018-08-11,15:00:00,Queens Park Rangers V Sheffield United,Queens Park Rangers,Sheffield United
+401,EC,2018-08-11,15:00:00,Rotherham United V Ipswich Town,Rotherham United,Ipswich Town
+402,EC,2018-08-11,15:00:00,Sheffield Wednesday V Hull City,Sheffield Wednesday,Hull City
+403,EC,2018-08-11,15:00:00,Stoke City V Brentford,Stoke City,Brentford
+404,EC,2018-08-11,15:00:00,Swansea City V Preston North End,Swansea City,Preston North End
+405,EC,2018-08-11,17:30:00,Derby County V Leeds United,Derby County,Leeds United
+406,EC,2018-08-17, 19:45,Birmingham City V Swansea City,Birmingham City,Swansea City
+407,EC,2018-08-18, 15:00,Bristol City V Middlesbrough,Bristol City,Middlesbrough
+408,EC,2018-08-18, 15:00,Hull City V Blackburn Rovers,Hull City,Blackburn Rovers
+409,EC,2018-08-18, 15:00,Ipswich Town V Aston Villa,Ipswich Town,Aston Villa
+410,EC,2018-08-18, 15:00,Leeds United V Rotherham United,Leeds United,Rotherham United
+411,EC,2018-08-18, 15:00,Millwall V Derby County,Millwall,Derby County
+412,EC,2018-08-18, 15:00,Reading V Bolton Wanderers,Reading,Bolton Wanderers
+413,EC,2018-08-18, 15:00,Sheffield United V Norwich City,Sheffield United,Norwich City
+414,EC,2018-08-18, 15:00,West Bromwich Albion V Queens Park Rangers,West Bromwich Albion,Queens Park Rangers
+415,EC,2018-08-18, 15:00,Wigan Athletic V Nottingham Forest,Wigan Athletic,Nottingham Forest
+416,EC,2018-08-18, 17:30,Preston North End V Stoke City,Preston North End,Stoke City
+417,EC,2018-08-19, 15:00,Brentford V Sheffield Wednesday,Brentford,Sheffield Wednesday
+418,EC,2018-08-21, 19:45,Derby County V Ipswich Town,Derby County,Ipswich Town
+419,EC,2018-08-21, 19:45,Queens Park Rangers V Bristol City,Queens Park Rangers,Bristol City
+420,EC,2018-08-21, 19:45,Rotherham United V Hull City,Rotherham United,Hull City
+421,EC,2018-08-21, 19:45,Swansea City V Leeds United,Swansea City,Leeds United
+422,EC,2018-08-22, 19:45,Aston Villa V Brentford,Aston Villa,Brentford
+423,EC,2018-08-22, 19:45,Blackburn Rovers V Reading,Blackburn Rovers,Reading
+424,EC,2018-08-22, 19:45,Norwich City V Preston North End,Norwich City,Preston North End
+425,EC,2018-08-22, 19:45,Sheffield Wednesday V Millwall,Sheffield Wednesday,Millwall
+426,EC,2018-08-22, 20:00,Bolton Wanderers V Birmingham City,Bolton Wanderers,Birmingham City
+427,EC,2018-08-22, 20:00,Stoke City V Wigan Athletic,Stoke City,Wigan Athletic
+428,EC,2018-08-24, 19:45,Middlesbrough V West Bromwich Albion,Middlesbrough,West Bromwich Albion
+429,EC,2018-08-25, 15:00,Aston Villa V Reading,Aston Villa,Reading
+430,EC,2018-08-25, 15:00,Blackburn Rovers V Brentford,Blackburn Rovers,Brentford
+431,EC,2018-08-25, 15:00,Bolton Wanderers V Sheffield United,Bolton Wanderers,Sheffield United
+432,EC,2018-08-25, 15:00,Derby County V Preston North End,Derby County,Preston North End
+433,EC,2018-08-25, 15:00,Norwich City V Leeds United,Norwich City,Leeds United
+434,EC,2018-08-25, 15:00,Queens Park Rangers V Wigan Athletic,Queens Park Rangers,Wigan Athletic
+435,EC,2018-08-25, 15:00,Sheffield Wednesday V Ipswich Town,Sheffield Wednesday,Ipswich Town
+436,EC,2018-08-25, 15:00,Stoke City V Hull City,Stoke City,Hull City
+437,EC,2018-08-25, 15:00,Swansea City V Bristol City,Swansea City,Bristol City
+438,EC,2018-08-25, 17:30,Nottingham Forest V Birmingham City,Nottingham Forest,Birmingham City
+439,EC,2018-08-26, 12:30,Rotherham United V Millwall,Rotherham United,Millwall
+440,EC,2018-08-31, 19:45,Leeds United V Middlesbrough,Leeds United,Middlesbrough
+441,EC,2018-09-01, 15:00,Birmingham City V Queens Park Rangers,Birmingham City,Queens Park Rangers
+442,EC,2018-09-01, 15:00,Brentford V Nottingham Forest,Brentford,Nottingham Forest
+443,EC,2018-09-01, 15:00,Hull City V Derby County,Hull City,Derby County
+444,EC,2018-09-01, 15:00,Preston North End V Bolton Wanderers,Preston North End,Bolton Wanderers
+445,EC,2018-09-01, 15:00,Reading V Sheffield Wednesday,Reading,Sheffield Wednesday
+446,EC,2018-09-01, 15:00,Sheffield United V Aston Villa,Sheffield United,Aston Villa
+447,EC,2018-09-01, 15:00,West Bromwich Albion V Stoke City,West Bromwich Albion,Stoke City
+448,EC,2018-09-01, 15:00,Wigan Athletic V Rotherham United,Wigan Athletic,Rotherham United
+449,EC,2018-09-01, 17:30,Millwall V Swansea City,Millwall,Swansea City
+450,EC,2018-09-02, 12:00,Ipswich Town V Norwich City,Ipswich Town,Norwich City
+451,EC,2018-09-02, 13:30,Bristol City V Blackburn Rovers,Bristol City,Blackburn Rovers
+452,EC,2018-09-14, 19:45,Birmingham City V West Bromwich Albion,Birmingham City,West Bromwich Albion
+453,EC,2018-09-15, 15:00,Bolton Wanderers V Queens Park Rangers,Bolton Wanderers,Queens Park Rangers
+454,EC,2018-09-15, 15:00,Brentford V Wigan Athletic,Brentford,Wigan Athletic
+455,EC,2018-09-15, 15:00,Bristol City V Sheffield United,Bristol City,Sheffield United
+456,EC,2018-09-15, 15:00,Hull City V Ipswich Town,Hull City,Ipswich Town
+457,EC,2018-09-15, 15:00,Millwall V Leeds United,Millwall,Leeds United
+458,EC,2018-09-15, 15:00,Norwich City V Middlesbrough,Norwich City,Middlesbrough
+459,EC,2018-09-15, 15:00,Preston North End V Reading,Preston North End,Reading
+460,EC,2018-09-15, 15:00,Rotherham United V Derby County,Rotherham United,Derby County
+461,EC,2018-09-15, 15:00,Sheffield Wednesday V Stoke City,Sheffield Wednesday,Stoke City
+462,EC,2018-09-15, 15:00,Swansea City V Nottingham Forest,Swansea City,Nottingham Forest
+463,EC,2018-09-15, 17:30,Blackburn Rovers V Aston Villa,Blackburn Rovers,Aston Villa
+464,EC,2018-09-18, 19:45,Aston Villa V Rotherham United,Aston Villa,Rotherham United
+465,EC,2018-09-18, 19:45,Derby County V Blackburn Rovers,Derby County,Blackburn Rovers
+466,EC,2018-09-18, 19:45,Ipswich Town V Brentford,Ipswich Town,Brentford
+467,EC,2018-09-18, 19:45,Leeds United V Preston North End,Leeds United,Preston North End
+468,EC,2018-09-18, 19:45,Wigan Athletic V Hull City,Wigan Athletic,Hull City
+469,EC,2018-09-18, 20:00,Stoke City V Swansea City,Stoke City,Swansea City
+470,EC,2018-09-18, 20:00,West Bromwich Albion V Bristol City,West Bromwich Albion,Bristol City
+471,EC,2018-09-19, 19:45,Middlesbrough V Bolton Wanderers,Middlesbrough,Bolton Wanderers
+472,EC,2018-09-19, 19:45,Nottingham Forest V Sheffield Wednesday,Nottingham Forest,Sheffield Wednesday
+473,EC,2018-09-19, 19:45,Queens Park Rangers V Millwall,Queens Park Rangers,Millwall
+474,EC,2018-09-19, 19:45,Sheffield United V Birmingham City,Sheffield United,Birmingham City
+475,EC,2018-09-19, 20:00,Reading V Norwich City,Reading,Norwich City
+476,EC,2018-09-21, 19:45,Wigan Athletic V Bristol City,Wigan Athletic,Bristol City
+477,EC,2018-09-22, 15:00,Aston Villa V Sheffield Wednesday,Aston Villa,Sheffield Wednesday
+478,EC,2018-09-22, 15:00,Derby County V Brentford,Derby County,Brentford
+479,EC,2018-09-22, 15:00,Ipswich Town V Bolton Wanderers,Ipswich Town,Bolton Wanderers
+480,EC,2018-09-22, 15:00,Leeds United V Birmingham City,Leeds United,Birmingham City
+481,EC,2018-09-22, 15:00,Middlesbrough V Swansea City,Middlesbrough,Swansea City
+482,EC,2018-09-22, 15:00,Nottingham Forest V Rotherham United,Nottingham Forest,Rotherham United
+483,EC,2018-09-22, 15:00,Reading V Hull City,Reading,Hull City
+484,EC,2018-09-22, 15:00,Sheffield United V Preston North End,Sheffield United,Preston North End
+485,EC,2018-09-22, 15:00,Stoke City V Blackburn Rovers,Stoke City,Blackburn Rovers
+486,EC,2018-09-22, 15:00,West Bromwich Albion V Millwall,West Bromwich Albion,Millwall
+487,EC,2018-09-22, 17:30,Queens Park Rangers V Norwich City,Queens Park Rangers,Norwich City
+488,EC,2018-09-28, 19:45,Bristol City V Aston Villa,Bristol City,Aston Villa
+489,EC,2018-09-28, 19:45,Sheffield Wednesday V Leeds United,Sheffield Wednesday,Leeds United
+490,EC,2018-09-29, 15:00,Birmingham City V Ipswich Town,Birmingham City,Ipswich Town
+491,EC,2018-09-29, 15:00,Blackburn Rovers V Nottingham Forest,Blackburn Rovers,Nottingham Forest
+492,EC,2018-09-29, 15:00,Bolton Wanderers V Derby County,Bolton Wanderers,Derby County
+493,EC,2018-09-29, 15:00,Brentford V Reading,Brentford,Reading
+494,EC,2018-09-29, 15:00,Hull City V Middlesbrough,Hull City,Middlesbrough
+495,EC,2018-09-29, 15:00,Millwall V Sheffield United,Millwall,Sheffield United
+496,EC,2018-09-29, 15:00,Norwich City V Wigan Athletic,Norwich City,Wigan Athletic
+497,EC,2018-09-29, 15:00,Preston North End V West Bromwich Albion,Preston North End,West Bromwich Albion
+498,EC,2018-09-29, 15:00,Swansea City V Queens Park Rangers,Swansea City,Queens Park Rangers
+499,EC,2018-09-29, 17:30,Rotherham United V Stoke City,Rotherham United,Stoke City
+500,EC,2018-10-02, 19:45,Aston Villa V Preston North End,Aston Villa,Preston North End
+501,EC,2018-10-02, 19:45,Brentford V Birmingham City,Brentford,Birmingham City
+502,EC,2018-10-02, 19:45,Hull City V Leeds United,Hull City,Leeds United
+503,EC,2018-10-02, 19:45,Ipswich Town V Middlesbrough,Ipswich Town,Middlesbrough
+504,EC,2018-10-02, 19:45,Wigan Athletic V Swansea City,Wigan Athletic,Swansea City
+505,EC,2018-10-02, 20:00,Reading V Queens Park Rangers,Reading,Queens Park Rangers
+506,EC,2018-10-02, 20:00,Stoke City V Bolton Wanderers,Stoke City,Bolton Wanderers
+507,EC,2018-10-03, 19:45,Blackburn Rovers V Sheffield United,Blackburn Rovers,Sheffield United
+508,EC,2018-10-03, 19:45,Derby County V Norwich City,Derby County,Norwich City
+509,EC,2018-10-03, 19:45,Nottingham Forest V Millwall,Nottingham Forest,Millwall
+510,EC,2018-10-03, 19:45,Rotherham United V Bristol City,Rotherham United,Bristol City
+511,EC,2018-10-03, 19:45,Sheffield Wednesday V West Bromwich Albion,Sheffield Wednesday,West Bromwich Albion
+512,EC,2018-10-06, 15:00,Birmingham City V Rotherham United,Birmingham City,Rotherham United
+513,EC,2018-10-06, 15:00,Leeds United V Brentford,Leeds United,Brentford
+514,EC,2018-10-06, 15:00,Middlesbrough V Nottingham Forest,Middlesbrough,Nottingham Forest
+515,EC,2018-10-06, 15:00,Millwall V Aston Villa,Millwall,Aston Villa
+516,EC,2018-10-06, 15:00,Norwich City V Stoke City,Norwich City,Stoke City
+517,EC,2018-10-06, 15:00,Preston North End V Wigan Athletic,Preston North End,Wigan Athletic
+518,EC,2018-10-06, 15:00,Queens Park Rangers V Derby County,Queens Park Rangers,Derby County
+519,EC,2018-10-06, 15:00,Sheffield United V Hull City,Sheffield United,Hull City
+520,EC,2018-10-06, 15:00,Swansea City V Ipswich Town,Swansea City,Ipswich Town
+521,EC,2018-10-06, 15:00,West Bromwich Albion V Reading,West Bromwich Albion,Reading
+522,EC,2018-10-06, 17:30,Bolton Wanderers V Blackburn Rovers,Bolton Wanderers,Blackburn Rovers
+523,EC,2018-10-07, 13:30,Bristol City V Sheffield Wednesday,Bristol City,Sheffield Wednesday
+524,EC,2018-10-20, 12:00,Blackburn Rovers V Leeds United,Blackburn Rovers,Leeds United
+525,EC,2018-10-20, 15:00,Aston Villa V Swansea City,Aston Villa,Swansea City
+526,EC,2018-10-20, 15:00,Brentford V Bristol City,Brentford,Bristol City
+527,EC,2018-10-20, 15:00,Derby County V Sheffield United,Derby County,Sheffield United
+528,EC,2018-10-20, 15:00,Hull City V Preston North End,Hull City,Preston North End
+529,EC,2018-10-20, 15:00,Ipswich Town V Queens Park Rangers,Ipswich Town,Queens Park Rangers
+530,EC,2018-10-20, 15:00,Nottingham Forest V Norwich City,Nottingham Forest,Norwich City
+531,EC,2018-10-20, 15:00,Reading V Millwall,Reading,Millwall
+532,EC,2018-10-20, 15:00,Rotherham United V Bolton Wanderers,Rotherham United,Bolton Wanderers
+533,EC,2018-10-20, 15:00,Sheffield Wednesday V Middlesbrough,Sheffield Wednesday,Middlesbrough
+534,EC,2018-10-20, 15:00,Stoke City V Birmingham City,Stoke City,Birmingham City
+535,EC,2018-10-20, 15:00,Wigan Athletic V West Bromwich Albion,Wigan Athletic,West Bromwich Albion
+536,EC,2018-10-23, 19:45,Birmingham City V Reading,Birmingham City,Reading
+537,EC,2018-10-23, 19:45,Middlesbrough V Rotherham United,Middlesbrough,Rotherham United
+538,EC,2018-10-23, 19:45,Millwall V Wigan Athletic,Millwall,Wigan Athletic
+539,EC,2018-10-23, 19:45,Norwich City V Aston Villa,Norwich City,Aston Villa
+540,EC,2018-10-23, 19:45,Queens Park Rangers V Sheffield Wednesday,Queens Park Rangers,Sheffield Wednesday
+541,EC,2018-10-23, 19:45,Sheffield United V Stoke City,Sheffield United,Stoke City
+542,EC,2018-10-23, 19:45,Swansea City V Blackburn Rovers,Swansea City,Blackburn Rovers
+543,EC,2018-10-24, 19:45,Bristol City V Hull City,Bristol City,Hull City
+544,EC,2018-10-24, 19:45,Leeds United V Ipswich Town,Leeds United,Ipswich Town
+545,EC,2018-10-24, 19:45,Preston North End V Brentford,Preston North End,Brentford
+546,EC,2018-10-24, 20:00,Bolton Wanderers V Nottingham Forest,Bolton Wanderers,Nottingham Forest
+547,EC,2018-10-24, 20:00,West Bromwich Albion V Derby County,West Bromwich Albion,Derby County
+548,EC,2018-10-27, 15:00,Birmingham City V Sheffield Wednesday,Birmingham City,Sheffield Wednesday
+549,EC,2018-10-27, 15:00,Bolton Wanderers V Hull City,Bolton Wanderers,Hull City
+550,EC,2018-10-27, 15:00,Bristol City V Stoke City,Bristol City,Stoke City
+551,EC,2018-10-27, 15:00,Leeds United V Nottingham Forest,Leeds United,Nottingham Forest
+552,EC,2018-10-27, 15:00,Middlesbrough V Derby County,Middlesbrough,Derby County
+553,EC,2018-10-27, 15:00,Millwall V Ipswich Town,Millwall,Ipswich Town
+554,EC,2018-10-27, 15:00,Norwich City V Brentford,Norwich City,Brentford
+555,EC,2018-10-27, 15:00,Preston North End V Rotherham United,Preston North End,Rotherham United
+556,EC,2018-10-27, 15:00,Queens Park Rangers V Aston Villa,Queens Park Rangers,Aston Villa
+557,EC,2018-10-27, 15:00,Sheffield United V Wigan Athletic,Sheffield United,Wigan Athletic
+558,EC,2018-10-27, 15:00,Swansea City V Reading,Swansea City,Reading
+559,EC,2018-10-27, 15:00,West Bromwich Albion V Blackburn Rovers,West Bromwich Albion,Blackburn Rovers
+560,EC,2018-11-03, 15:00,Aston Villa V Bolton Wanderers,Aston Villa,Bolton Wanderers
+561,EC,2018-11-03, 15:00,Blackburn Rovers V Queens Park Rangers,Blackburn Rovers,Queens Park Rangers
+562,EC,2018-11-03, 15:00,Brentford V Millwall,Brentford,Millwall
+563,EC,2018-11-03, 15:00,Derby County V Birmingham City,Derby County,Birmingham City
+564,EC,2018-11-03, 15:00,Hull City V West Bromwich Albion,Hull City,West Bromwich Albion
+565,EC,2018-11-03, 15:00,Ipswich Town V Preston North End,Ipswich Town,Preston North End
+566,EC,2018-11-03, 15:00,Nottingham Forest V Sheffield United,Nottingham Forest,Sheffield United
+567,EC,2018-11-03, 15:00,Reading V Bristol City,Reading,Bristol City
+568,EC,2018-11-03, 15:00,Rotherham United V Swansea City,Rotherham United,Swansea City
+569,EC,2018-11-03, 15:00,Sheffield Wednesday V Norwich City,Sheffield Wednesday,Norwich City
+570,EC,2018-11-03, 15:00,Stoke City V Middlesbrough,Stoke City,Middlesbrough
+571,EC,2018-11-03, 15:00,Wigan Athletic V Leeds United,Wigan Athletic,Leeds United
+572,EC,2018-11-10, 15:00,Birmingham City V Hull City,Birmingham City,Hull City
+573,EC,2018-11-10, 15:00,Blackburn Rovers V Rotherham United,Blackburn Rovers,Rotherham United
+574,EC,2018-11-10, 15:00,Bolton Wanderers V Swansea City,Bolton Wanderers,Swansea City
+575,EC,2018-11-10, 15:00,Bristol City V Preston North End,Bristol City,Preston North End
+576,EC,2018-11-10, 15:00,Derby County V Aston Villa,Derby County,Aston Villa
+577,EC,2018-11-10, 15:00,Middlesbrough V Wigan Athletic,Middlesbrough,Wigan Athletic
+578,EC,2018-11-10, 15:00,Norwich City V Millwall,Norwich City,Millwall
+579,EC,2018-11-10, 15:00,Nottingham Forest V Stoke City,Nottingham Forest,Stoke City
+580,EC,2018-11-10, 15:00,Queens Park Rangers V Brentford,Queens Park Rangers,Brentford
+581,EC,2018-11-10, 15:00,Reading V Ipswich Town,Reading,Ipswich Town
+582,EC,2018-11-10, 15:00,Sheffield United V Sheffield Wednesday,Sheffield United,Sheffield Wednesday
+583,EC,2018-11-10, 15:00,West Bromwich Albion V Leeds United,West Bromwich Albion,Leeds United
+584,EC,2018-11-24, 15:00,Brentford V Middlesbrough,Brentford,Middlesbrough
+585,EC,2018-11-24, 15:00,Hull City V Nottingham Forest,Hull City,Nottingham Forest
+586,EC,2018-11-24, 15:00,Ipswich Town V West Bromwich Albion,Ipswich Town,West Bromwich Albion
+587,EC,2018-11-24, 15:00,Leeds United V Bristol City,Leeds United,Bristol City
+588,EC,2018-11-24, 15:00,Millwall V Bolton Wanderers,Millwall,Bolton Wanderers
+589,EC,2018-11-24, 15:00,Preston North End V Blackburn Rovers,Preston North End,Blackburn Rovers
+590,EC,2018-11-24, 15:00,Rotherham United V Sheffield United,Rotherham United,Sheffield United
+591,EC,2018-11-24, 15:00,Sheffield Wednesday V Derby County,Sheffield Wednesday,Derby County
+592,EC,2018-11-24, 15:00,Stoke City V Queens Park Rangers,Stoke City,Queens Park Rangers
+593,EC,2018-11-24, 15:00,Swansea City V Norwich City,Swansea City,Norwich City
+594,EC,2018-11-24, 15:00,Wigan Athletic V Reading,Wigan Athletic,Reading
+595,EC,2018-11-25, 12:00,Aston Villa V Birmingham City,Aston Villa,Birmingham City
+596,EC,2018-11-27, 19:45,Brentford V Sheffield United,Brentford,Sheffield United
+597,EC,2018-11-27, 19:45,Hull City V Norwich City,Hull City,Norwich City
+598,EC,2018-11-27, 19:45,Leeds United V Reading,Leeds United,Reading
+599,EC,2018-11-27, 19:45,Preston North End V Middlesbrough,Preston North End,Middlesbrough
+600,EC,2018-11-27, 19:45,Rotherham United V Queens Park Rangers,Rotherham United,Queens Park Rangers
+601,EC,2018-11-27, 19:45,Sheffield Wednesday V Bolton Wanderers,Sheffield Wednesday,Bolton Wanderers
+602,EC,2018-11-28, 19:45,Aston Villa V Nottingham Forest,Aston Villa,Nottingham Forest
+603,EC,2018-11-28, 19:45,Ipswich Town V Bristol City,Ipswich Town,Bristol City
+604,EC,2018-11-28, 19:45,Millwall V Birmingham City,Millwall,Birmingham City
+605,EC,2018-11-28, 19:45,Swansea City V West Bromwich Albion,Swansea City,West Bromwich Albion
+606,EC,2018-11-28, 19:45,Wigan Athletic V Blackburn Rovers,Wigan Athletic,Blackburn Rovers
+607,EC,2018-11-28, 20:00,Stoke City V Derby County,Stoke City,Derby County
+608,EC,2018-12-01, 12:15,Sheffield United V Leeds United,Sheffield United,Leeds United
+609,EC,2018-12-01, 15:00,Birmingham City V Preston North End,Birmingham City,Preston North End
+610,EC,2018-12-01, 15:00,Blackburn Rovers V Sheffield Wednesday,Blackburn Rovers,Sheffield Wednesday
+611,EC,2018-12-01, 15:00,Bolton Wanderers V Wigan Athletic,Bolton Wanderers,Wigan Athletic
+612,EC,2018-12-01, 15:00,Derby County V Swansea City,Derby County,Swansea City
+613,EC,2018-12-01, 15:00,Middlesbrough V Aston Villa,Middlesbrough,Aston Villa
+614,EC,2018-12-01, 15:00,Norwich City V Rotherham United,Norwich City,Rotherham United
+615,EC,2018-12-01, 15:00,Nottingham Forest V Ipswich Town,Nottingham Forest,Ipswich Town
+616,EC,2018-12-01, 15:00,Queens Park Rangers V Hull City,Queens Park Rangers,Hull City
+617,EC,2018-12-01, 15:00,Reading V Stoke City,Reading,Stoke City
+618,EC,2018-12-01, 15:00,West Bromwich Albion V Brentford,West Bromwich Albion,Brentford
+619,EC,2018-12-02, 13:30,Bristol City V Millwall,Bristol City,Millwall
+620,EC,2018-12-08, 15:00,Birmingham City V Bristol City,Birmingham City,Bristol City
+621,EC,2018-12-08, 15:00,Brentford V Swansea City,Brentford,Swansea City
+622,EC,2018-12-08, 15:00,Leeds United V Queens Park Rangers,Leeds United,Queens Park Rangers
+623,EC,2018-12-08, 15:00,Middlesbrough V Blackburn Rovers,Middlesbrough,Blackburn Rovers
+624,EC,2018-12-08, 15:00,Millwall V Hull City,Millwall,Hull City
+625,EC,2018-12-08, 15:00,Norwich City V Bolton Wanderers,Norwich City,Bolton Wanderers
+626,EC,2018-12-08, 15:00,Nottingham Forest V Preston North End,Nottingham Forest,Preston North End
+627,EC,2018-12-08, 15:00,Reading V Sheffield United,Reading,Sheffield United
+628,EC,2018-12-08, 15:00,Sheffield Wednesday V Rotherham United,Sheffield Wednesday,Rotherham United
+629,EC,2018-12-08, 15:00,Stoke City V Ipswich Town,Stoke City,Ipswich Town
+630,EC,2018-12-08, 15:00,West Bromwich Albion V Aston Villa,West Bromwich Albion,Aston Villa
+631,EC,2018-12-08, 15:00,Wigan Athletic V Derby County,Wigan Athletic,Derby County
+632,EC,2018-12-15, 13:00,Derby County V Nottingham Forest,Derby County,Nottingham Forest
+633,EC,2018-12-15, 15:00,Aston Villa V Stoke City,Aston Villa,Stoke City
+634,EC,2018-12-15, 15:00,Blackburn Rovers V Birmingham City,Blackburn Rovers,Birmingham City
+635,EC,2018-12-15, 15:00,Bolton Wanderers V Leeds United,Bolton Wanderers,Leeds United
+636,EC,2018-12-15, 15:00,Bristol City V Norwich City,Bristol City,Norwich City
+637,EC,2018-12-15, 15:00,Hull City V Brentford,Hull City,Brentford
+638,EC,2018-12-15, 15:00,Ipswich Town V Wigan Athletic,Ipswich Town,Wigan Athletic
+639,EC,2018-12-15, 15:00,Preston North End V Millwall,Preston North End,Millwall
+640,EC,2018-12-15, 15:00,Queens Park Rangers V Middlesbrough,Queens Park Rangers,Middlesbrough
+641,EC,2018-12-15, 15:00,Rotherham United V Reading,Rotherham United,Reading
+642,EC,2018-12-15, 15:00,Sheffield United V West Bromwich Albion,Sheffield United,West Bromwich Albion
+643,EC,2018-12-15, 15:00,Swansea City V Sheffield Wednesday,Swansea City,Sheffield Wednesday
+644,EC,2018-12-22, 15:00,Aston Villa V Leeds United,Aston Villa,Leeds United
+645,EC,2018-12-22, 15:00,Blackburn Rovers V Norwich City,Blackburn Rovers,Norwich City
+646,EC,2018-12-22, 15:00,Brentford V Bolton Wanderers,Brentford,Bolton Wanderers
+647,EC,2018-12-22, 15:00,Derby County V Bristol City,Derby County,Bristol City
+648,EC,2018-12-22, 15:00,Hull City V Swansea City,Hull City,Swansea City
+649,EC,2018-12-22, 15:00,Ipswich Town V Sheffield United,Ipswich Town,Sheffield United
+650,EC,2018-12-22, 15:00,Nottingham Forest V Queens Park Rangers,Nottingham Forest,Queens Park Rangers
+651,EC,2018-12-22, 15:00,Reading V Middlesbrough,Reading,Middlesbrough
+652,EC,2018-12-22, 15:00,Rotherham United V West Bromwich Albion,Rotherham United,West Bromwich Albion
+653,EC,2018-12-22, 15:00,Sheffield Wednesday V Preston North End,Sheffield Wednesday,Preston North End
+654,EC,2018-12-22, 15:00,Stoke City V Millwall,Stoke City,Millwall
+655,EC,2018-12-22, 15:00,Wigan Athletic V Birmingham City,Wigan Athletic,Birmingham City
+656,EC,2018-12-26, 15:00,Birmingham City V Stoke City,Birmingham City,Stoke City
+657,EC,2018-12-26, 15:00,Bolton Wanderers V Rotherham United,Bolton Wanderers,Rotherham United
+658,EC,2018-12-26, 15:00,Bristol City V Brentford,Bristol City,Brentford
+659,EC,2018-12-26, 15:00,Leeds United V Blackburn Rovers,Leeds United,Blackburn Rovers
+660,EC,2018-12-26, 15:00,Middlesbrough V Sheffield Wednesday,Middlesbrough,Sheffield Wednesday
+661,EC,2018-12-26, 15:00,Millwall V Reading,Millwall,Reading
+662,EC,2018-12-26, 15:00,Norwich City V Nottingham Forest,Norwich City,Nottingham Forest
+663,EC,2018-12-26, 15:00,Preston North End V Hull City,Preston North End,Hull City
+664,EC,2018-12-26, 15:00,Queens Park Rangers V Ipswich Town,Queens Park Rangers,Ipswich Town
+665,EC,2018-12-26, 15:00,Sheffield United V Derby County,Sheffield United,Derby County
+666,EC,2018-12-26, 15:00,Swansea City V Aston Villa,Swansea City,Aston Villa
+667,EC,2018-12-26, 15:00,West Bromwich Albion V Wigan Athletic,West Bromwich Albion,Wigan Athletic
+668,EC,2018-12-29, 15:00,Birmingham City V Brentford,Birmingham City,Brentford
+669,EC,2018-12-29, 15:00,Bolton Wanderers V Stoke City,Bolton Wanderers,Stoke City
+670,EC,2018-12-29, 15:00,Bristol City V Rotherham United,Bristol City,Rotherham United
+671,EC,2018-12-29, 15:00,Leeds United V Hull City,Leeds United,Hull City
+672,EC,2018-12-29, 15:00,Middlesbrough V Ipswich Town,Middlesbrough,Ipswich Town
+673,EC,2018-12-29, 15:00,Millwall V Nottingham Forest,Millwall,Nottingham Forest
+674,EC,2018-12-29, 15:00,Norwich City V Derby County,Norwich City,Derby County
+675,EC,2018-12-29, 15:00,Preston North End V Aston Villa,Preston North End,Aston Villa
+676,EC,2018-12-29, 15:00,Queens Park Rangers V Reading,Queens Park Rangers,Reading
+677,EC,2018-12-29, 15:00,Sheffield United V Blackburn Rovers,Sheffield United,Blackburn Rovers
+678,EC,2018-12-29, 15:00,Swansea City V Wigan Athletic,Swansea City,Wigan Athletic
+679,EC,2018-12-29, 15:00,West Bromwich Albion V Sheffield Wednesday,West Bromwich Albion,Sheffield Wednesday
+680,EC,2019-01-01, 13:00,Nottingham Forest V Leeds United,Nottingham Forest,Leeds United
+681,EC,2019-01-01, 15:00,Aston Villa V Queens Park Rangers,Aston Villa,Queens Park Rangers
+682,EC,2019-01-01, 15:00,Blackburn Rovers V West Bromwich Albion,Blackburn Rovers,West Bromwich Albion
+683,EC,2019-01-01, 15:00,Brentford V Norwich City,Brentford,Norwich City
+684,EC,2019-01-01, 15:00,Derby County V Middlesbrough,Derby County,Middlesbrough
+685,EC,2019-01-01, 15:00,Hull City V Bolton Wanderers,Hull City,Bolton Wanderers
+686,EC,2019-01-01, 15:00,Ipswich Town V Millwall,Ipswich Town,Millwall
+687,EC,2019-01-01, 15:00,Reading V Swansea City,Reading,Swansea City
+688,EC,2019-01-01, 15:00,Rotherham United V Preston North End,Rotherham United,Preston North End
+689,EC,2019-01-01, 15:00,Sheffield Wednesday V Birmingham City,Sheffield Wednesday,Birmingham City
+690,EC,2019-01-01, 15:00,Stoke City V Bristol City,Stoke City,Bristol City
+691,EC,2019-01-01, 15:00,Wigan Athletic V Sheffield United,Wigan Athletic,Sheffield United
+692,EC,2019-01-12, 15:00,Birmingham City V Middlesbrough,Birmingham City,Middlesbrough
+693,EC,2019-01-12, 15:00,Brentford V Stoke City,Brentford,Stoke City
+694,EC,2019-01-12, 15:00,Bristol City V Bolton Wanderers,Bristol City,Bolton Wanderers
+695,EC,2019-01-12, 15:00,Hull City V Sheffield Wednesday,Hull City,Sheffield Wednesday
+696,EC,2019-01-12, 15:00,Ipswich Town V Rotherham United,Ipswich Town,Rotherham United
+697,EC,2019-01-12, 15:00,Leeds United V Derby County,Leeds United,Derby County
+698,EC,2019-01-12, 15:00,Millwall V Blackburn Rovers,Millwall,Blackburn Rovers
+699,EC,2019-01-12, 15:00,Preston North End V Swansea City,Preston North End,Swansea City
+700,EC,2019-01-12, 15:00,Reading V Nottingham Forest,Reading,Nottingham Forest
+701,EC,2019-01-12, 15:00,Sheffield United V Queens Park Rangers,Sheffield United,Queens Park Rangers
+702,EC,2019-01-12, 15:00,West Bromwich Albion V Norwich City,West Bromwich Albion,Norwich City
+703,EC,2019-01-12, 15:00,Wigan Athletic V Aston Villa,Wigan Athletic,Aston Villa
+704,EC,2019-01-19, 15:00,Aston Villa V Hull City,Aston Villa,Hull City
+705,EC,2019-01-19, 15:00,Blackburn Rovers V Ipswich Town,Blackburn Rovers,Ipswich Town
+706,EC,2019-01-19, 15:00,Bolton Wanderers V West Bromwich Albion,Bolton Wanderers,West Bromwich Albion
+707,EC,2019-01-19, 15:00,Derby County V Reading,Derby County,Reading
+708,EC,2019-01-19, 15:00,Middlesbrough V Millwall,Middlesbrough,Millwall
+709,EC,2019-01-19, 15:00,Norwich City V Birmingham City,Norwich City,Birmingham City
+710,EC,2019-01-19, 15:00,Nottingham Forest V Bristol City,Nottingham Forest,Bristol City
+711,EC,2019-01-19, 15:00,Queens Park Rangers V Preston North End,Queens Park Rangers,Preston North End
+712,EC,2019-01-19, 15:00,Rotherham United V Brentford,Rotherham United,Brentford
+713,EC,2019-01-19, 15:00,Sheffield Wednesday V Wigan Athletic,Sheffield Wednesday,Wigan Athletic
+714,EC,2019-01-19, 15:00,Stoke City V Leeds United,Stoke City,Leeds United
+715,EC,2019-01-19, 15:00,Swansea City V Sheffield United,Swansea City,Sheffield United
+716,EC,2019-01-26, 15:00,Aston Villa V Ipswich Town,Aston Villa,Ipswich Town
+717,EC,2019-01-26, 15:00,Blackburn Rovers V Hull City,Blackburn Rovers,Hull City
+718,EC,2019-01-26, 15:00,Bolton Wanderers V Reading,Bolton Wanderers,Reading
+719,EC,2019-01-26, 15:00,Derby County V Millwall,Derby County,Millwall
+720,EC,2019-01-26, 15:00,Middlesbrough V Bristol City,Middlesbrough,Bristol City
+721,EC,2019-01-26, 15:00,Norwich City V Sheffield United,Norwich City,Sheffield United
+722,EC,2019-01-26, 15:00,Nottingham Forest V Wigan Athletic,Nottingham Forest,Wigan Athletic
+723,EC,2019-01-26, 15:00,Queens Park Rangers V West Bromwich Albion,Queens Park Rangers,West Bromwich Albion
+724,EC,2019-01-26, 15:00,Rotherham United V Leeds United,Rotherham United,Leeds United
+725,EC,2019-01-26, 15:00,Sheffield Wednesday V Brentford,Sheffield Wednesday,Brentford
+726,EC,2019-01-26, 15:00,Stoke City V Preston North End,Stoke City,Preston North End
+727,EC,2019-01-26, 15:00,Swansea City V Birmingham City,Swansea City,Birmingham City
+728,EC,2019-02-02, 15:00,Birmingham City V Nottingham Forest,Birmingham City,Nottingham Forest
+729,EC,2019-02-02, 15:00,Brentford V Blackburn Rovers,Brentford,Blackburn Rovers
+730,EC,2019-02-02, 15:00,Bristol City V Swansea City,Bristol City,Swansea City
+731,EC,2019-02-02, 15:00,Hull City V Stoke City,Hull City,Stoke City
+732,EC,2019-02-02, 15:00,Ipswich Town V Sheffield Wednesday,Ipswich Town,Sheffield Wednesday
+733,EC,2019-02-02, 15:00,Leeds United V Norwich City,Leeds United,Norwich City
+734,EC,2019-02-02, 15:00,Millwall V Rotherham United,Millwall,Rotherham United
+735,EC,2019-02-02, 15:00,Preston North End V Derby County,Preston North End,Derby County
+736,EC,2019-02-02, 15:00,Reading V Aston Villa,Reading,Aston Villa
+737,EC,2019-02-02, 15:00,Sheffield United V Bolton Wanderers,Sheffield United,Bolton Wanderers
+738,EC,2019-02-02, 15:00,West Bromwich Albion V Middlesbrough,West Bromwich Albion,Middlesbrough
+739,EC,2019-02-02, 15:00,Wigan Athletic V Queens Park Rangers,Wigan Athletic,Queens Park Rangers
+740,EC,2019-02-09, 15:00,Aston Villa V Sheffield United,Aston Villa,Sheffield United
+741,EC,2019-02-09, 15:00,Blackburn Rovers V Bristol City,Blackburn Rovers,Bristol City
+742,EC,2019-02-09, 15:00,Bolton Wanderers V Preston North End,Bolton Wanderers,Preston North End
+743,EC,2019-02-09, 15:00,Derby County V Hull City,Derby County,Hull City
+744,EC,2019-02-09, 15:00,Middlesbrough V Leeds United,Middlesbrough,Leeds United
+745,EC,2019-02-09, 15:00,Nottingham Forest V Brentford,Nottingham Forest,Brentford
+746,EC,2019-02-09, 15:00,Queens Park Rangers V Birmingham City,Queens Park Rangers,Birmingham City
+747,EC,2019-02-09, 15:00,Rotherham United V Wigan Athletic,Rotherham United,Wigan Athletic
+748,EC,2019-02-09, 15:00,Sheffield Wednesday V Reading,Sheffield Wednesday,Reading
+749,EC,2019-02-09, 15:00,Stoke City V West Bromwich Albion,Stoke City,West Bromwich Albion
+750,EC,2019-02-09, 15:00,Swansea City V Millwall,Swansea City,Millwall
+751,EC,2019-02-10, 12:00,Norwich City V Ipswich Town,Norwich City,Ipswich Town
+752,EC,2019-02-12, 19:45,Birmingham City V Bolton Wanderers,Birmingham City,Bolton Wanderers
+753,EC,2019-02-12, 19:45,Hull City V Rotherham United,Hull City,Rotherham United
+754,EC,2019-02-12, 19:45,Millwall V Sheffield Wednesday,Millwall,Sheffield Wednesday
+755,EC,2019-02-12, 20:00,West Bromwich Albion V Nottingham Forest,West Bromwich Albion,Nottingham Forest
+756,EC,2019-02-13, 19:45,Brentford V Aston Villa,Brentford,Aston Villa
+757,EC,2019-02-13, 19:45,Bristol City V Queens Park Rangers,Bristol City,Queens Park Rangers
+758,EC,2019-02-13, 19:45,Ipswich Town V Derby County,Ipswich Town,Derby County
+759,EC,2019-02-13, 19:45,Leeds United V Swansea City,Leeds United,Swansea City
+760,EC,2019-02-13, 19:45,Preston North End V Norwich City,Preston North End,Norwich City
+761,EC,2019-02-13, 19:45,Sheffield United V Middlesbrough,Sheffield United,Middlesbrough
+762,EC,2019-02-13, 19:45,Wigan Athletic V Stoke City,Wigan Athletic,Stoke City
+763,EC,2019-02-13, 20:00,Reading V Blackburn Rovers,Reading,Blackburn Rovers
+764,EC,2019-02-16, 15:00,Aston Villa V West Bromwich Albion,Aston Villa,West Bromwich Albion
+765,EC,2019-02-16, 15:00,Blackburn Rovers V Middlesbrough,Blackburn Rovers,Middlesbrough
+766,EC,2019-02-16, 15:00,Bolton Wanderers V Norwich City,Bolton Wanderers,Norwich City
+767,EC,2019-02-16, 15:00,Bristol City V Birmingham City,Bristol City,Birmingham City
+768,EC,2019-02-16, 15:00,Derby County V Wigan Athletic,Derby County,Wigan Athletic
+769,EC,2019-02-16, 15:00,Hull City V Millwall,Hull City,Millwall
+770,EC,2019-02-16, 15:00,Ipswich Town V Stoke City,Ipswich Town,Stoke City
+771,EC,2019-02-16, 15:00,Preston North End V Nottingham Forest,Preston North End,Nottingham Forest
+772,EC,2019-02-16, 15:00,Queens Park Rangers V Leeds United,Queens Park Rangers,Leeds United
+773,EC,2019-02-16, 15:00,Rotherham United V Sheffield Wednesday,Rotherham United,Sheffield Wednesday
+774,EC,2019-02-16, 15:00,Sheffield United V Reading,Sheffield United,Reading
+775,EC,2019-02-16, 15:00,Swansea City V Brentford,Swansea City,Brentford
+776,EC,2019-02-23, 13:00,Nottingham Forest V Derby County,Nottingham Forest,Derby County
+777,EC,2019-02-23, 15:00,Birmingham City V Blackburn Rovers,Birmingham City,Blackburn Rovers
+778,EC,2019-02-23, 15:00,Brentford V Hull City,Brentford,Hull City
+779,EC,2019-02-23, 15:00,Leeds United V Bolton Wanderers,Leeds United,Bolton Wanderers
+780,EC,2019-02-23, 15:00,Middlesbrough V Queens Park Rangers,Middlesbrough,Queens Park Rangers
+781,EC,2019-02-23, 15:00,Millwall V Preston North End,Millwall,Preston North End
+782,EC,2019-02-23, 15:00,Norwich City V Bristol City,Norwich City,Bristol City
+783,EC,2019-02-23, 15:00,Reading V Rotherham United,Reading,Rotherham United
+784,EC,2019-02-23, 15:00,Sheffield Wednesday V Swansea City,Sheffield Wednesday,Swansea City
+785,EC,2019-02-23, 15:00,Stoke City V Aston Villa,Stoke City,Aston Villa
+786,EC,2019-02-23, 15:00,West Bromwich Albion V Sheffield United,West Bromwich Albion,Sheffield United
+787,EC,2019-02-23, 15:00,Wigan Athletic V Ipswich Town,Wigan Athletic,Ipswich Town
+788,EC,2019-03-02, 15:00,Aston Villa V Derby County,Aston Villa,Derby County
+789,EC,2019-03-02, 15:00,Brentford V Queens Park Rangers,Brentford,Queens Park Rangers
+790,EC,2019-03-02, 15:00,Hull City V Birmingham City,Hull City,Birmingham City
+791,EC,2019-03-02, 15:00,Ipswich Town V Reading,Ipswich Town,Reading
+792,EC,2019-03-02, 15:00,Leeds United V West Bromwich Albion,Leeds United,West Bromwich Albion
+793,EC,2019-03-02, 15:00,Millwall V Norwich City,Millwall,Norwich City
+794,EC,2019-03-02, 15:00,Preston North End V Bristol City,Preston North End,Bristol City
+795,EC,2019-03-02, 15:00,Rotherham United V Blackburn Rovers,Rotherham United,Blackburn Rovers
+796,EC,2019-03-02, 15:00,Sheffield Wednesday V Sheffield United,Sheffield Wednesday,Sheffield United
+797,EC,2019-03-02, 15:00,Stoke City V Nottingham Forest,Stoke City,Nottingham Forest
+798,EC,2019-03-02, 15:00,Swansea City V Bolton Wanderers,Swansea City,Bolton Wanderers
+799,EC,2019-03-02, 15:00,Wigan Athletic V Middlesbrough,Wigan Athletic,Middlesbrough
+800,EC,2019-03-09, 12:00,Blackburn Rovers V Preston North End,Blackburn Rovers,Preston North End
+801,EC,2019-03-09, 12:15,Sheffield United V Rotherham United,Sheffield United,Rotherham United
+802,EC,2019-03-09, 15:00,Bolton Wanderers V Millwall,Bolton Wanderers,Millwall
+803,EC,2019-03-09, 15:00,Bristol City V Leeds United,Bristol City,Leeds United
+804,EC,2019-03-09, 15:00,Derby County V Sheffield Wednesday,Derby County,Sheffield Wednesday
+805,EC,2019-03-09, 15:00,Middlesbrough V Brentford,Middlesbrough,Brentford
+806,EC,2019-03-09, 15:00,Norwich City V Swansea City,Norwich City,Swansea City
+807,EC,2019-03-09, 15:00,Nottingham Forest V Hull City,Nottingham Forest,Hull City
+808,EC,2019-03-09, 15:00,Queens Park Rangers V Stoke City,Queens Park Rangers,Stoke City
+809,EC,2019-03-09, 15:00,Reading V Wigan Athletic,Reading,Wigan Athletic
+810,EC,2019-03-09, 15:00,West Bromwich Albion V Ipswich Town,West Bromwich Albion,Ipswich Town
+811,EC,2019-03-10, 12:00,Birmingham City V Aston Villa,Birmingham City,Aston Villa
+812,EC,2019-03-12, 19:45,Blackburn Rovers V Wigan Athletic,Blackburn Rovers,Wigan Athletic
+813,EC,2019-03-12, 19:45,Bristol City V Ipswich Town,Bristol City,Ipswich Town
+814,EC,2019-03-12, 19:45,Sheffield United V Brentford,Sheffield United,Brentford
+815,EC,2019-03-12, 20:00,Bolton Wanderers V Sheffield Wednesday,Bolton Wanderers,Sheffield Wednesday
+816,EC,2019-03-12, 20:00,Reading V Leeds United,Reading,Leeds United
+817,EC,2019-03-13, 19:45,Birmingham City V Millwall,Birmingham City,Millwall
+818,EC,2019-03-13, 19:45,Derby County V Stoke City,Derby County,Stoke City
+819,EC,2019-03-13, 19:45,Middlesbrough V Preston North End,Middlesbrough,Preston North End
+820,EC,2019-03-13, 19:45,Norwich City V Hull City,Norwich City,Hull City
+821,EC,2019-03-13, 19:45,Nottingham Forest V Aston Villa,Nottingham Forest,Aston Villa
+822,EC,2019-03-13, 19:45,Queens Park Rangers V Rotherham United,Queens Park Rangers,Rotherham United
+823,EC,2019-03-13, 20:00,West Bromwich Albion V Swansea City,West Bromwich Albion,Swansea City
+824,EC,2019-03-16, 15:00,Aston Villa V Middlesbrough,Aston Villa,Middlesbrough
+825,EC,2019-03-16, 15:00,Brentford V West Bromwich Albion,Brentford,West Bromwich Albion
+826,EC,2019-03-16, 15:00,Hull City V Queens Park Rangers,Hull City,Queens Park Rangers
+827,EC,2019-03-16, 15:00,Ipswich Town V Nottingham Forest,Ipswich Town,Nottingham Forest
+828,EC,2019-03-16, 15:00,Leeds United V Sheffield United,Leeds United,Sheffield United
+829,EC,2019-03-16, 15:00,Millwall V Bristol City,Millwall,Bristol City
+830,EC,2019-03-16, 15:00,Preston North End V Birmingham City,Preston North End,Birmingham City
+831,EC,2019-03-16, 15:00,Rotherham United V Norwich City,Rotherham United,Norwich City
+832,EC,2019-03-16, 15:00,Sheffield Wednesday V Blackburn Rovers,Sheffield Wednesday,Blackburn Rovers
+833,EC,2019-03-16, 15:00,Stoke City V Reading,Stoke City,Reading
+834,EC,2019-03-16, 15:00,Swansea City V Derby County,Swansea City,Derby County
+835,EC,2019-03-16, 15:00,Wigan Athletic V Bolton Wanderers,Wigan Athletic,Bolton Wanderers
+836,EC,2019-03-30, 15:00,Aston Villa V Blackburn Rovers,Aston Villa,Blackburn Rovers
+837,EC,2019-03-30, 15:00,Derby County V Rotherham United,Derby County,Rotherham United
+838,EC,2019-03-30, 15:00,Ipswich Town V Hull City,Ipswich Town,Hull City
+839,EC,2019-03-30, 15:00,Leeds United V Millwall,Leeds United,Millwall
+840,EC,2019-03-30, 15:00,Middlesbrough V Norwich City,Middlesbrough,Norwich City
+841,EC,2019-03-30, 15:00,Nottingham Forest V Swansea City,Nottingham Forest,Swansea City
+842,EC,2019-03-30, 15:00,Queens Park Rangers V Bolton Wanderers,Queens Park Rangers,Bolton Wanderers
+843,EC,2019-03-30, 15:00,Reading V Preston North End,Reading,Preston North End
+844,EC,2019-03-30, 15:00,Sheffield United V Bristol City,Sheffield United,Bristol City
+845,EC,2019-03-30, 15:00,Stoke City V Sheffield Wednesday,Stoke City,Sheffield Wednesday
+846,EC,2019-03-30, 15:00,West Bromwich Albion V Birmingham City,West Bromwich Albion,Birmingham City
+847,EC,2019-03-30, 15:00,Wigan Athletic V Brentford,Wigan Athletic,Brentford
+848,EC,2019-04-06, 15:00,Birmingham City V Leeds United,Birmingham City,Leeds United
+849,EC,2019-04-06, 15:00,Blackburn Rovers V Stoke City,Blackburn Rovers,Stoke City
+850,EC,2019-04-06, 15:00,Bolton Wanderers V Ipswich Town,Bolton Wanderers,Ipswich Town
+851,EC,2019-04-06, 15:00,Brentford V Derby County,Brentford,Derby County
+852,EC,2019-04-06, 15:00,Bristol City V Wigan Athletic,Bristol City,Wigan Athletic
+853,EC,2019-04-06, 15:00,Hull City V Reading,Hull City,Reading
+854,EC,2019-04-06, 15:00,Millwall V West Bromwich Albion,Millwall,West Bromwich Albion
+855,EC,2019-04-06, 15:00,Norwich City V Queens Park Rangers,Norwich City,Queens Park Rangers
+856,EC,2019-04-06, 15:00,Preston North End V Sheffield United,Preston North End,Sheffield United
+857,EC,2019-04-06, 15:00,Rotherham United V Nottingham Forest,Rotherham United,Nottingham Forest
+858,EC,2019-04-06, 15:00,Sheffield Wednesday V Aston Villa,Sheffield Wednesday,Aston Villa
+859,EC,2019-04-06, 15:00,Swansea City V Middlesbrough,Swansea City,Middlesbrough
+860,EC,2019-04-09, 19:45,Blackburn Rovers V Derby County,Blackburn Rovers,Derby County
+861,EC,2019-04-09, 19:45,Bristol City V West Bromwich Albion,Bristol City,West Bromwich Albion
+862,EC,2019-04-09, 19:45,Norwich City V Reading,Norwich City,Reading
+863,EC,2019-04-09, 19:45,Preston North End V Leeds United,Preston North End,Leeds United
+864,EC,2019-04-09, 19:45,Sheffield Wednesday V Nottingham Forest,Sheffield Wednesday,Nottingham Forest
+865,EC,2019-04-09, 19:45,Swansea City V Stoke City,Swansea City,Stoke City
+866,EC,2019-04-09, 20:00,Bolton Wanderers V Middlesbrough,Bolton Wanderers,Middlesbrough
+867,EC,2019-04-10, 19:45,Birmingham City V Sheffield United,Birmingham City,Sheffield United
+868,EC,2019-04-10, 19:45,Brentford V Ipswich Town,Brentford,Ipswich Town
+869,EC,2019-04-10, 19:45,Hull City V Wigan Athletic,Hull City,Wigan Athletic
+870,EC,2019-04-10, 19:45,Millwall V Queens Park Rangers,Millwall,Queens Park Rangers
+871,EC,2019-04-10, 19:45,Rotherham United V Aston Villa,Rotherham United,Aston Villa
+872,EC,2019-04-13, 15:00,Aston Villa V Bristol City,Aston Villa,Bristol City
+873,EC,2019-04-13, 15:00,Derby County V Bolton Wanderers,Derby County,Bolton Wanderers
+874,EC,2019-04-13, 15:00,Ipswich Town V Birmingham City,Ipswich Town,Birmingham City
+875,EC,2019-04-13, 15:00,Leeds United V Sheffield Wednesday,Leeds United,Sheffield Wednesday
+876,EC,2019-04-13, 15:00,Middlesbrough V Hull City,Middlesbrough,Hull City
+877,EC,2019-04-13, 15:00,Nottingham Forest V Blackburn Rovers,Nottingham Forest,Blackburn Rovers
+878,EC,2019-04-13, 15:00,Queens Park Rangers V Swansea City,Queens Park Rangers,Swansea City
+879,EC,2019-04-13, 15:00,Reading V Brentford,Reading,Brentford
+880,EC,2019-04-13, 15:00,Sheffield United V Millwall,Sheffield United,Millwall
+881,EC,2019-04-13, 15:00,Stoke City V Rotherham United,Stoke City,Rotherham United
+882,EC,2019-04-13, 15:00,West Bromwich Albion V Preston North End,West Bromwich Albion,Preston North End
+883,EC,2019-04-13, 15:00,Wigan Athletic V Norwich City,Wigan Athletic,Norwich City
+884,EC,2019-04-19, 12:00,Bristol City V Reading,Bristol City,Reading
+885,EC,2019-04-19, 13:00,Millwall V Brentford,Millwall,Brentford
+886,EC,2019-04-19, 15:00,Birmingham City V Derby County,Birmingham City,Derby County
+887,EC,2019-04-19, 15:00,Bolton Wanderers V Aston Villa,Bolton Wanderers,Aston Villa
+888,EC,2019-04-19, 15:00,Leeds United V Wigan Athletic,Leeds United,Wigan Athletic
+889,EC,2019-04-19, 15:00,Middlesbrough V Stoke City,Middlesbrough,Stoke City
+890,EC,2019-04-19, 15:00,Norwich City V Sheffield Wednesday,Norwich City,Sheffield Wednesday
+891,EC,2019-04-19, 15:00,Preston North End V Ipswich Town,Preston North End,Ipswich Town
+892,EC,2019-04-19, 15:00,Queens Park Rangers V Blackburn Rovers,Queens Park Rangers,Blackburn Rovers
+893,EC,2019-04-19, 15:00,Sheffield United V Nottingham Forest,Sheffield United,Nottingham Forest
+894,EC,2019-04-19, 15:00,Swansea City V Rotherham United,Swansea City,Rotherham United
+895,EC,2019-04-19, 15:00,West Bromwich Albion V Hull City,West Bromwich Albion,Hull City
+896,EC,2019-04-22, 13:00,Aston Villa V Millwall,Aston Villa,Millwall
+897,EC,2019-04-22, 15:00,Blackburn Rovers V Bolton Wanderers,Blackburn Rovers,Bolton Wanderers
+898,EC,2019-04-22, 15:00,Brentford V Leeds United,Brentford,Leeds United
+899,EC,2019-04-22, 15:00,Derby County V Queens Park Rangers,Derby County,Queens Park Rangers
+900,EC,2019-04-22, 15:00,Hull City V Sheffield United,Hull City,Sheffield United
+901,EC,2019-04-22, 15:00,Ipswich Town V Swansea City,Ipswich Town,Swansea City
+902,EC,2019-04-22, 15:00,Nottingham Forest V Middlesbrough,Nottingham Forest,Middlesbrough
+903,EC,2019-04-22, 15:00,Reading V West Bromwich Albion,Reading,West Bromwich Albion
+904,EC,2019-04-22, 15:00,Rotherham United V Birmingham City,Rotherham United,Birmingham City
+905,EC,2019-04-22, 15:00,Sheffield Wednesday V Bristol City,Sheffield Wednesday,Bristol City
+906,EC,2019-04-22, 15:00,Stoke City V Norwich City,Stoke City,Norwich City
+907,EC,2019-04-22, 15:00,Wigan Athletic V Preston North End,Wigan Athletic,Preston North End
+908,EC,2019-04-27, 15:00,Birmingham City V Wigan Athletic,Birmingham City,Wigan Athletic
+909,EC,2019-04-27, 15:00,Bolton Wanderers V Brentford,Bolton Wanderers,Brentford
+910,EC,2019-04-27, 15:00,Bristol City V Derby County,Bristol City,Derby County
+911,EC,2019-04-27, 15:00,Leeds United V Aston Villa,Leeds United,Aston Villa
+912,EC,2019-04-27, 15:00,Middlesbrough V Reading,Middlesbrough,Reading
+913,EC,2019-04-27, 15:00,Millwall V Stoke City,Millwall,Stoke City
+914,EC,2019-04-27, 15:00,Norwich City V Blackburn Rovers,Norwich City,Blackburn Rovers
+915,EC,2019-04-27, 15:00,Preston North End V Sheffield Wednesday,Preston North End,Sheffield Wednesday
+916,EC,2019-04-27, 15:00,Queens Park Rangers V Nottingham Forest,Queens Park Rangers,Nottingham Forest
+917,EC,2019-04-27, 15:00,Sheffield United V Ipswich Town,Sheffield United,Ipswich Town
+918,EC,2019-04-27, 15:00,Swansea City V Hull City,Swansea City,Hull City
+919,EC,2019-04-27, 15:00,West Bromwich Albion V Rotherham United,West Bromwich Albion,Rotherham United
+920,EC,2019-05-05, 12:30,Aston Villa V Norwich City,Aston Villa,Norwich City
+921,EC,2019-05-05, 12:30,Blackburn Rovers V Swansea City,Blackburn Rovers,Swansea City
+922,EC,2019-05-05, 12:30,Brentford V Preston North End,Brentford,Preston North End
+923,EC,2019-05-05, 12:30,Derby County V West Bromwich Albion,Derby County,West Bromwich Albion
+924,EC,2019-05-05, 12:30,Hull City V Bristol City,Hull City,Bristol City
+925,EC,2019-05-05, 12:30,Ipswich Town V Leeds United,Ipswich Town,Leeds United
+926,EC,2019-05-05, 12:30,Nottingham Forest V Bolton Wanderers,Nottingham Forest,Bolton Wanderers
+927,EC,2019-05-05, 12:30,Reading V Birmingham City,Reading,Birmingham City
+928,EC,2019-05-05, 12:30,Rotherham United V Middlesbrough,Rotherham United,Middlesbrough
+929,EC,2019-05-05, 12:30,Sheffield Wednesday V Queens Park Rangers,Sheffield Wednesday,Queens Park Rangers
+930,EC,2019-05-05, 12:30,Stoke City V Sheffield United,Stoke City,Sheffield United
+931,EC,2019-05-05, 12:30,Wigan Athletic V Millwall,Wigan Athletic,Millwall
+932,L1,2018-08-04,12:30:00,Sunderland V Charlton Athletic,Sunderland,Charlton Athletic
+933,L1,2018-08-04,15:00:00,Accrington Stanley V Gillingham,Accrington Stanley,Gillingham
+934,L1,2018-08-04,15:00:00,Barnsley V Oxford United,Barnsley,Oxford United
+935,L1,2018-08-04,15:00:00,Burton Albion V Rochdale,Burton Albion,Rochdale
+936,L1,2018-08-04,15:00:00,Coventry City V Scunthorpe United,Coventry City,Scunthorpe United
+937,L1,2018-08-04,15:00:00,Fleetwood Town V AFC Wimbledon,Fleetwood Town,AFC Wimbledon
+938,L1,2018-08-04,15:00:00,Peterborough United V Bristol Rovers,Peterborough United,Bristol Rovers
+939,L1,2018-08-04,15:00:00,Portsmouth V Luton Town,Portsmouth,Luton Town
+940,L1,2018-08-04,15:00:00,Shrewsbury Town V Bradford City,Shrewsbury Town,Bradford City
+941,L1,2018-08-04,15:00:00,Southend United V Doncaster Rovers,Southend United,Doncaster Rovers
+942,L1,2018-08-04,15:00:00,Walsall V Plymouth Argyle,Walsall,Plymouth Argyle
+943,L1,2018-08-04,15:00:00,Wycombe Wanderers V Blackpool,Wycombe Wanderers,Blackpool
+944,L1,2018-08-11,15:00:00,Bradford City V Barnsley,Bradford City,Barnsley
+945,L1,2018-08-11,15:00:00,AFC Wimbledon V Coventry City,AFC Wimbledon,Coventry City
+946,L1,2018-08-11,15:00:00,Blackpool V Portsmouth,Blackpool,Portsmouth
+947,L1,2018-08-11,15:00:00,Bristol Rovers V Accrington Stanley,Bristol Rovers,Accrington Stanley
+948,L1,2018-08-11,15:00:00,Charlton Athletic V Shrewsbury Town,Charlton Athletic,Shrewsbury Town
+949,L1,2018-08-11,15:00:00,Doncaster Rovers V Wycombe Wanderers,Doncaster Rovers,Wycombe Wanderers
+950,L1,2018-08-11,15:00:00,Gillingham V Burton Albion,Gillingham,Burton Albion
+951,L1,2018-08-11,15:00:00,Luton Town V Sunderland,Luton Town,Sunderland
+952,L1,2018-08-11,15:00:00,Oxford United V Fleetwood Town,Oxford United,Fleetwood Town
+953,L1,2018-08-11,15:00:00,Plymouth Argyle V Southend United,Plymouth Argyle,Southend United
+954,L1,2018-08-11,15:00:00,Rochdale V Peterborough United,Rochdale,Peterborough United
+955,L1,2018-08-11,15:00:00,Scunthorpe United V Walsall,Scunthorpe United,Walsall
+956,L1,2018-08-18, 15:00,Accrington Stanley V Charlton Athletic,Accrington Stanley,Charlton Athletic
+957,L1,2018-08-18, 15:00,Barnsley V AFC Wimbledon,Barnsley,AFC Wimbledon
+958,L1,2018-08-18, 15:00,Burton Albion V Doncaster Rovers,Burton Albion,Doncaster Rovers
+959,L1,2018-08-18, 15:00,Coventry City V Plymouth Argyle,Coventry City,Plymouth Argyle
+960,L1,2018-08-18, 15:00,Fleetwood Town V Rochdale,Fleetwood Town,Rochdale
+961,L1,2018-08-18, 15:00,Peterborough United V Luton Town,Peterborough United,Luton Town
+962,L1,2018-08-18, 15:00,Portsmouth V Oxford United,Portsmouth,Oxford United
+963,L1,2018-08-18, 15:00,Shrewsbury Town V Blackpool,Shrewsbury Town,Blackpool
+964,L1,2018-08-18, 15:00,Southend United V Bradford City,Southend United,Bradford City
+965,L1,2018-08-18, 15:00,Walsall V Gillingham,Walsall,Gillingham
+966,L1,2018-08-18, 15:00,Wycombe Wanderers V Bristol Rovers,Wycombe Wanderers,Bristol Rovers
+967,L1,2018-08-19, 15:00,Sunderland V Scunthorpe United,Sunderland,Scunthorpe United
+968,L1,2018-08-21, 19:45,AFC Wimbledon V Walsall,AFC Wimbledon,Walsall
+969,L1,2018-08-21, 19:45,Blackpool V Coventry City,Blackpool,Coventry City
+970,L1,2018-08-21, 19:45,Bradford City V Burton Albion,Bradford City,Burton Albion
+971,L1,2018-08-21, 19:45,Bristol Rovers V Portsmouth,Bristol Rovers,Portsmouth
+972,L1,2018-08-21, 19:45,Charlton Athletic V Peterborough United,Charlton Athletic,Peterborough United
+973,L1,2018-08-21, 19:45,Doncaster Rovers V Shrewsbury Town,Doncaster Rovers,Shrewsbury Town
+974,L1,2018-08-21, 19:45,Luton Town V Southend United,Luton Town,Southend United
+975,L1,2018-08-21, 19:45,Oxford United V Accrington Stanley,Oxford United,Accrington Stanley
+976,L1,2018-08-21, 19:45,Plymouth Argyle V Wycombe Wanderers,Plymouth Argyle,Wycombe Wanderers
+977,L1,2018-08-21, 19:45,Rochdale V Barnsley,Rochdale,Barnsley
+978,L1,2018-08-22, 19:45,Gillingham V Sunderland,Gillingham,Sunderland
+979,L1,2018-08-22, 19:45,Scunthorpe United V Fleetwood Town,Scunthorpe United,Fleetwood Town
+980,L1,2018-08-25, 15:00,AFC Wimbledon V Sunderland,AFC Wimbledon,Sunderland
+981,L1,2018-08-25, 15:00,Blackpool V Accrington Stanley,Blackpool,Accrington Stanley
+982,L1,2018-08-25, 15:00,Bradford City V Wycombe Wanderers,Bradford City,Wycombe Wanderers
+983,L1,2018-08-25, 15:00,Bristol Rovers V Southend United,Bristol Rovers,Southend United
+984,L1,2018-08-25, 15:00,Charlton Athletic V Fleetwood Town,Charlton Athletic,Fleetwood Town
+985,L1,2018-08-25, 15:00,Doncaster Rovers V Portsmouth,Doncaster Rovers,Portsmouth
+986,L1,2018-08-25, 15:00,Gillingham V Coventry City,Gillingham,Coventry City
+987,L1,2018-08-25, 15:00,Luton Town V Shrewsbury Town,Luton Town,Shrewsbury Town
+988,L1,2018-08-25, 15:00,Oxford United V Burton Albion,Oxford United,Burton Albion
+989,L1,2018-08-25, 15:00,Plymouth Argyle V Peterborough United,Plymouth Argyle,Peterborough United
+990,L1,2018-08-25, 15:00,Rochdale V Walsall,Rochdale,Walsall
+991,L1,2018-08-25, 15:00,Scunthorpe United V Barnsley,Scunthorpe United,Barnsley
+992,L1,2018-09-01, 15:00,Accrington Stanley V Scunthorpe United,Accrington Stanley,Scunthorpe United
+993,L1,2018-09-01, 15:00,Barnsley V Gillingham,Barnsley,Gillingham
+994,L1,2018-09-01, 15:00,Burton Albion V AFC Wimbledon,Burton Albion,AFC Wimbledon
+995,L1,2018-09-01, 15:00,Coventry City V Rochdale,Coventry City,Rochdale
+996,L1,2018-09-01, 15:00,Fleetwood Town V Bradford City,Fleetwood Town,Bradford City
+997,L1,2018-09-01, 15:00,Peterborough United V Doncaster Rovers,Peterborough United,Doncaster Rovers
+998,L1,2018-09-01, 15:00,Portsmouth V Plymouth Argyle,Portsmouth,Plymouth Argyle
+999,L1,2018-09-01, 15:00,Shrewsbury Town V Bristol Rovers,Shrewsbury Town,Bristol Rovers
+1000,L1,2018-09-01, 15:00,Southend United V Charlton Athletic,Southend United,Charlton Athletic
+1001,L1,2018-09-01, 15:00,Sunderland V Oxford United,Sunderland,Oxford United
+1002,L1,2018-09-01, 15:00,Walsall V Blackpool,Walsall,Blackpool
+1003,L1,2018-09-01, 15:00,Wycombe Wanderers V Luton Town,Wycombe Wanderers,Luton Town
+1004,L1,2018-09-08, 13:30,Bristol Rovers V Plymouth Argyle,Bristol Rovers,Plymouth Argyle
+1005,L1,2018-09-08, 15:00,Accrington Stanley V Burton Albion,Accrington Stanley,Burton Albion
+1006,L1,2018-09-08, 15:00,Barnsley V Walsall,Barnsley,Walsall
+1007,L1,2018-09-08, 15:00,Blackpool V Bradford City,Blackpool,Bradford City
+1008,L1,2018-09-08, 15:00,Charlton Athletic V Wycombe Wanderers,Charlton Athletic,Wycombe Wanderers
+1009,L1,2018-09-08, 15:00,Doncaster Rovers V Luton Town,Doncaster Rovers,Luton Town
+1010,L1,2018-09-08, 15:00,Gillingham V AFC Wimbledon,Gillingham,AFC Wimbledon
+1011,L1,2018-09-08, 15:00,Portsmouth V Shrewsbury Town,Portsmouth,Shrewsbury Town
+1012,L1,2018-09-08, 15:00,Scunthorpe United V Rochdale,Scunthorpe United,Rochdale
+1013,L1,2018-09-08, 15:00,Southend United V Peterborough United,Southend United,Peterborough United
+1014,L1,2018-09-08, 15:00,Sunderland V Fleetwood Town,Sunderland,Fleetwood Town
+1015,L1,2018-09-09, 12:00,Oxford United V Coventry City,Oxford United,Coventry City
+1016,L1,2018-09-15, 15:00,AFC Wimbledon V Scunthorpe United,AFC Wimbledon,Scunthorpe United
+1017,L1,2018-09-15, 15:00,Bradford City V Charlton Athletic,Bradford City,Charlton Athletic
+1018,L1,2018-09-15, 15:00,Burton Albion V Sunderland,Burton Albion,Sunderland
+1019,L1,2018-09-15, 15:00,Coventry City V Barnsley,Coventry City,Barnsley
+1020,L1,2018-09-15, 15:00,Fleetwood Town V Accrington Stanley,Fleetwood Town,Accrington Stanley
+1021,L1,2018-09-15, 15:00,Luton Town V Bristol Rovers,Luton Town,Bristol Rovers
+1022,L1,2018-09-15, 15:00,Peterborough United V Portsmouth,Peterborough United,Portsmouth
+1023,L1,2018-09-15, 15:00,Plymouth Argyle V Blackpool,Plymouth Argyle,Blackpool
+1024,L1,2018-09-15, 15:00,Rochdale V Gillingham,Rochdale,Gillingham
+1025,L1,2018-09-15, 15:00,Shrewsbury Town V Southend United,Shrewsbury Town,Southend United
+1026,L1,2018-09-15, 15:00,Walsall V Doncaster Rovers,Walsall,Doncaster Rovers
+1027,L1,2018-09-15, 15:00,Wycombe Wanderers V Oxford United,Wycombe Wanderers,Oxford United
+1028,L1,2018-09-22, 15:00,Accrington Stanley V AFC Wimbledon,Accrington Stanley,AFC Wimbledon
+1029,L1,2018-09-22, 15:00,Barnsley V Burton Albion,Barnsley,Burton Albion
+1030,L1,2018-09-22, 15:00,Blackpool V Luton Town,Blackpool,Luton Town
+1031,L1,2018-09-22, 15:00,Bristol Rovers V Coventry City,Bristol Rovers,Coventry City
+1032,L1,2018-09-22, 15:00,Charlton Athletic V Plymouth Argyle,Charlton Athletic,Plymouth Argyle
+1033,L1,2018-09-22, 15:00,Doncaster Rovers V Bradford City,Doncaster Rovers,Bradford City
+1034,L1,2018-09-22, 15:00,Gillingham V Peterborough United,Gillingham,Peterborough United
+1035,L1,2018-09-22, 15:00,Oxford United V Walsall,Oxford United,Walsall
+1036,L1,2018-09-22, 15:00,Portsmouth V Wycombe Wanderers,Portsmouth,Wycombe Wanderers
+1037,L1,2018-09-22, 15:00,Scunthorpe United V Shrewsbury Town,Scunthorpe United,Shrewsbury Town
+1038,L1,2018-09-22, 15:00,Southend United V Fleetwood Town,Southend United,Fleetwood Town
+1039,L1,2018-09-22, 15:00,Sunderland V Rochdale,Sunderland,Rochdale
+1040,L1,2018-09-29, 12:30,Coventry City V Sunderland,Coventry City,Sunderland
+1041,L1,2018-09-29, 15:00,AFC Wimbledon V Oxford United,AFC Wimbledon,Oxford United
+1042,L1,2018-09-29, 15:00,Bradford City V Bristol Rovers,Bradford City,Bristol Rovers
+1043,L1,2018-09-29, 15:00,Burton Albion V Scunthorpe United,Burton Albion,Scunthorpe United
+1044,L1,2018-09-29, 15:00,Fleetwood Town V Barnsley,Fleetwood Town,Barnsley
+1045,L1,2018-09-29, 15:00,Luton Town V Charlton Athletic,Luton Town,Charlton Athletic
+1046,L1,2018-09-29, 15:00,Peterborough United V Blackpool,Peterborough United,Blackpool
+1047,L1,2018-09-29, 15:00,Plymouth Argyle V Doncaster Rovers,Plymouth Argyle,Doncaster Rovers
+1048,L1,2018-09-29, 15:00,Rochdale V Portsmouth,Rochdale,Portsmouth
+1049,L1,2018-09-29, 15:00,Shrewsbury Town V Gillingham,Shrewsbury Town,Gillingham
+1050,L1,2018-09-29, 15:00,Walsall V Accrington Stanley,Walsall,Accrington Stanley
+1051,L1,2018-09-29, 15:00,Wycombe Wanderers V Southend United,Wycombe Wanderers,Southend United
+1052,L1,2018-10-02, 19:45,AFC Wimbledon V Bradford City,AFC Wimbledon,Bradford City
+1053,L1,2018-10-02, 19:45,Accrington Stanley V Doncaster Rovers,Accrington Stanley,Doncaster Rovers
+1054,L1,2018-10-02, 19:45,Barnsley V Plymouth Argyle,Barnsley,Plymouth Argyle
+1055,L1,2018-10-02, 19:45,Burton Albion V Southend United,Burton Albion,Southend United
+1056,L1,2018-10-02, 19:45,Coventry City V Portsmouth,Coventry City,Portsmouth
+1057,L1,2018-10-02, 19:45,Fleetwood Town V Wycombe Wanderers,Fleetwood Town,Wycombe Wanderers
+1058,L1,2018-10-02, 19:45,Gillingham V Blackpool,Gillingham,Blackpool
+1059,L1,2018-10-02, 19:45,Oxford United V Luton Town,Oxford United,Luton Town
+1060,L1,2018-10-02, 19:45,Rochdale V Bristol Rovers,Rochdale,Bristol Rovers
+1061,L1,2018-10-02, 19:45,Scunthorpe United V Charlton Athletic,Scunthorpe United,Charlton Athletic
+1062,L1,2018-10-02, 19:45,Sunderland V Peterborough United,Sunderland,Peterborough United
+1063,L1,2018-10-02, 19:45,Walsall V Shrewsbury Town,Walsall,Shrewsbury Town
+1064,L1,2018-10-06, 15:00,Blackpool V Rochdale,Blackpool,Rochdale
+1065,L1,2018-10-06, 15:00,Bradford City V Sunderland,Bradford City,Sunderland
+1066,L1,2018-10-06, 15:00,Bristol Rovers V Walsall,Bristol Rovers,Walsall
+1067,L1,2018-10-06, 15:00,Charlton Athletic V Coventry City,Charlton Athletic,Coventry City
+1068,L1,2018-10-06, 15:00,Doncaster Rovers V Fleetwood Town,Doncaster Rovers,Fleetwood Town
+1069,L1,2018-10-06, 15:00,Luton Town V Scunthorpe United,Luton Town,Scunthorpe United
+1070,L1,2018-10-06, 15:00,Peterborough United V Barnsley,Peterborough United,Barnsley
+1071,L1,2018-10-06, 15:00,Plymouth Argyle V AFC Wimbledon,Plymouth Argyle,AFC Wimbledon
+1072,L1,2018-10-06, 15:00,Portsmouth V Gillingham,Portsmouth,Gillingham
+1073,L1,2018-10-06, 15:00,Shrewsbury Town V Accrington Stanley,Shrewsbury Town,Accrington Stanley
+1074,L1,2018-10-06, 15:00,Southend United V Oxford United,Southend United,Oxford United
+1075,L1,2018-10-06, 15:00,Wycombe Wanderers V Burton Albion,Wycombe Wanderers,Burton Albion
+1076,L1,2018-10-13, 15:00,AFC Wimbledon V Portsmouth,AFC Wimbledon,Portsmouth
+1077,L1,2018-10-13, 15:00,Accrington Stanley V Bradford City,Accrington Stanley,Bradford City
+1078,L1,2018-10-13, 15:00,Barnsley V Luton Town,Barnsley,Luton Town
+1079,L1,2018-10-13, 15:00,Burton Albion V Bristol Rovers,Burton Albion,Bristol Rovers
+1080,L1,2018-10-13, 15:00,Coventry City V Wycombe Wanderers,Coventry City,Wycombe Wanderers
+1081,L1,2018-10-13, 15:00,Fleetwood Town V Shrewsbury Town,Fleetwood Town,Shrewsbury Town
+1082,L1,2018-10-13, 15:00,Gillingham V Southend United,Gillingham,Southend United
+1083,L1,2018-10-13, 15:00,Oxford United V Plymouth Argyle,Oxford United,Plymouth Argyle
+1084,L1,2018-10-13, 15:00,Rochdale V Doncaster Rovers,Rochdale,Doncaster Rovers
+1085,L1,2018-10-13, 15:00,Scunthorpe United V Peterborough United,Scunthorpe United,Peterborough United
+1086,L1,2018-10-13, 15:00,Sunderland V Blackpool,Sunderland,Blackpool
+1087,L1,2018-10-13, 15:00,Walsall V Charlton Athletic,Walsall,Charlton Athletic
+1088,L1,2018-10-20, 15:00,Blackpool V AFC Wimbledon,Blackpool,AFC Wimbledon
+1089,L1,2018-10-20, 15:00,Bradford City V Rochdale,Bradford City,Rochdale
+1090,L1,2018-10-20, 15:00,Bristol Rovers V Oxford United,Bristol Rovers,Oxford United
+1091,L1,2018-10-20, 15:00,Charlton Athletic V Barnsley,Charlton Athletic,Barnsley
+1092,L1,2018-10-20, 15:00,Doncaster Rovers V Gillingham,Doncaster Rovers,Gillingham
+1093,L1,2018-10-20, 15:00,Luton Town V Walsall,Luton Town,Walsall
+1094,L1,2018-10-20, 15:00,Peterborough United V Accrington Stanley,Peterborough United,Accrington Stanley
+1095,L1,2018-10-20, 15:00,Plymouth Argyle V Burton Albion,Plymouth Argyle,Burton Albion
+1096,L1,2018-10-20, 15:00,Portsmouth V Fleetwood Town,Portsmouth,Fleetwood Town
+1097,L1,2018-10-20, 15:00,Shrewsbury Town V Sunderland,Shrewsbury Town,Sunderland
+1098,L1,2018-10-20, 15:00,Southend United V Coventry City,Southend United,Coventry City
+1099,L1,2018-10-20, 15:00,Wycombe Wanderers V Scunthorpe United,Wycombe Wanderers,Scunthorpe United
+1100,L1,2018-10-23, 19:45,Blackpool V Scunthorpe United,Blackpool,Scunthorpe United
+1101,L1,2018-10-23, 19:45,Bradford City V Coventry City,Bradford City,Coventry City
+1102,L1,2018-10-23, 19:45,Bristol Rovers V AFC Wimbledon,Bristol Rovers,AFC Wimbledon
+1103,L1,2018-10-23, 19:45,Charlton Athletic V Oxford United,Charlton Athletic,Oxford United
+1104,L1,2018-10-23, 19:45,Doncaster Rovers V Sunderland,Doncaster Rovers,Sunderland
+1105,L1,2018-10-23, 19:45,Luton Town V Accrington Stanley,Luton Town,Accrington Stanley
+1106,L1,2018-10-23, 19:45,Peterborough United V Fleetwood Town,Peterborough United,Fleetwood Town
+1107,L1,2018-10-23, 19:45,Plymouth Argyle V Gillingham,Plymouth Argyle,Gillingham
+1108,L1,2018-10-23, 19:45,Portsmouth V Burton Albion,Portsmouth,Burton Albion
+1109,L1,2018-10-23, 19:45,Shrewsbury Town V Barnsley,Shrewsbury Town,Barnsley
+1110,L1,2018-10-23, 19:45,Southend United V Walsall,Southend United,Walsall
+1111,L1,2018-10-23, 19:45,Wycombe Wanderers V Rochdale,Wycombe Wanderers,Rochdale
+1112,L1,2018-10-27, 15:00,AFC Wimbledon V Luton Town,AFC Wimbledon,Luton Town
+1113,L1,2018-10-27, 15:00,Accrington Stanley V Portsmouth,Accrington Stanley,Portsmouth
+1114,L1,2018-10-27, 15:00,Barnsley V Bristol Rovers,Barnsley,Bristol Rovers
+1115,L1,2018-10-27, 15:00,Burton Albion V Peterborough United,Burton Albion,Peterborough United
+1116,L1,2018-10-27, 15:00,Coventry City V Doncaster Rovers,Coventry City,Doncaster Rovers
+1117,L1,2018-10-27, 15:00,Fleetwood Town V Blackpool,Fleetwood Town,Blackpool
+1118,L1,2018-10-27, 15:00,Gillingham V Bradford City,Gillingham,Bradford City
+1119,L1,2018-10-27, 15:00,Oxford United V Shrewsbury Town,Oxford United,Shrewsbury Town
+1120,L1,2018-10-27, 15:00,Rochdale V Charlton Athletic,Rochdale,Charlton Athletic
+1121,L1,2018-10-27, 15:00,Scunthorpe United V Plymouth Argyle,Scunthorpe United,Plymouth Argyle
+1122,L1,2018-10-27, 15:00,Sunderland V Southend United,Sunderland,Southend United
+1123,L1,2018-10-27, 15:00,Walsall V Wycombe Wanderers,Walsall,Wycombe Wanderers
+1124,L1,2018-11-03, 15:00,AFC Wimbledon V Shrewsbury Town,AFC Wimbledon,Shrewsbury Town
+1125,L1,2018-11-03, 15:00,Barnsley V Southend United,Barnsley,Southend United
+1126,L1,2018-11-03, 15:00,Blackpool V Bristol Rovers,Blackpool,Bristol Rovers
+1127,L1,2018-11-03, 15:00,Bradford City V Portsmouth,Bradford City,Portsmouth
+1128,L1,2018-11-03, 15:00,Charlton Athletic V Doncaster Rovers,Charlton Athletic,Doncaster Rovers
+1129,L1,2018-11-03, 15:00,Coventry City V Accrington Stanley,Coventry City,Accrington Stanley
+1130,L1,2018-11-03, 15:00,Gillingham V Fleetwood Town,Gillingham,Fleetwood Town
+1131,L1,2018-11-03, 15:00,Plymouth Argyle V Sunderland,Plymouth Argyle,Sunderland
+1132,L1,2018-11-03, 15:00,Rochdale V Luton Town,Rochdale,Luton Town
+1133,L1,2018-11-03, 15:00,Scunthorpe United V Oxford United,Scunthorpe United,Oxford United
+1134,L1,2018-11-03, 15:00,Walsall V Burton Albion,Walsall,Burton Albion
+1135,L1,2018-11-03, 15:00,Wycombe Wanderers V Peterborough United,Wycombe Wanderers,Peterborough United
+1136,L1,2018-11-17, 15:00,Accrington Stanley V Barnsley,Accrington Stanley,Barnsley
+1137,L1,2018-11-17, 15:00,Bristol Rovers V Scunthorpe United,Bristol Rovers,Scunthorpe United
+1138,L1,2018-11-17, 15:00,Burton Albion V Coventry City,Burton Albion,Coventry City
+1139,L1,2018-11-17, 15:00,Doncaster Rovers V AFC Wimbledon,Doncaster Rovers,AFC Wimbledon
+1140,L1,2018-11-17, 15:00,Fleetwood Town V Walsall,Fleetwood Town,Walsall
+1141,L1,2018-11-17, 15:00,Luton Town V Plymouth Argyle,Luton Town,Plymouth Argyle
+1142,L1,2018-11-17, 15:00,Oxford United V Gillingham,Oxford United,Gillingham
+1143,L1,2018-11-17, 15:00,Peterborough United V Bradford City,Peterborough United,Bradford City
+1144,L1,2018-11-17, 15:00,Portsmouth V Charlton Athletic,Portsmouth,Charlton Athletic
+1145,L1,2018-11-17, 15:00,Shrewsbury Town V Rochdale,Shrewsbury Town,Rochdale
+1146,L1,2018-11-17, 15:00,Southend United V Blackpool,Southend United,Blackpool
+1147,L1,2018-11-17, 15:00,Sunderland V Wycombe Wanderers,Sunderland,Wycombe Wanderers
+1148,L1,2018-11-23, 19:45,Coventry City V Peterborough United,Coventry City,Peterborough United
+1149,L1,2018-11-24, 15:00,AFC Wimbledon V Southend United,AFC Wimbledon,Southend United
+1150,L1,2018-11-24, 15:00,Barnsley V Doncaster Rovers,Barnsley,Doncaster Rovers
+1151,L1,2018-11-24, 15:00,Blackpool V Burton Albion,Blackpool,Burton Albion
+1152,L1,2018-11-24, 15:00,Bradford City V Oxford United,Bradford City,Oxford United
+1153,L1,2018-11-24, 15:00,Charlton Athletic V Bristol Rovers,Charlton Athletic,Bristol Rovers
+1154,L1,2018-11-24, 15:00,Gillingham V Luton Town,Gillingham,Luton Town
+1155,L1,2018-11-24, 15:00,Plymouth Argyle V Fleetwood Town,Plymouth Argyle,Fleetwood Town
+1156,L1,2018-11-24, 15:00,Rochdale V Accrington Stanley,Rochdale,Accrington Stanley
+1157,L1,2018-11-24, 15:00,Scunthorpe United V Portsmouth,Scunthorpe United,Portsmouth
+1158,L1,2018-11-24, 15:00,Walsall V Sunderland,Walsall,Sunderland
+1159,L1,2018-11-24, 15:00,Wycombe Wanderers V Shrewsbury Town,Wycombe Wanderers,Shrewsbury Town
+1160,L1,2018-11-27, 19:45,Accrington Stanley V Wycombe Wanderers,Accrington Stanley,Wycombe Wanderers
+1161,L1,2018-11-27, 19:45,Bristol Rovers V Gillingham,Bristol Rovers,Gillingham
+1162,L1,2018-11-27, 19:45,Burton Albion V Charlton Athletic,Burton Albion,Charlton Athletic
+1163,L1,2018-11-27, 19:45,Doncaster Rovers V Blackpool,Doncaster Rovers,Blackpool
+1164,L1,2018-11-27, 19:45,Fleetwood Town V Coventry City,Fleetwood Town,Coventry City
+1165,L1,2018-11-27, 19:45,Luton Town V Bradford City,Luton Town,Bradford City
+1166,L1,2018-11-27, 19:45,Oxford United V Rochdale,Oxford United,Rochdale
+1167,L1,2018-11-27, 19:45,Peterborough United V AFC Wimbledon,Peterborough United,AFC Wimbledon
+1168,L1,2018-11-27, 19:45,Portsmouth V Walsall,Portsmouth,Walsall
+1169,L1,2018-11-27, 19:45,Shrewsbury Town V Plymouth Argyle,Shrewsbury Town,Plymouth Argyle
+1170,L1,2018-11-27, 19:45,Southend United V Scunthorpe United,Southend United,Scunthorpe United
+1171,L1,2018-11-27, 19:45,Sunderland V Barnsley,Sunderland,Barnsley
+1172,L1,2018-12-08, 15:00,AFC Wimbledon V Rochdale,AFC Wimbledon,Rochdale
+1173,L1,2018-12-08, 15:00,Accrington Stanley V Sunderland,Accrington Stanley,Sunderland
+1174,L1,2018-12-08, 15:00,Blackpool V Charlton Athletic,Blackpool,Charlton Athletic
+1175,L1,2018-12-08, 15:00,Bristol Rovers V Doncaster Rovers,Bristol Rovers,Doncaster Rovers
+1176,L1,2018-12-08, 15:00,Burton Albion V Shrewsbury Town,Burton Albion,Shrewsbury Town
+1177,L1,2018-12-08, 15:00,Luton Town V Fleetwood Town,Luton Town,Fleetwood Town
+1178,L1,2018-12-08, 15:00,Peterborough United V Oxford United,Peterborough United,Oxford United
+1179,L1,2018-12-08, 15:00,Plymouth Argyle V Bradford City,Plymouth Argyle,Bradford City
+1180,L1,2018-12-08, 15:00,Portsmouth V Southend United,Portsmouth,Southend United
+1181,L1,2018-12-08, 15:00,Scunthorpe United V Gillingham,Scunthorpe United,Gillingham
+1182,L1,2018-12-08, 15:00,Walsall V Coventry City,Walsall,Coventry City
+1183,L1,2018-12-08, 15:00,Wycombe Wanderers V Barnsley,Wycombe Wanderers,Barnsley
+1184,L1,2018-12-15, 12:15,Doncaster Rovers V Scunthorpe United,Doncaster Rovers,Scunthorpe United
+1185,L1,2018-12-15, 15:00,Barnsley V Portsmouth,Barnsley,Portsmouth
+1186,L1,2018-12-15, 15:00,Bradford City V Walsall,Bradford City,Walsall
+1187,L1,2018-12-15, 15:00,Charlton Athletic V AFC Wimbledon,Charlton Athletic,AFC Wimbledon
+1188,L1,2018-12-15, 15:00,Coventry City V Luton Town,Coventry City,Luton Town
+1189,L1,2018-12-15, 15:00,Fleetwood Town V Burton Albion,Fleetwood Town,Burton Albion
+1190,L1,2018-12-15, 15:00,Gillingham V Wycombe Wanderers,Gillingham,Wycombe Wanderers
+1191,L1,2018-12-15, 15:00,Oxford United V Blackpool,Oxford United,Blackpool
+1192,L1,2018-12-15, 15:00,Rochdale V Plymouth Argyle,Rochdale,Plymouth Argyle
+1193,L1,2018-12-15, 15:00,Shrewsbury Town V Peterborough United,Shrewsbury Town,Peterborough United
+1194,L1,2018-12-15, 15:00,Southend United V Accrington Stanley,Southend United,Accrington Stanley
+1195,L1,2018-12-15, 15:00,Sunderland V Bristol Rovers,Sunderland,Bristol Rovers
+1196,L1,2018-12-22, 15:00,Blackpool V Barnsley,Blackpool,Barnsley
+1197,L1,2018-12-22, 15:00,Bradford City V Scunthorpe United,Bradford City,Scunthorpe United
+1198,L1,2018-12-22, 15:00,Bristol Rovers V Fleetwood Town,Bristol Rovers,Fleetwood Town
+1199,L1,2018-12-22, 15:00,Charlton Athletic V Gillingham,Charlton Athletic,Gillingham
+1200,L1,2018-12-22, 15:00,Doncaster Rovers V Oxford United,Doncaster Rovers,Oxford United
+1201,L1,2018-12-22, 15:00,Luton Town V Burton Albion,Luton Town,Burton Albion
+1202,L1,2018-12-22, 15:00,Peterborough United V Walsall,Peterborough United,Walsall
+1203,L1,2018-12-22, 15:00,Plymouth Argyle V Accrington Stanley,Plymouth Argyle,Accrington Stanley
+1204,L1,2018-12-22, 15:00,Portsmouth V Sunderland,Portsmouth,Sunderland
+1205,L1,2018-12-22, 15:00,Shrewsbury Town V Coventry City,Shrewsbury Town,Coventry City
+1206,L1,2018-12-22, 15:00,Southend United V Rochdale,Southend United,Rochdale
+1207,L1,2018-12-22, 15:00,Wycombe Wanderers V AFC Wimbledon,Wycombe Wanderers,AFC Wimbledon
+1208,L1,2018-12-26, 13:00,Gillingham V Portsmouth,Gillingham,Portsmouth
+1209,L1,2018-12-26, 15:00,AFC Wimbledon V Plymouth Argyle,AFC Wimbledon,Plymouth Argyle
+1210,L1,2018-12-26, 15:00,Accrington Stanley V Shrewsbury Town,Accrington Stanley,Shrewsbury Town
+1211,L1,2018-12-26, 15:00,Barnsley V Peterborough United,Barnsley,Peterborough United
+1212,L1,2018-12-26, 15:00,Burton Albion V Wycombe Wanderers,Burton Albion,Wycombe Wanderers
+1213,L1,2018-12-26, 15:00,Coventry City V Charlton Athletic,Coventry City,Charlton Athletic
+1214,L1,2018-12-26, 15:00,Fleetwood Town V Doncaster Rovers,Fleetwood Town,Doncaster Rovers
+1215,L1,2018-12-26, 15:00,Oxford United V Southend United,Oxford United,Southend United
+1216,L1,2018-12-26, 15:00,Rochdale V Blackpool,Rochdale,Blackpool
+1217,L1,2018-12-26, 15:00,Scunthorpe United V Luton Town,Scunthorpe United,Luton Town
+1218,L1,2018-12-26, 15:00,Sunderland V Bradford City,Sunderland,Bradford City
+1219,L1,2018-12-26, 15:00,Walsall V Bristol Rovers,Walsall,Bristol Rovers
+1220,L1,2018-12-29, 15:00,AFC Wimbledon V Blackpool,AFC Wimbledon,Blackpool
+1221,L1,2018-12-29, 15:00,Accrington Stanley V Peterborough United,Accrington Stanley,Peterborough United
+1222,L1,2018-12-29, 15:00,Barnsley V Charlton Athletic,Barnsley,Charlton Athletic
+1223,L1,2018-12-29, 15:00,Burton Albion V Plymouth Argyle,Burton Albion,Plymouth Argyle
+1224,L1,2018-12-29, 15:00,Coventry City V Southend United,Coventry City,Southend United
+1225,L1,2018-12-29, 15:00,Fleetwood Town V Portsmouth,Fleetwood Town,Portsmouth
+1226,L1,2018-12-29, 15:00,Gillingham V Doncaster Rovers,Gillingham,Doncaster Rovers
+1227,L1,2018-12-29, 15:00,Oxford United V Bristol Rovers,Oxford United,Bristol Rovers
+1228,L1,2018-12-29, 15:00,Rochdale V Bradford City,Rochdale,Bradford City
+1229,L1,2018-12-29, 15:00,Scunthorpe United V Wycombe Wanderers,Scunthorpe United,Wycombe Wanderers
+1230,L1,2018-12-29, 15:00,Sunderland V Shrewsbury Town,Sunderland,Shrewsbury Town
+1231,L1,2018-12-29, 15:00,Walsall V Luton Town,Walsall,Luton Town
+1232,L1,2019-01-01, 15:00,Blackpool V Sunderland,Blackpool,Sunderland
+1233,L1,2019-01-01, 15:00,Bradford City V Accrington Stanley,Bradford City,Accrington Stanley
+1234,L1,2019-01-01, 15:00,Bristol Rovers V Burton Albion,Bristol Rovers,Burton Albion
+1235,L1,2019-01-01, 15:00,Charlton Athletic V Walsall,Charlton Athletic,Walsall
+1236,L1,2019-01-01, 15:00,Doncaster Rovers V Rochdale,Doncaster Rovers,Rochdale
+1237,L1,2019-01-01, 15:00,Luton Town V Barnsley,Luton Town,Barnsley
+1238,L1,2019-01-01, 15:00,Peterborough United V Scunthorpe United,Peterborough United,Scunthorpe United
+1239,L1,2019-01-01, 15:00,Plymouth Argyle V Oxford United,Plymouth Argyle,Oxford United
+1240,L1,2019-01-01, 15:00,Portsmouth V AFC Wimbledon,Portsmouth,AFC Wimbledon
+1241,L1,2019-01-01, 15:00,Shrewsbury Town V Fleetwood Town,Shrewsbury Town,Fleetwood Town
+1242,L1,2019-01-01, 15:00,Southend United V Gillingham,Southend United,Gillingham
+1243,L1,2019-01-01, 15:00,Wycombe Wanderers V Coventry City,Wycombe Wanderers,Coventry City
+1244,L1,2019-01-05, 15:00,AFC Wimbledon V Fleetwood Town,AFC Wimbledon,Fleetwood Town
+1245,L1,2019-01-05, 15:00,Blackpool V Wycombe Wanderers,Blackpool,Wycombe Wanderers
+1246,L1,2019-01-05, 15:00,Bradford City V Shrewsbury Town,Bradford City,Shrewsbury Town
+1247,L1,2019-01-05, 15:00,Bristol Rovers V Peterborough United,Bristol Rovers,Peterborough United
+1248,L1,2019-01-05, 15:00,Charlton Athletic V Sunderland,Charlton Athletic,Sunderland
+1249,L1,2019-01-05, 15:00,Doncaster Rovers V Southend United,Doncaster Rovers,Southend United
+1250,L1,2019-01-05, 15:00,Gillingham V Accrington Stanley,Gillingham,Accrington Stanley
+1251,L1,2019-01-05, 15:00,Luton Town V Portsmouth,Luton Town,Portsmouth
+1252,L1,2019-01-05, 15:00,Oxford United V Barnsley,Oxford United,Barnsley
+1253,L1,2019-01-05, 15:00,Plymouth Argyle V Walsall,Plymouth Argyle,Walsall
+1254,L1,2019-01-05, 15:00,Rochdale V Burton Albion,Rochdale,Burton Albion
+1255,L1,2019-01-05, 15:00,Scunthorpe United V Coventry City,Scunthorpe United,Coventry City
+1256,L1,2019-01-12, 15:00,Accrington Stanley V Bristol Rovers,Accrington Stanley,Bristol Rovers
+1257,L1,2019-01-12, 15:00,Barnsley V Bradford City,Barnsley,Bradford City
+1258,L1,2019-01-12, 15:00,Burton Albion V Gillingham,Burton Albion,Gillingham
+1259,L1,2019-01-12, 15:00,Coventry City V AFC Wimbledon,Coventry City,AFC Wimbledon
+1260,L1,2019-01-12, 15:00,Fleetwood Town V Oxford United,Fleetwood Town,Oxford United
+1261,L1,2019-01-12, 15:00,Peterborough United V Rochdale,Peterborough United,Rochdale
+1262,L1,2019-01-12, 15:00,Portsmouth V Blackpool,Portsmouth,Blackpool
+1263,L1,2019-01-12, 15:00,Shrewsbury Town V Charlton Athletic,Shrewsbury Town,Charlton Athletic
+1264,L1,2019-01-12, 15:00,Southend United V Plymouth Argyle,Southend United,Plymouth Argyle
+1265,L1,2019-01-12, 15:00,Sunderland V Luton Town,Sunderland,Luton Town
+1266,L1,2019-01-12, 15:00,Walsall V Scunthorpe United,Walsall,Scunthorpe United
+1267,L1,2019-01-12, 15:00,Wycombe Wanderers V Doncaster Rovers,Wycombe Wanderers,Doncaster Rovers
+1268,L1,2019-01-19, 15:00,AFC Wimbledon V Barnsley,AFC Wimbledon,Barnsley
+1269,L1,2019-01-19, 15:00,Blackpool V Shrewsbury Town,Blackpool,Shrewsbury Town
+1270,L1,2019-01-19, 15:00,Bradford City V Southend United,Bradford City,Southend United
+1271,L1,2019-01-19, 15:00,Bristol Rovers V Wycombe Wanderers,Bristol Rovers,Wycombe Wanderers
+1272,L1,2019-01-19, 15:00,Charlton Athletic V Accrington Stanley,Charlton Athletic,Accrington Stanley
+1273,L1,2019-01-19, 15:00,Doncaster Rovers V Burton Albion,Doncaster Rovers,Burton Albion
+1274,L1,2019-01-19, 15:00,Gillingham V Walsall,Gillingham,Walsall
+1275,L1,2019-01-19, 15:00,Luton Town V Peterborough United,Luton Town,Peterborough United
+1276,L1,2019-01-19, 15:00,Oxford United V Portsmouth,Oxford United,Portsmouth
+1277,L1,2019-01-19, 15:00,Plymouth Argyle V Coventry City,Plymouth Argyle,Coventry City
+1278,L1,2019-01-19, 15:00,Rochdale V Fleetwood Town,Rochdale,Fleetwood Town
+1279,L1,2019-01-19, 15:00,Scunthorpe United V Sunderland,Scunthorpe United,Sunderland
+1280,L1,2019-01-26, 15:00,Accrington Stanley V Oxford United,Accrington Stanley,Oxford United
+1281,L1,2019-01-26, 15:00,Barnsley V Rochdale,Barnsley,Rochdale
+1282,L1,2019-01-26, 15:00,Burton Albion V Bradford City,Burton Albion,Bradford City
+1283,L1,2019-01-26, 15:00,Coventry City V Blackpool,Coventry City,Blackpool
+1284,L1,2019-01-26, 15:00,Fleetwood Town V Scunthorpe United,Fleetwood Town,Scunthorpe United
+1285,L1,2019-01-26, 15:00,Peterborough United V Charlton Athletic,Peterborough United,Charlton Athletic
+1286,L1,2019-01-26, 15:00,Portsmouth V Bristol Rovers,Portsmouth,Bristol Rovers
+1287,L1,2019-01-26, 15:00,Shrewsbury Town V Doncaster Rovers,Shrewsbury Town,Doncaster Rovers
+1288,L1,2019-01-26, 15:00,Southend United V Luton Town,Southend United,Luton Town
+1289,L1,2019-01-26, 15:00,Sunderland V Gillingham,Sunderland,Gillingham
+1290,L1,2019-01-26, 15:00,Walsall V AFC Wimbledon,Walsall,AFC Wimbledon
+1291,L1,2019-01-26, 15:00,Wycombe Wanderers V Plymouth Argyle,Wycombe Wanderers,Plymouth Argyle
+1292,L1,2019-02-02, 15:00,Accrington Stanley V Blackpool,Accrington Stanley,Blackpool
+1293,L1,2019-02-02, 15:00,Barnsley V Scunthorpe United,Barnsley,Scunthorpe United
+1294,L1,2019-02-02, 15:00,Burton Albion V Oxford United,Burton Albion,Oxford United
+1295,L1,2019-02-02, 15:00,Coventry City V Gillingham,Coventry City,Gillingham
+1296,L1,2019-02-02, 15:00,Fleetwood Town V Charlton Athletic,Fleetwood Town,Charlton Athletic
+1297,L1,2019-02-02, 15:00,Peterborough United V Plymouth Argyle,Peterborough United,Plymouth Argyle
+1298,L1,2019-02-02, 15:00,Portsmouth V Doncaster Rovers,Portsmouth,Doncaster Rovers
+1299,L1,2019-02-02, 15:00,Shrewsbury Town V Luton Town,Shrewsbury Town,Luton Town
+1300,L1,2019-02-02, 15:00,Southend United V Bristol Rovers,Southend United,Bristol Rovers
+1301,L1,2019-02-02, 15:00,Sunderland V AFC Wimbledon,Sunderland,AFC Wimbledon
+1302,L1,2019-02-02, 15:00,Walsall V Rochdale,Walsall,Rochdale
+1303,L1,2019-02-02, 15:00,Wycombe Wanderers V Bradford City,Wycombe Wanderers,Bradford City
+1304,L1,2019-02-09, 15:00,AFC Wimbledon V Burton Albion,AFC Wimbledon,Burton Albion
+1305,L1,2019-02-09, 15:00,Blackpool V Walsall,Blackpool,Walsall
+1306,L1,2019-02-09, 15:00,Bradford City V Fleetwood Town,Bradford City,Fleetwood Town
+1307,L1,2019-02-09, 15:00,Bristol Rovers V Shrewsbury Town,Bristol Rovers,Shrewsbury Town
+1308,L1,2019-02-09, 15:00,Charlton Athletic V Southend United,Charlton Athletic,Southend United
+1309,L1,2019-02-09, 15:00,Doncaster Rovers V Peterborough United,Doncaster Rovers,Peterborough United
+1310,L1,2019-02-09, 15:00,Gillingham V Barnsley,Gillingham,Barnsley
+1311,L1,2019-02-09, 15:00,Luton Town V Wycombe Wanderers,Luton Town,Wycombe Wanderers
+1312,L1,2019-02-09, 15:00,Oxford United V Sunderland,Oxford United,Sunderland
+1313,L1,2019-02-09, 15:00,Plymouth Argyle V Portsmouth,Plymouth Argyle,Portsmouth
+1314,L1,2019-02-09, 15:00,Rochdale V Coventry City,Rochdale,Coventry City
+1315,L1,2019-02-09, 15:00,Scunthorpe United V Accrington Stanley,Scunthorpe United,Accrington Stanley
+1316,L1,2019-02-16, 15:00,Barnsley V Wycombe Wanderers,Barnsley,Wycombe Wanderers
+1317,L1,2019-02-16, 15:00,Bradford City V Plymouth Argyle,Bradford City,Plymouth Argyle
+1318,L1,2019-02-16, 15:00,Charlton Athletic V Blackpool,Charlton Athletic,Blackpool
+1319,L1,2019-02-16, 15:00,Coventry City V Walsall,Coventry City,Walsall
+1320,L1,2019-02-16, 15:00,Doncaster Rovers V Bristol Rovers,Doncaster Rovers,Bristol Rovers
+1321,L1,2019-02-16, 15:00,Fleetwood Town V Luton Town,Fleetwood Town,Luton Town
+1322,L1,2019-02-16, 15:00,Gillingham V Scunthorpe United,Gillingham,Scunthorpe United
+1323,L1,2019-02-16, 15:00,Oxford United V Peterborough United,Oxford United,Peterborough United
+1324,L1,2019-02-16, 15:00,Rochdale V AFC Wimbledon,Rochdale,AFC Wimbledon
+1325,L1,2019-02-16, 15:00,Shrewsbury Town V Burton Albion,Shrewsbury Town,Burton Albion
+1326,L1,2019-02-16, 15:00,Southend United V Portsmouth,Southend United,Portsmouth
+1327,L1,2019-02-16, 15:00,Sunderland V Accrington Stanley,Sunderland,Accrington Stanley
+1328,L1,2019-02-23, 15:00,AFC Wimbledon V Charlton Athletic,AFC Wimbledon,Charlton Athletic
+1329,L1,2019-02-23, 15:00,Accrington Stanley V Southend United,Accrington Stanley,Southend United
+1330,L1,2019-02-23, 15:00,Blackpool V Oxford United,Blackpool,Oxford United
+1331,L1,2019-02-23, 15:00,Bristol Rovers V Sunderland,Bristol Rovers,Sunderland
+1332,L1,2019-02-23, 15:00,Burton Albion V Fleetwood Town,Burton Albion,Fleetwood Town
+1333,L1,2019-02-23, 15:00,Luton Town V Coventry City,Luton Town,Coventry City
+1334,L1,2019-02-23, 15:00,Peterborough United V Shrewsbury Town,Peterborough United,Shrewsbury Town
+1335,L1,2019-02-23, 15:00,Plymouth Argyle V Rochdale,Plymouth Argyle,Rochdale
+1336,L1,2019-02-23, 15:00,Portsmouth V Barnsley,Portsmouth,Barnsley
+1337,L1,2019-02-23, 15:00,Scunthorpe United V Doncaster Rovers,Scunthorpe United,Doncaster Rovers
+1338,L1,2019-02-23, 15:00,Walsall V Bradford City,Walsall,Bradford City
+1339,L1,2019-02-23, 15:00,Wycombe Wanderers V Gillingham,Wycombe Wanderers,Gillingham
+1340,L1,2019-03-02, 15:00,Accrington Stanley V Coventry City,Accrington Stanley,Coventry City
+1341,L1,2019-03-02, 15:00,Bristol Rovers V Blackpool,Bristol Rovers,Blackpool
+1342,L1,2019-03-02, 15:00,Burton Albion V Walsall,Burton Albion,Walsall
+1343,L1,2019-03-02, 15:00,Doncaster Rovers V Charlton Athletic,Doncaster Rovers,Charlton Athletic
+1344,L1,2019-03-02, 15:00,Fleetwood Town V Gillingham,Fleetwood Town,Gillingham
+1345,L1,2019-03-02, 15:00,Luton Town V Rochdale,Luton Town,Rochdale
+1346,L1,2019-03-02, 15:00,Oxford United V Scunthorpe United,Oxford United,Scunthorpe United
+1347,L1,2019-03-02, 15:00,Peterborough United V Wycombe Wanderers,Peterborough United,Wycombe Wanderers
+1348,L1,2019-03-02, 15:00,Portsmouth V Bradford City,Portsmouth,Bradford City
+1349,L1,2019-03-02, 15:00,Shrewsbury Town V AFC Wimbledon,Shrewsbury Town,AFC Wimbledon
+1350,L1,2019-03-02, 15:00,Southend United V Barnsley,Southend United,Barnsley
+1351,L1,2019-03-02, 15:00,Sunderland V Plymouth Argyle,Sunderland,Plymouth Argyle
+1352,L1,2019-03-08, 19:45,Coventry City V Burton Albion,Coventry City,Burton Albion
+1353,L1,2019-03-09, 15:00,AFC Wimbledon V Doncaster Rovers,AFC Wimbledon,Doncaster Rovers
+1354,L1,2019-03-09, 15:00,Barnsley V Accrington Stanley,Barnsley,Accrington Stanley
+1355,L1,2019-03-09, 15:00,Blackpool V Southend United,Blackpool,Southend United
+1356,L1,2019-03-09, 15:00,Bradford City V Peterborough United,Bradford City,Peterborough United
+1357,L1,2019-03-09, 15:00,Charlton Athletic V Portsmouth,Charlton Athletic,Portsmouth
+1358,L1,2019-03-09, 15:00,Gillingham V Oxford United,Gillingham,Oxford United
+1359,L1,2019-03-09, 15:00,Plymouth Argyle V Luton Town,Plymouth Argyle,Luton Town
+1360,L1,2019-03-09, 15:00,Rochdale V Shrewsbury Town,Rochdale,Shrewsbury Town
+1361,L1,2019-03-09, 15:00,Scunthorpe United V Bristol Rovers,Scunthorpe United,Bristol Rovers
+1362,L1,2019-03-09, 15:00,Walsall V Fleetwood Town,Walsall,Fleetwood Town
+1363,L1,2019-03-09, 15:00,Wycombe Wanderers V Sunderland,Wycombe Wanderers,Sunderland
+1364,L1,2019-03-12, 19:45,AFC Wimbledon V Peterborough United,AFC Wimbledon,Peterborough United
+1365,L1,2019-03-12, 19:45,Barnsley V Sunderland,Barnsley,Sunderland
+1366,L1,2019-03-12, 19:45,Blackpool V Doncaster Rovers,Blackpool,Doncaster Rovers
+1367,L1,2019-03-12, 19:45,Bradford City V Luton Town,Bradford City,Luton Town
+1368,L1,2019-03-12, 19:45,Charlton Athletic V Burton Albion,Charlton Athletic,Burton Albion
+1369,L1,2019-03-12, 19:45,Coventry City V Fleetwood Town,Coventry City,Fleetwood Town
+1370,L1,2019-03-12, 19:45,Gillingham V Bristol Rovers,Gillingham,Bristol Rovers
+1371,L1,2019-03-12, 19:45,Plymouth Argyle V Shrewsbury Town,Plymouth Argyle,Shrewsbury Town
+1372,L1,2019-03-12, 19:45,Rochdale V Oxford United,Rochdale,Oxford United
+1373,L1,2019-03-12, 19:45,Scunthorpe United V Southend United,Scunthorpe United,Southend United
+1374,L1,2019-03-12, 19:45,Walsall V Portsmouth,Walsall,Portsmouth
+1375,L1,2019-03-12, 19:45,Wycombe Wanderers V Accrington Stanley,Wycombe Wanderers,Accrington Stanley
+1376,L1,2019-03-16, 15:00,Accrington Stanley V Rochdale,Accrington Stanley,Rochdale
+1377,L1,2019-03-16, 15:00,Bristol Rovers V Charlton Athletic,Bristol Rovers,Charlton Athletic
+1378,L1,2019-03-16, 15:00,Burton Albion V Blackpool,Burton Albion,Blackpool
+1379,L1,2019-03-16, 15:00,Doncaster Rovers V Barnsley,Doncaster Rovers,Barnsley
+1380,L1,2019-03-16, 15:00,Fleetwood Town V Plymouth Argyle,Fleetwood Town,Plymouth Argyle
+1381,L1,2019-03-16, 15:00,Luton Town V Gillingham,Luton Town,Gillingham
+1382,L1,2019-03-16, 15:00,Oxford United V Bradford City,Oxford United,Bradford City
+1383,L1,2019-03-16, 15:00,Peterborough United V Coventry City,Peterborough United,Coventry City
+1384,L1,2019-03-16, 15:00,Portsmouth V Scunthorpe United,Portsmouth,Scunthorpe United
+1385,L1,2019-03-16, 15:00,Shrewsbury Town V Wycombe Wanderers,Shrewsbury Town,Wycombe Wanderers
+1386,L1,2019-03-16, 15:00,Southend United V AFC Wimbledon,Southend United,AFC Wimbledon
+1387,L1,2019-03-16, 15:00,Sunderland V Walsall,Sunderland,Walsall
+1388,L1,2019-03-23, 15:00,AFC Wimbledon V Gillingham,AFC Wimbledon,Gillingham
+1389,L1,2019-03-23, 15:00,Bradford City V Blackpool,Bradford City,Blackpool
+1390,L1,2019-03-23, 15:00,Burton Albion V Accrington Stanley,Burton Albion,Accrington Stanley
+1391,L1,2019-03-23, 15:00,Coventry City V Oxford United,Coventry City,Oxford United
+1392,L1,2019-03-23, 15:00,Fleetwood Town V Sunderland,Fleetwood Town,Sunderland
+1393,L1,2019-03-23, 15:00,Luton Town V Doncaster Rovers,Luton Town,Doncaster Rovers
+1394,L1,2019-03-23, 15:00,Peterborough United V Southend United,Peterborough United,Southend United
+1395,L1,2019-03-23, 15:00,Plymouth Argyle V Bristol Rovers,Plymouth Argyle,Bristol Rovers
+1396,L1,2019-03-23, 15:00,Rochdale V Scunthorpe United,Rochdale,Scunthorpe United
+1397,L1,2019-03-23, 15:00,Shrewsbury Town V Portsmouth,Shrewsbury Town,Portsmouth
+1398,L1,2019-03-23, 15:00,Walsall V Barnsley,Walsall,Barnsley
+1399,L1,2019-03-23, 15:00,Wycombe Wanderers V Charlton Athletic,Wycombe Wanderers,Charlton Athletic
+1400,L1,2019-03-30, 15:00,Accrington Stanley V Fleetwood Town,Accrington Stanley,Fleetwood Town
+1401,L1,2019-03-30, 15:00,Barnsley V Coventry City,Barnsley,Coventry City
+1402,L1,2019-03-30, 15:00,Blackpool V Plymouth Argyle,Blackpool,Plymouth Argyle
+1403,L1,2019-03-30, 15:00,Bristol Rovers V Luton Town,Bristol Rovers,Luton Town
+1404,L1,2019-03-30, 15:00,Charlton Athletic V Bradford City,Charlton Athletic,Bradford City
+1405,L1,2019-03-30, 15:00,Doncaster Rovers V Walsall,Doncaster Rovers,Walsall
+1406,L1,2019-03-30, 15:00,Gillingham V Rochdale,Gillingham,Rochdale
+1407,L1,2019-03-30, 15:00,Oxford United V Wycombe Wanderers,Oxford United,Wycombe Wanderers
+1408,L1,2019-03-30, 15:00,Portsmouth V Peterborough United,Portsmouth,Peterborough United
+1409,L1,2019-03-30, 15:00,Scunthorpe United V AFC Wimbledon,Scunthorpe United,AFC Wimbledon
+1410,L1,2019-03-30, 15:00,Southend United V Shrewsbury Town,Southend United,Shrewsbury Town
+1411,L1,2019-03-30, 15:00,Sunderland V Burton Albion,Sunderland,Burton Albion
+1412,L1,2019-04-06, 15:00,AFC Wimbledon V Accrington Stanley,AFC Wimbledon,Accrington Stanley
+1413,L1,2019-04-06, 15:00,Bradford City V Doncaster Rovers,Bradford City,Doncaster Rovers
+1414,L1,2019-04-06, 15:00,Burton Albion V Barnsley,Burton Albion,Barnsley
+1415,L1,2019-04-06, 15:00,Fleetwood Town V Southend United,Fleetwood Town,Southend United
+1416,L1,2019-04-06, 15:00,Luton Town V Blackpool,Luton Town,Blackpool
+1417,L1,2019-04-06, 15:00,Peterborough United V Gillingham,Peterborough United,Gillingham
+1418,L1,2019-04-06, 15:00,Plymouth Argyle V Charlton Athletic,Plymouth Argyle,Charlton Athletic
+1419,L1,2019-04-06, 15:00,Rochdale V Sunderland,Rochdale,Sunderland
+1420,L1,2019-04-06, 15:00,Shrewsbury Town V Scunthorpe United,Shrewsbury Town,Scunthorpe United
+1421,L1,2019-04-06, 15:00,Walsall V Oxford United,Walsall,Oxford United
+1422,L1,2019-04-06, 15:00,Wycombe Wanderers V Portsmouth,Wycombe Wanderers,Portsmouth
+1423,L1,2019-04-07, 15:00,Coventry City V Bristol Rovers,Coventry City,Bristol Rovers
+1424,L1,2019-04-13, 15:00,Accrington Stanley V Walsall,Accrington Stanley,Walsall
+1425,L1,2019-04-13, 15:00,Barnsley V Fleetwood Town,Barnsley,Fleetwood Town
+1426,L1,2019-04-13, 15:00,Blackpool V Peterborough United,Blackpool,Peterborough United
+1427,L1,2019-04-13, 15:00,Bristol Rovers V Bradford City,Bristol Rovers,Bradford City
+1428,L1,2019-04-13, 15:00,Charlton Athletic V Luton Town,Charlton Athletic,Luton Town
+1429,L1,2019-04-13, 15:00,Doncaster Rovers V Plymouth Argyle,Doncaster Rovers,Plymouth Argyle
+1430,L1,2019-04-13, 15:00,Gillingham V Shrewsbury Town,Gillingham,Shrewsbury Town
+1431,L1,2019-04-13, 15:00,Oxford United V AFC Wimbledon,Oxford United,AFC Wimbledon
+1432,L1,2019-04-13, 15:00,Portsmouth V Rochdale,Portsmouth,Rochdale
+1433,L1,2019-04-13, 15:00,Scunthorpe United V Burton Albion,Scunthorpe United,Burton Albion
+1434,L1,2019-04-13, 15:00,Southend United V Wycombe Wanderers,Southend United,Wycombe Wanderers
+1435,L1,2019-04-13, 15:00,Sunderland V Coventry City,Sunderland,Coventry City
+1436,L1,2019-04-19, 15:00,AFC Wimbledon V Bristol Rovers,AFC Wimbledon,Bristol Rovers
+1437,L1,2019-04-19, 15:00,Accrington Stanley V Luton Town,Accrington Stanley,Luton Town
+1438,L1,2019-04-19, 15:00,Barnsley V Shrewsbury Town,Barnsley,Shrewsbury Town
+1439,L1,2019-04-19, 15:00,Burton Albion V Portsmouth,Burton Albion,Portsmouth
+1440,L1,2019-04-19, 15:00,Coventry City V Bradford City,Coventry City,Bradford City
+1441,L1,2019-04-19, 15:00,Fleetwood Town V Peterborough United,Fleetwood Town,Peterborough United
+1442,L1,2019-04-19, 15:00,Gillingham V Plymouth Argyle,Gillingham,Plymouth Argyle
+1443,L1,2019-04-19, 15:00,Oxford United V Charlton Athletic,Oxford United,Charlton Athletic
+1444,L1,2019-04-19, 15:00,Rochdale V Wycombe Wanderers,Rochdale,Wycombe Wanderers
+1445,L1,2019-04-19, 15:00,Scunthorpe United V Blackpool,Scunthorpe United,Blackpool
+1446,L1,2019-04-19, 15:00,Sunderland V Doncaster Rovers,Sunderland,Doncaster Rovers
+1447,L1,2019-04-19, 15:00,Walsall V Southend United,Walsall,Southend United
+1448,L1,2019-04-22, 13:00,Southend United V Burton Albion,Southend United,Burton Albion
+1449,L1,2019-04-22, 15:00,Blackpool V Fleetwood Town,Blackpool,Fleetwood Town
+1450,L1,2019-04-22, 15:00,Bradford City V Gillingham,Bradford City,Gillingham
+1451,L1,2019-04-22, 15:00,Bristol Rovers V Rochdale,Bristol Rovers,Rochdale
+1452,L1,2019-04-22, 15:00,Charlton Athletic V Scunthorpe United,Charlton Athletic,Scunthorpe United
+1453,L1,2019-04-22, 15:00,Doncaster Rovers V Accrington Stanley,Doncaster Rovers,Accrington Stanley
+1454,L1,2019-04-22, 15:00,Luton Town V AFC Wimbledon,Luton Town,AFC Wimbledon
+1455,L1,2019-04-22, 15:00,Peterborough United V Sunderland,Peterborough United,Sunderland
+1456,L1,2019-04-22, 15:00,Plymouth Argyle V Barnsley,Plymouth Argyle,Barnsley
+1457,L1,2019-04-22, 15:00,Portsmouth V Coventry City,Portsmouth,Coventry City
+1458,L1,2019-04-22, 15:00,Shrewsbury Town V Oxford United,Shrewsbury Town,Oxford United
+1459,L1,2019-04-22, 15:00,Wycombe Wanderers V Walsall,Wycombe Wanderers,Walsall
+1460,L1,2019-04-27, 15:00,AFC Wimbledon V Wycombe Wanderers,AFC Wimbledon,Wycombe Wanderers
+1461,L1,2019-04-27, 15:00,Accrington Stanley V Plymouth Argyle,Accrington Stanley,Plymouth Argyle
+1462,L1,2019-04-27, 15:00,Barnsley V Blackpool,Barnsley,Blackpool
+1463,L1,2019-04-27, 15:00,Burton Albion V Luton Town,Burton Albion,Luton Town
+1464,L1,2019-04-27, 15:00,Coventry City V Shrewsbury Town,Coventry City,Shrewsbury Town
+1465,L1,2019-04-27, 15:00,Fleetwood Town V Bristol Rovers,Fleetwood Town,Bristol Rovers
+1466,L1,2019-04-27, 15:00,Gillingham V Charlton Athletic,Gillingham,Charlton Athletic
+1467,L1,2019-04-27, 15:00,Oxford United V Doncaster Rovers,Oxford United,Doncaster Rovers
+1468,L1,2019-04-27, 15:00,Rochdale V Southend United,Rochdale,Southend United
+1469,L1,2019-04-27, 15:00,Scunthorpe United V Bradford City,Scunthorpe United,Bradford City
+1470,L1,2019-04-27, 15:00,Sunderland V Portsmouth,Sunderland,Portsmouth
+1471,L1,2019-04-27, 15:00,Walsall V Peterborough United,Walsall,Peterborough United
+1472,L1,2019-05-04, 17:30,Blackpool V Gillingham,Blackpool,Gillingham
+1473,L1,2019-05-04, 17:30,Bradford City V AFC Wimbledon,Bradford City,AFC Wimbledon
+1474,L1,2019-05-04, 17:30,Bristol Rovers V Barnsley,Bristol Rovers,Barnsley
+1475,L1,2019-05-04, 17:30,Charlton Athletic V Rochdale,Charlton Athletic,Rochdale
+1476,L1,2019-05-04, 17:30,Doncaster Rovers V Coventry City,Doncaster Rovers,Coventry City
+1477,L1,2019-05-04, 17:30,Luton Town V Oxford United,Luton Town,Oxford United
+1478,L1,2019-05-04, 17:30,Peterborough United V Burton Albion,Peterborough United,Burton Albion
+1479,L1,2019-05-04, 17:30,Plymouth Argyle V Scunthorpe United,Plymouth Argyle,Scunthorpe United
+1480,L1,2019-05-04, 17:30,Portsmouth V Accrington Stanley,Portsmouth,Accrington Stanley
+1481,L1,2019-05-04, 17:30,Shrewsbury Town V Walsall,Shrewsbury Town,Walsall
+1482,L1,2019-05-04, 17:30,Southend United V Sunderland,Southend United,Sunderland
+1483,L1,2019-05-04, 17:30,Wycombe Wanderers V Fleetwood Town,Wycombe Wanderers,Fleetwood Town
+1484,L2,2018-08-04,15:00:00,Bury V Yeovil Town,Bury,Yeovil Town
+1485,L2,2018-08-04,15:00:00,Cheltenham Town V Crawley Town,Cheltenham Town,Crawley Town
+1486,L2,2018-08-04,15:00:00,Crewe Alexandra V Morecambe,Crewe Alexandra,Morecambe
+1487,L2,2018-08-04,15:00:00,Exeter City V Carlisle United,Exeter City,Carlisle United
+1488,L2,2018-08-04,15:00:00,Grimsby Town V Forest Green Rovers,Grimsby Town,Forest Green Rovers
+1489,L2,2018-08-04,15:00:00,Mansfield Town V Newport County AFC,Mansfield Town,Newport County AFC
+1490,L2,2018-08-04,15:00:00,Northampton Town V Lincoln City,Northampton Town,Lincoln City
+1491,L2,2018-08-04,15:00:00,Notts County V Colchester United,Notts County,Colchester United
+1492,L2,2018-08-04,15:00:00,Oldham Athletic V Milton Keynes Dons,Oldham Athletic,Milton Keynes Dons
+1493,L2,2018-08-04,15:00:00,Port Vale V Cambridge United,Port Vale,Cambridge United
+1494,L2,2018-08-04,15:00:00,Stevenage V Tranmere Rovers,Stevenage,Tranmere Rovers
+1495,L2,2018-08-04,15:00:00,Swindon Town V Macclesfield Town,Swindon Town,Macclesfield Town
+1496,L2,2018-08-11,15:00:00,Cambridge United V Notts County,Cambridge United,Notts County
+1497,L2,2018-08-11,15:00:00,Carlisle United V Northampton Town,Carlisle United,Northampton Town
+1498,L2,2018-08-11,15:00:00,Colchester United V Port Vale,Colchester United,Port Vale
+1499,L2,2018-08-11,15:00:00,Crawley Town V Stevenage,Crawley Town,Stevenage
+1500,L2,2018-08-11,15:00:00,Forest Green Rovers V Oldham Athletic,Forest Green Rovers,Oldham Athletic
+1501,L2,2018-08-11,15:00:00,Lincoln City V Swindon Town,Lincoln City,Swindon Town
+1502,L2,2018-08-11,15:00:00,Macclesfield Town V Grimsby Town,Macclesfield Town,Grimsby Town
+1503,L2,2018-08-11,15:00:00,Milton Keynes Dons V Bury,Milton Keynes Dons,Bury
+1504,L2,2018-08-11,15:00:00,Morecambe V Exeter City,Morecambe,Exeter City
+1505,L2,2018-08-11,15:00:00,Newport County AFC V Crewe Alexandra,Newport County AFC,Crewe Alexandra
+1506,L2,2018-08-11,15:00:00,Tranmere Rovers V Cheltenham Town,Tranmere Rovers,Cheltenham Town
+1507,L2,2018-08-11,15:00:00,Yeovil Town V Mansfield Town,Yeovil Town,Mansfield Town
+1508,L2,2018-08-17, 19:45,Notts County V Yeovil Town,Notts County,Yeovil Town
+1509,L2,2018-08-18, 13:00,Grimsby Town V Lincoln City,Grimsby Town,Lincoln City
+1510,L2,2018-08-18, 15:00,Bury V Forest Green Rovers,Bury,Forest Green Rovers
+1511,L2,2018-08-18, 15:00,Cheltenham Town V Carlisle United,Cheltenham Town,Carlisle United
+1512,L2,2018-08-18, 15:00,Crewe Alexandra V Milton Keynes Dons,Crewe Alexandra,Milton Keynes Dons
+1513,L2,2018-08-18, 15:00,Exeter City V Newport County AFC,Exeter City,Newport County AFC
+1514,L2,2018-08-18, 15:00,Mansfield Town V Colchester United,Mansfield Town,Colchester United
+1515,L2,2018-08-18, 15:00,Northampton Town V Cambridge United,Northampton Town,Cambridge United
+1516,L2,2018-08-18, 15:00,Oldham Athletic V Macclesfield Town,Oldham Athletic,Macclesfield Town
+1517,L2,2018-08-18, 15:00,Port Vale V Crawley Town,Port Vale,Crawley Town
+1518,L2,2018-08-18, 15:00,Stevenage V Morecambe,Stevenage,Morecambe
+1519,L2,2018-08-18, 15:00,Swindon Town V Tranmere Rovers,Swindon Town,Tranmere Rovers
+1520,L2,2018-08-21, 19:45,Cambridge United V Exeter City,Cambridge United,Exeter City
+1521,L2,2018-08-21, 19:45,Carlisle United V Port Vale,Carlisle United,Port Vale
+1522,L2,2018-08-21, 19:45,Colchester United V Crewe Alexandra,Colchester United,Crewe Alexandra
+1523,L2,2018-08-21, 19:45,Crawley Town V Swindon Town,Crawley Town,Swindon Town
+1524,L2,2018-08-21, 19:45,Forest Green Rovers V Stevenage,Forest Green Rovers,Stevenage
+1525,L2,2018-08-21, 19:45,Lincoln City V Bury,Lincoln City,Bury
+1526,L2,2018-08-21, 19:45,Macclesfield Town V Cheltenham Town,Macclesfield Town,Cheltenham Town
+1527,L2,2018-08-21, 19:45,Milton Keynes Dons V Grimsby Town,Milton Keynes Dons,Grimsby Town
+1528,L2,2018-08-21, 19:45,Morecambe V Northampton Town,Morecambe,Northampton Town
+1529,L2,2018-08-21, 19:45,Newport County AFC V Notts County,Newport County AFC,Notts County
+1530,L2,2018-08-21, 19:45,Tranmere Rovers V Mansfield Town,Tranmere Rovers,Mansfield Town
+1531,L2,2018-08-21, 19:45,Yeovil Town V Oldham Athletic,Yeovil Town,Oldham Athletic
+1532,L2,2018-08-25, 15:00,Cambridge United V Cheltenham Town,Cambridge United,Cheltenham Town
+1533,L2,2018-08-25, 15:00,Carlisle United V Crewe Alexandra,Carlisle United,Crewe Alexandra
+1534,L2,2018-08-25, 15:00,Colchester United V Northampton Town,Colchester United,Northampton Town
+1535,L2,2018-08-25, 15:00,Crawley Town V Bury,Crawley Town,Bury
+1536,L2,2018-08-25, 15:00,Forest Green Rovers V Swindon Town,Forest Green Rovers,Swindon Town
+1537,L2,2018-08-25, 15:00,Lincoln City V Notts County,Lincoln City,Notts County
+1538,L2,2018-08-25, 15:00,Macclesfield Town V Mansfield Town,Macclesfield Town,Mansfield Town
+1539,L2,2018-08-25, 15:00,Milton Keynes Dons V Exeter City,Milton Keynes Dons,Exeter City
+1540,L2,2018-08-25, 15:00,Morecambe V Oldham Athletic,Morecambe,Oldham Athletic
+1541,L2,2018-08-25, 15:00,Newport County AFC V Grimsby Town,Newport County AFC,Grimsby Town
+1542,L2,2018-08-25, 15:00,Tranmere Rovers V Port Vale,Tranmere Rovers,Port Vale
+1543,L2,2018-08-25, 15:00,Yeovil Town V Stevenage,Yeovil Town,Stevenage
+1544,L2,2018-09-01, 15:00,Bury V Morecambe,Bury,Morecambe
+1545,L2,2018-09-01, 15:00,Cheltenham Town V Colchester United,Cheltenham Town,Colchester United
+1546,L2,2018-09-01, 15:00,Crewe Alexandra V Macclesfield Town,Crewe Alexandra,Macclesfield Town
+1547,L2,2018-09-01, 15:00,Exeter City V Lincoln City,Exeter City,Lincoln City
+1548,L2,2018-09-01, 15:00,Grimsby Town V Yeovil Town,Grimsby Town,Yeovil Town
+1549,L2,2018-09-01, 15:00,Mansfield Town V Carlisle United,Mansfield Town,Carlisle United
+1550,L2,2018-09-01, 15:00,Northampton Town V Tranmere Rovers,Northampton Town,Tranmere Rovers
+1551,L2,2018-09-01, 15:00,Notts County V Forest Green Rovers,Notts County,Forest Green Rovers
+1552,L2,2018-09-01, 15:00,Oldham Athletic V Crawley Town,Oldham Athletic,Crawley Town
+1553,L2,2018-09-01, 15:00,Port Vale V Newport County AFC,Port Vale,Newport County AFC
+1554,L2,2018-09-01, 15:00,Stevenage V Cambridge United,Stevenage,Cambridge United
+1555,L2,2018-09-01, 15:00,Swindon Town V Milton Keynes Dons,Swindon Town,Milton Keynes Dons
+1556,L2,2018-09-08, 15:00,Bury V Grimsby Town,Bury,Grimsby Town
+1557,L2,2018-09-08, 15:00,Cambridge United V Carlisle United,Cambridge United,Carlisle United
+1558,L2,2018-09-08, 15:00,Crewe Alexandra V Mansfield Town,Crewe Alexandra,Mansfield Town
+1559,L2,2018-09-08, 15:00,Exeter City V Notts County,Exeter City,Notts County
+1560,L2,2018-09-08, 15:00,Forest Green Rovers V Port Vale,Forest Green Rovers,Port Vale
+1561,L2,2018-09-08, 15:00,Lincoln City V Crawley Town,Lincoln City,Crawley Town
+1562,L2,2018-09-08, 15:00,Morecambe V Swindon Town,Morecambe,Swindon Town
+1563,L2,2018-09-08, 15:00,Northampton Town V Cheltenham Town,Northampton Town,Cheltenham Town
+1564,L2,2018-09-08, 15:00,Oldham Athletic V Newport County AFC,Oldham Athletic,Newport County AFC
+1565,L2,2018-09-08, 15:00,Stevenage V Macclesfield Town,Stevenage,Macclesfield Town
+1566,L2,2018-09-08, 15:00,Tranmere Rovers V Colchester United,Tranmere Rovers,Colchester United
+1567,L2,2018-09-08, 15:00,Yeovil Town V Milton Keynes Dons,Yeovil Town,Milton Keynes Dons
+1568,L2,2018-09-15, 15:00,Carlisle United V Tranmere Rovers,Carlisle United,Tranmere Rovers
+1569,L2,2018-09-15, 15:00,Cheltenham Town V Crewe Alexandra,Cheltenham Town,Crewe Alexandra
+1570,L2,2018-09-15, 15:00,Colchester United V Cambridge United,Colchester United,Cambridge United
+1571,L2,2018-09-15, 15:00,Crawley Town V Morecambe,Crawley Town,Morecambe
+1572,L2,2018-09-15, 15:00,Grimsby Town V Oldham Athletic,Grimsby Town,Oldham Athletic
+1573,L2,2018-09-15, 15:00,Macclesfield Town V Lincoln City,Macclesfield Town,Lincoln City
+1574,L2,2018-09-15, 15:00,Mansfield Town V Exeter City,Mansfield Town,Exeter City
+1575,L2,2018-09-15, 15:00,Milton Keynes Dons V Forest Green Rovers,Milton Keynes Dons,Forest Green Rovers
+1576,L2,2018-09-15, 15:00,Newport County AFC V Yeovil Town,Newport County AFC,Yeovil Town
+1577,L2,2018-09-15, 15:00,Notts County V Stevenage,Notts County,Stevenage
+1578,L2,2018-09-15, 15:00,Port Vale V Northampton Town,Port Vale,Northampton Town
+1579,L2,2018-09-15, 15:00,Swindon Town V Bury,Swindon Town,Bury
+1580,L2,2018-09-22, 15:00,Bury V Carlisle United,Bury,Carlisle United
+1581,L2,2018-09-22, 15:00,Cambridge United V Mansfield Town,Cambridge United,Mansfield Town
+1582,L2,2018-09-22, 15:00,Crewe Alexandra V Port Vale,Crewe Alexandra,Port Vale
+1583,L2,2018-09-22, 15:00,Exeter City V Cheltenham Town,Exeter City,Cheltenham Town
+1584,L2,2018-09-22, 15:00,Forest Green Rovers V Crawley Town,Forest Green Rovers,Crawley Town
+1585,L2,2018-09-22, 15:00,Lincoln City V Milton Keynes Dons,Lincoln City,Milton Keynes Dons
+1586,L2,2018-09-22, 15:00,Morecambe V Macclesfield Town,Morecambe,Macclesfield Town
+1587,L2,2018-09-22, 15:00,Northampton Town V Notts County,Northampton Town,Notts County
+1588,L2,2018-09-22, 15:00,Oldham Athletic V Colchester United,Oldham Athletic,Colchester United
+1589,L2,2018-09-22, 15:00,Stevenage V Grimsby Town,Stevenage,Grimsby Town
+1590,L2,2018-09-22, 15:00,Tranmere Rovers V Newport County AFC,Tranmere Rovers,Newport County AFC
+1591,L2,2018-09-22, 15:00,Yeovil Town V Swindon Town,Yeovil Town,Swindon Town
+1592,L2,2018-09-29, 15:00,Carlisle United V Stevenage,Carlisle United,Stevenage
+1593,L2,2018-09-29, 15:00,Cheltenham Town V Lincoln City,Cheltenham Town,Lincoln City
+1594,L2,2018-09-29, 15:00,Colchester United V Bury,Colchester United,Bury
+1595,L2,2018-09-29, 15:00,Crawley Town V Yeovil Town,Crawley Town,Yeovil Town
+1596,L2,2018-09-29, 15:00,Grimsby Town V Morecambe,Grimsby Town,Morecambe
+1597,L2,2018-09-29, 15:00,Macclesfield Town V Forest Green Rovers,Macclesfield Town,Forest Green Rovers
+1598,L2,2018-09-29, 15:00,Mansfield Town V Northampton Town,Mansfield Town,Northampton Town
+1599,L2,2018-09-29, 15:00,Milton Keynes Dons V Tranmere Rovers,Milton Keynes Dons,Tranmere Rovers
+1600,L2,2018-09-29, 15:00,Newport County AFC V Cambridge United,Newport County AFC,Cambridge United
+1601,L2,2018-09-29, 15:00,Notts County V Crewe Alexandra,Notts County,Crewe Alexandra
+1602,L2,2018-09-29, 15:00,Port Vale V Exeter City,Port Vale,Exeter City
+1603,L2,2018-09-29, 15:00,Swindon Town V Oldham Athletic,Swindon Town,Oldham Athletic
+1604,L2,2018-10-02, 19:45,Cambridge United V Forest Green Rovers,Cambridge United,Forest Green Rovers
+1605,L2,2018-10-02, 19:45,Carlisle United V Grimsby Town,Carlisle United,Grimsby Town
+1606,L2,2018-10-02, 19:45,Cheltenham Town V Morecambe,Cheltenham Town,Morecambe
+1607,L2,2018-10-02, 19:45,Colchester United V Yeovil Town,Colchester United,Yeovil Town
+1608,L2,2018-10-02, 19:45,Crewe Alexandra V Swindon Town,Crewe Alexandra,Swindon Town
+1609,L2,2018-10-02, 19:45,Exeter City V Stevenage,Exeter City,Stevenage
+1610,L2,2018-10-02, 19:45,Mansfield Town V Oldham Athletic,Mansfield Town,Oldham Athletic
+1611,L2,2018-10-02, 19:45,Newport County AFC V Macclesfield Town,Newport County AFC,Macclesfield Town
+1612,L2,2018-10-02, 19:45,Northampton Town V Bury,Northampton Town,Bury
+1613,L2,2018-10-02, 19:45,Notts County V Crawley Town,Notts County,Crawley Town
+1614,L2,2018-10-02, 19:45,Port Vale V Milton Keynes Dons,Port Vale,Milton Keynes Dons
+1615,L2,2018-10-02, 19:45,Tranmere Rovers V Lincoln City,Tranmere Rovers,Lincoln City
+1616,L2,2018-10-06, 15:00,Bury V Mansfield Town,Bury,Mansfield Town
+1617,L2,2018-10-06, 15:00,Crawley Town V Cambridge United,Crawley Town,Cambridge United
+1618,L2,2018-10-06, 15:00,Forest Green Rovers V Newport County AFC,Forest Green Rovers,Newport County AFC
+1619,L2,2018-10-06, 15:00,Grimsby Town V Port Vale,Grimsby Town,Port Vale
+1620,L2,2018-10-06, 15:00,Lincoln City V Crewe Alexandra,Lincoln City,Crewe Alexandra
+1621,L2,2018-10-06, 15:00,Macclesfield Town V Notts County,Macclesfield Town,Notts County
+1622,L2,2018-10-06, 15:00,Milton Keynes Dons V Cheltenham Town,Milton Keynes Dons,Cheltenham Town
+1623,L2,2018-10-06, 15:00,Morecambe V Tranmere Rovers,Morecambe,Tranmere Rovers
+1624,L2,2018-10-06, 15:00,Oldham Athletic V Carlisle United,Oldham Athletic,Carlisle United
+1625,L2,2018-10-06, 15:00,Stevenage V Colchester United,Stevenage,Colchester United
+1626,L2,2018-10-06, 15:00,Swindon Town V Northampton Town,Swindon Town,Northampton Town
+1627,L2,2018-10-06, 15:00,Yeovil Town V Exeter City,Yeovil Town,Exeter City
+1628,L2,2018-10-12, 19:45,Tranmere Rovers V Macclesfield Town,Tranmere Rovers,Macclesfield Town
+1629,L2,2018-10-13, 13:00,Mansfield Town V Grimsby Town,Mansfield Town,Grimsby Town
+1630,L2,2018-10-13, 15:00,Cambridge United V Milton Keynes Dons,Cambridge United,Milton Keynes Dons
+1631,L2,2018-10-13, 15:00,Carlisle United V Morecambe,Carlisle United,Morecambe
+1632,L2,2018-10-13, 15:00,Cheltenham Town V Yeovil Town,Cheltenham Town,Yeovil Town
+1633,L2,2018-10-13, 15:00,Colchester United V Crawley Town,Colchester United,Crawley Town
+1634,L2,2018-10-13, 15:00,Crewe Alexandra V Bury,Crewe Alexandra,Bury
+1635,L2,2018-10-13, 15:00,Exeter City V Swindon Town,Exeter City,Swindon Town
+1636,L2,2018-10-13, 15:00,Newport County AFC V Stevenage,Newport County AFC,Stevenage
+1637,L2,2018-10-13, 15:00,Northampton Town V Forest Green Rovers,Northampton Town,Forest Green Rovers
+1638,L2,2018-10-13, 15:00,Notts County V Oldham Athletic,Notts County,Oldham Athletic
+1639,L2,2018-10-13, 15:00,Port Vale V Lincoln City,Port Vale,Lincoln City
+1640,L2,2018-10-20, 15:00,Bury V Notts County,Bury,Notts County
+1641,L2,2018-10-20, 15:00,Crawley Town V Newport County AFC,Crawley Town,Newport County AFC
+1642,L2,2018-10-20, 15:00,Forest Green Rovers V Cheltenham Town,Forest Green Rovers,Cheltenham Town
+1643,L2,2018-10-20, 15:00,Grimsby Town V Exeter City,Grimsby Town,Exeter City
+1644,L2,2018-10-20, 15:00,Lincoln City V Cambridge United,Lincoln City,Cambridge United
+1645,L2,2018-10-20, 15:00,Macclesfield Town V Carlisle United,Macclesfield Town,Carlisle United
+1646,L2,2018-10-20, 15:00,Milton Keynes Dons V Northampton Town,Milton Keynes Dons,Northampton Town
+1647,L2,2018-10-20, 15:00,Morecambe V Colchester United,Morecambe,Colchester United
+1648,L2,2018-10-20, 15:00,Oldham Athletic V Port Vale,Oldham Athletic,Port Vale
+1649,L2,2018-10-20, 15:00,Stevenage V Crewe Alexandra,Stevenage,Crewe Alexandra
+1650,L2,2018-10-20, 15:00,Swindon Town V Mansfield Town,Swindon Town,Mansfield Town
+1651,L2,2018-10-20, 15:00,Yeovil Town V Tranmere Rovers,Yeovil Town,Tranmere Rovers
+1652,L2,2018-10-23, 19:45,Bury V Newport County AFC,Bury,Newport County AFC
+1653,L2,2018-10-23, 19:45,Crawley Town V Exeter City,Crawley Town,Exeter City
+1654,L2,2018-10-23, 19:45,Forest Green Rovers V Tranmere Rovers,Forest Green Rovers,Tranmere Rovers
+1655,L2,2018-10-23, 19:45,Grimsby Town V Colchester United,Grimsby Town,Colchester United
+1656,L2,2018-10-23, 19:45,Lincoln City V Carlisle United,Lincoln City,Carlisle United
+1657,L2,2018-10-23, 19:45,Macclesfield Town V Northampton Town,Macclesfield Town,Northampton Town
+1658,L2,2018-10-23, 19:45,Milton Keynes Dons V Notts County,Milton Keynes Dons,Notts County
+1659,L2,2018-10-23, 19:45,Morecambe V Mansfield Town,Morecambe,Mansfield Town
+1660,L2,2018-10-23, 19:45,Oldham Athletic V Cheltenham Town,Oldham Athletic,Cheltenham Town
+1661,L2,2018-10-23, 19:45,Stevenage V Port Vale,Stevenage,Port Vale
+1662,L2,2018-10-23, 19:45,Swindon Town V Cambridge United,Swindon Town,Cambridge United
+1663,L2,2018-10-23, 19:45,Yeovil Town V Crewe Alexandra,Yeovil Town,Crewe Alexandra
+1664,L2,2018-10-27, 15:00,Cambridge United V Macclesfield Town,Cambridge United,Macclesfield Town
+1665,L2,2018-10-27, 15:00,Carlisle United V Yeovil Town,Carlisle United,Yeovil Town
+1666,L2,2018-10-27, 15:00,Cheltenham Town V Stevenage,Cheltenham Town,Stevenage
+1667,L2,2018-10-27, 15:00,Colchester United V Lincoln City,Colchester United,Lincoln City
+1668,L2,2018-10-27, 15:00,Crewe Alexandra V Grimsby Town,Crewe Alexandra,Grimsby Town
+1669,L2,2018-10-27, 15:00,Exeter City V Forest Green Rovers,Exeter City,Forest Green Rovers
+1670,L2,2018-10-27, 15:00,Mansfield Town V Milton Keynes Dons,Mansfield Town,Milton Keynes Dons
+1671,L2,2018-10-27, 15:00,Newport County AFC V Morecambe,Newport County AFC,Morecambe
+1672,L2,2018-10-27, 15:00,Northampton Town V Oldham Athletic,Northampton Town,Oldham Athletic
+1673,L2,2018-10-27, 15:00,Notts County V Swindon Town,Notts County,Swindon Town
+1674,L2,2018-10-27, 15:00,Port Vale V Bury,Port Vale,Bury
+1675,L2,2018-10-27, 15:00,Tranmere Rovers V Crawley Town,Tranmere Rovers,Crawley Town
+1676,L2,2018-11-03, 15:00,Cambridge United V Grimsby Town,Cambridge United,Grimsby Town
+1677,L2,2018-11-03, 15:00,Carlisle United V Newport County AFC,Carlisle United,Newport County AFC
+1678,L2,2018-11-03, 15:00,Cheltenham Town V Mansfield Town,Cheltenham Town,Mansfield Town
+1679,L2,2018-11-03, 15:00,Colchester United V Swindon Town,Colchester United,Swindon Town
+1680,L2,2018-11-03, 15:00,Crawley Town V Milton Keynes Dons,Crawley Town,Milton Keynes Dons
+1681,L2,2018-11-03, 15:00,Lincoln City V Forest Green Rovers,Lincoln City,Forest Green Rovers
+1682,L2,2018-11-03, 15:00,Macclesfield Town V Bury,Macclesfield Town,Bury
+1683,L2,2018-11-03, 15:00,Morecambe V Yeovil Town,Morecambe,Yeovil Town
+1684,L2,2018-11-03, 15:00,Northampton Town V Crewe Alexandra,Northampton Town,Crewe Alexandra
+1685,L2,2018-11-03, 15:00,Port Vale V Notts County,Port Vale,Notts County
+1686,L2,2018-11-03, 15:00,Stevenage V Oldham Athletic,Stevenage,Oldham Athletic
+1687,L2,2018-11-03, 15:00,Tranmere Rovers V Exeter City,Tranmere Rovers,Exeter City
+1688,L2,2018-11-17, 15:00,Bury V Stevenage,Bury,Stevenage
+1689,L2,2018-11-17, 15:00,Crewe Alexandra V Tranmere Rovers,Crewe Alexandra,Tranmere Rovers
+1690,L2,2018-11-17, 15:00,Exeter City V Northampton Town,Exeter City,Northampton Town
+1691,L2,2018-11-17, 15:00,Forest Green Rovers V Morecambe,Forest Green Rovers,Morecambe
+1692,L2,2018-11-17, 15:00,Grimsby Town V Crawley Town,Grimsby Town,Crawley Town
+1693,L2,2018-11-17, 15:00,Mansfield Town V Port Vale,Mansfield Town,Port Vale
+1694,L2,2018-11-17, 15:00,Milton Keynes Dons V Macclesfield Town,Milton Keynes Dons,Macclesfield Town
+1695,L2,2018-11-17, 15:00,Newport County AFC V Colchester United,Newport County AFC,Colchester United
+1696,L2,2018-11-17, 15:00,Notts County V Cheltenham Town,Notts County,Cheltenham Town
+1697,L2,2018-11-17, 15:00,Oldham Athletic V Cambridge United,Oldham Athletic,Cambridge United
+1698,L2,2018-11-17, 15:00,Swindon Town V Carlisle United,Swindon Town,Carlisle United
+1699,L2,2018-11-17, 15:00,Yeovil Town V Lincoln City,Yeovil Town,Lincoln City
+1700,L2,2018-11-24, 13:00,Lincoln City V Mansfield Town,Lincoln City,Mansfield Town
+1701,L2,2018-11-24, 15:00,Cambridge United V Bury,Cambridge United,Bury
+1702,L2,2018-11-24, 15:00,Carlisle United V Forest Green Rovers,Carlisle United,Forest Green Rovers
+1703,L2,2018-11-24, 15:00,Cheltenham Town V Newport County AFC,Cheltenham Town,Newport County AFC
+1704,L2,2018-11-24, 15:00,Colchester United V Exeter City,Colchester United,Exeter City
+1705,L2,2018-11-24, 15:00,Crawley Town V Crewe Alexandra,Crawley Town,Crewe Alexandra
+1706,L2,2018-11-24, 15:00,Macclesfield Town V Yeovil Town,Macclesfield Town,Yeovil Town
+1707,L2,2018-11-24, 15:00,Morecambe V Notts County,Morecambe,Notts County
+1708,L2,2018-11-24, 15:00,Northampton Town V Grimsby Town,Northampton Town,Grimsby Town
+1709,L2,2018-11-24, 15:00,Port Vale V Swindon Town,Port Vale,Swindon Town
+1710,L2,2018-11-24, 15:00,Stevenage V Milton Keynes Dons,Stevenage,Milton Keynes Dons
+1711,L2,2018-11-24, 15:00,Tranmere Rovers V Oldham Athletic,Tranmere Rovers,Oldham Athletic
+1712,L2,2018-11-27, 19:45,Bury V Cheltenham Town,Bury,Cheltenham Town
+1713,L2,2018-11-27, 19:45,Crewe Alexandra V Cambridge United,Crewe Alexandra,Cambridge United
+1714,L2,2018-11-27, 19:45,Exeter City V Macclesfield Town,Exeter City,Macclesfield Town
+1715,L2,2018-11-27, 19:45,Forest Green Rovers V Colchester United,Forest Green Rovers,Colchester United
+1716,L2,2018-11-27, 19:45,Grimsby Town V Tranmere Rovers,Grimsby Town,Tranmere Rovers
+1717,L2,2018-11-27, 19:45,Mansfield Town V Crawley Town,Mansfield Town,Crawley Town
+1718,L2,2018-11-27, 19:45,Milton Keynes Dons V Morecambe,Milton Keynes Dons,Morecambe
+1719,L2,2018-11-27, 19:45,Newport County AFC V Northampton Town,Newport County AFC,Northampton Town
+1720,L2,2018-11-27, 19:45,Notts County V Carlisle United,Notts County,Carlisle United
+1721,L2,2018-11-27, 19:45,Oldham Athletic V Lincoln City,Oldham Athletic,Lincoln City
+1722,L2,2018-11-27, 19:45,Swindon Town V Stevenage,Swindon Town,Stevenage
+1723,L2,2018-11-27, 19:45,Yeovil Town V Port Vale,Yeovil Town,Port Vale
+1724,L2,2018-12-08, 13:00,Mansfield Town V Notts County,Mansfield Town,Notts County
+1725,L2,2018-12-08, 15:00,Bury V Exeter City,Bury,Exeter City
+1726,L2,2018-12-08, 15:00,Cheltenham Town V Grimsby Town,Cheltenham Town,Grimsby Town
+1727,L2,2018-12-08, 15:00,Colchester United V Macclesfield Town,Colchester United,Macclesfield Town
+1728,L2,2018-12-08, 15:00,Crawley Town V Northampton Town,Crawley Town,Northampton Town
+1729,L2,2018-12-08, 15:00,Crewe Alexandra V Oldham Athletic,Crewe Alexandra,Oldham Athletic
+1730,L2,2018-12-08, 15:00,Milton Keynes Dons V Carlisle United,Milton Keynes Dons,Carlisle United
+1731,L2,2018-12-08, 15:00,Morecambe V Port Vale,Morecambe,Port Vale
+1732,L2,2018-12-08, 15:00,Stevenage V Lincoln City,Stevenage,Lincoln City
+1733,L2,2018-12-08, 15:00,Swindon Town V Newport County AFC,Swindon Town,Newport County AFC
+1734,L2,2018-12-08, 15:00,Tranmere Rovers V Cambridge United,Tranmere Rovers,Cambridge United
+1735,L2,2018-12-08, 15:00,Yeovil Town V Forest Green Rovers,Yeovil Town,Forest Green Rovers
+1736,L2,2018-12-15, 15:00,Cambridge United V Yeovil Town,Cambridge United,Yeovil Town
+1737,L2,2018-12-15, 15:00,Carlisle United V Colchester United,Carlisle United,Colchester United
+1738,L2,2018-12-15, 15:00,Exeter City V Crewe Alexandra,Exeter City,Crewe Alexandra
+1739,L2,2018-12-15, 15:00,Forest Green Rovers V Mansfield Town,Forest Green Rovers,Mansfield Town
+1740,L2,2018-12-15, 15:00,Grimsby Town V Swindon Town,Grimsby Town,Swindon Town
+1741,L2,2018-12-15, 15:00,Lincoln City V Morecambe,Lincoln City,Morecambe
+1742,L2,2018-12-15, 15:00,Macclesfield Town V Crawley Town,Macclesfield Town,Crawley Town
+1743,L2,2018-12-15, 15:00,Newport County AFC V Milton Keynes Dons,Newport County AFC,Milton Keynes Dons
+1744,L2,2018-12-15, 15:00,Northampton Town V Stevenage,Northampton Town,Stevenage
+1745,L2,2018-12-15, 15:00,Notts County V Tranmere Rovers,Notts County,Tranmere Rovers
+1746,L2,2018-12-15, 15:00,Oldham Athletic V Bury,Oldham Athletic,Bury
+1747,L2,2018-12-15, 15:00,Port Vale V Cheltenham Town,Port Vale,Cheltenham Town
+1748,L2,2018-12-22, 15:00,Bury V Tranmere Rovers,Bury,Tranmere Rovers
+1749,L2,2018-12-22, 15:00,Crawley Town V Carlisle United,Crawley Town,Carlisle United
+1750,L2,2018-12-22, 15:00,Forest Green Rovers V Crewe Alexandra,Forest Green Rovers,Crewe Alexandra
+1751,L2,2018-12-22, 15:00,Grimsby Town V Notts County,Grimsby Town,Notts County
+1752,L2,2018-12-22, 15:00,Lincoln City V Newport County AFC,Lincoln City,Newport County AFC
+1753,L2,2018-12-22, 15:00,Macclesfield Town V Port Vale,Macclesfield Town,Port Vale
+1754,L2,2018-12-22, 15:00,Milton Keynes Dons V Colchester United,Milton Keynes Dons,Colchester United
+1755,L2,2018-12-22, 15:00,Morecambe V Cambridge United,Morecambe,Cambridge United
+1756,L2,2018-12-22, 15:00,Oldham Athletic V Exeter City,Oldham Athletic,Exeter City
+1757,L2,2018-12-22, 15:00,Stevenage V Mansfield Town,Stevenage,Mansfield Town
+1758,L2,2018-12-22, 15:00,Swindon Town V Cheltenham Town,Swindon Town,Cheltenham Town
+1759,L2,2018-12-22, 15:00,Yeovil Town V Northampton Town,Yeovil Town,Northampton Town
+1760,L2,2018-12-26, 13:00,Cambridge United V Crawley Town,Cambridge United,Crawley Town
+1761,L2,2018-12-26, 13:00,Exeter City V Yeovil Town,Exeter City,Yeovil Town
+1762,L2,2018-12-26, 15:00,Carlisle United V Oldham Athletic,Carlisle United,Oldham Athletic
+1763,L2,2018-12-26, 15:00,Cheltenham Town V Milton Keynes Dons,Cheltenham Town,Milton Keynes Dons
+1764,L2,2018-12-26, 15:00,Colchester United V Stevenage,Colchester United,Stevenage
+1765,L2,2018-12-26, 15:00,Crewe Alexandra V Lincoln City,Crewe Alexandra,Lincoln City
+1766,L2,2018-12-26, 15:00,Mansfield Town V Bury,Mansfield Town,Bury
+1767,L2,2018-12-26, 15:00,Newport County AFC V Forest Green Rovers,Newport County AFC,Forest Green Rovers
+1768,L2,2018-12-26, 15:00,Northampton Town V Swindon Town,Northampton Town,Swindon Town
+1769,L2,2018-12-26, 15:00,Notts County V Macclesfield Town,Notts County,Macclesfield Town
+1770,L2,2018-12-26, 15:00,Port Vale V Grimsby Town,Port Vale,Grimsby Town
+1771,L2,2018-12-26, 15:00,Tranmere Rovers V Morecambe,Tranmere Rovers,Morecambe
+1772,L2,2018-12-29, 15:00,Cambridge United V Lincoln City,Cambridge United,Lincoln City
+1773,L2,2018-12-29, 15:00,Carlisle United V Macclesfield Town,Carlisle United,Macclesfield Town
+1774,L2,2018-12-29, 15:00,Cheltenham Town V Forest Green Rovers,Cheltenham Town,Forest Green Rovers
+1775,L2,2018-12-29, 15:00,Colchester United V Morecambe,Colchester United,Morecambe
+1776,L2,2018-12-29, 15:00,Crewe Alexandra V Stevenage,Crewe Alexandra,Stevenage
+1777,L2,2018-12-29, 15:00,Exeter City V Grimsby Town,Exeter City,Grimsby Town
+1778,L2,2018-12-29, 15:00,Mansfield Town V Swindon Town,Mansfield Town,Swindon Town
+1779,L2,2018-12-29, 15:00,Newport County AFC V Crawley Town,Newport County AFC,Crawley Town
+1780,L2,2018-12-29, 15:00,Northampton Town V Milton Keynes Dons,Northampton Town,Milton Keynes Dons
+1781,L2,2018-12-29, 15:00,Notts County V Bury,Notts County,Bury
+1782,L2,2018-12-29, 15:00,Port Vale V Oldham Athletic,Port Vale,Oldham Athletic
+1783,L2,2018-12-29, 15:00,Tranmere Rovers V Yeovil Town,Tranmere Rovers,Yeovil Town
+1784,L2,2019-01-01, 13:00,Grimsby Town V Mansfield Town,Grimsby Town,Mansfield Town
+1785,L2,2019-01-01, 15:00,Bury V Crewe Alexandra,Bury,Crewe Alexandra
+1786,L2,2019-01-01, 15:00,Crawley Town V Colchester United,Crawley Town,Colchester United
+1787,L2,2019-01-01, 15:00,Forest Green Rovers V Northampton Town,Forest Green Rovers,Northampton Town
+1788,L2,2019-01-01, 15:00,Lincoln City V Port Vale,Lincoln City,Port Vale
+1789,L2,2019-01-01, 15:00,Macclesfield Town V Tranmere Rovers,Macclesfield Town,Tranmere Rovers
+1790,L2,2019-01-01, 15:00,Milton Keynes Dons V Cambridge United,Milton Keynes Dons,Cambridge United
+1791,L2,2019-01-01, 15:00,Morecambe V Carlisle United,Morecambe,Carlisle United
+1792,L2,2019-01-01, 15:00,Oldham Athletic V Notts County,Oldham Athletic,Notts County
+1793,L2,2019-01-01, 15:00,Stevenage V Newport County AFC,Stevenage,Newport County AFC
+1794,L2,2019-01-01, 15:00,Swindon Town V Exeter City,Swindon Town,Exeter City
+1795,L2,2019-01-01, 15:00,Yeovil Town V Cheltenham Town,Yeovil Town,Cheltenham Town
+1796,L2,2019-01-05, 15:00,Cambridge United V Stevenage,Cambridge United,Stevenage
+1797,L2,2019-01-05, 15:00,Carlisle United V Mansfield Town,Carlisle United,Mansfield Town
+1798,L2,2019-01-05, 15:00,Colchester United V Notts County,Colchester United,Notts County
+1799,L2,2019-01-05, 15:00,Crawley Town V Cheltenham Town,Crawley Town,Cheltenham Town
+1800,L2,2019-01-05, 15:00,Forest Green Rovers V Grimsby Town,Forest Green Rovers,Grimsby Town
+1801,L2,2019-01-05, 15:00,Lincoln City V Exeter City,Lincoln City,Exeter City
+1802,L2,2019-01-05, 15:00,Macclesfield Town V Swindon Town,Macclesfield Town,Swindon Town
+1803,L2,2019-01-05, 15:00,Milton Keynes Dons V Oldham Athletic,Milton Keynes Dons,Oldham Athletic
+1804,L2,2019-01-05, 15:00,Morecambe V Crewe Alexandra,Morecambe,Crewe Alexandra
+1805,L2,2019-01-05, 15:00,Newport County AFC V Port Vale,Newport County AFC,Port Vale
+1806,L2,2019-01-05, 15:00,Tranmere Rovers V Northampton Town,Tranmere Rovers,Northampton Town
+1807,L2,2019-01-05, 15:00,Yeovil Town V Bury,Yeovil Town,Bury
+1808,L2,2019-01-12, 15:00,Bury V Milton Keynes Dons,Bury,Milton Keynes Dons
+1809,L2,2019-01-12, 15:00,Cheltenham Town V Tranmere Rovers,Cheltenham Town,Tranmere Rovers
+1810,L2,2019-01-12, 15:00,Crewe Alexandra V Newport County AFC,Crewe Alexandra,Newport County AFC
+1811,L2,2019-01-12, 15:00,Exeter City V Morecambe,Exeter City,Morecambe
+1812,L2,2019-01-12, 15:00,Grimsby Town V Macclesfield Town,Grimsby Town,Macclesfield Town
+1813,L2,2019-01-12, 15:00,Mansfield Town V Yeovil Town,Mansfield Town,Yeovil Town
+1814,L2,2019-01-12, 15:00,Northampton Town V Carlisle United,Northampton Town,Carlisle United
+1815,L2,2019-01-12, 15:00,Notts County V Cambridge United,Notts County,Cambridge United
+1816,L2,2019-01-12, 15:00,Oldham Athletic V Forest Green Rovers,Oldham Athletic,Forest Green Rovers
+1817,L2,2019-01-12, 15:00,Port Vale V Colchester United,Port Vale,Colchester United
+1818,L2,2019-01-12, 15:00,Stevenage V Crawley Town,Stevenage,Crawley Town
+1819,L2,2019-01-12, 15:00,Swindon Town V Lincoln City,Swindon Town,Lincoln City
+1820,L2,2019-01-19, 13:00,Lincoln City V Grimsby Town,Lincoln City,Grimsby Town
+1821,L2,2019-01-19, 15:00,Cambridge United V Northampton Town,Cambridge United,Northampton Town
+1822,L2,2019-01-19, 15:00,Carlisle United V Cheltenham Town,Carlisle United,Cheltenham Town
+1823,L2,2019-01-19, 15:00,Colchester United V Mansfield Town,Colchester United,Mansfield Town
+1824,L2,2019-01-19, 15:00,Crawley Town V Port Vale,Crawley Town,Port Vale
+1825,L2,2019-01-19, 15:00,Forest Green Rovers V Bury,Forest Green Rovers,Bury
+1826,L2,2019-01-19, 15:00,Macclesfield Town V Oldham Athletic,Macclesfield Town,Oldham Athletic
+1827,L2,2019-01-19, 15:00,Milton Keynes Dons V Crewe Alexandra,Milton Keynes Dons,Crewe Alexandra
+1828,L2,2019-01-19, 15:00,Morecambe V Stevenage,Morecambe,Stevenage
+1829,L2,2019-01-19, 15:00,Newport County AFC V Exeter City,Newport County AFC,Exeter City
+1830,L2,2019-01-19, 15:00,Tranmere Rovers V Swindon Town,Tranmere Rovers,Swindon Town
+1831,L2,2019-01-19, 15:00,Yeovil Town V Notts County,Yeovil Town,Notts County
+1832,L2,2019-01-26, 15:00,Bury V Lincoln City,Bury,Lincoln City
+1833,L2,2019-01-26, 15:00,Cheltenham Town V Macclesfield Town,Cheltenham Town,Macclesfield Town
+1834,L2,2019-01-26, 15:00,Crewe Alexandra V Colchester United,Crewe Alexandra,Colchester United
+1835,L2,2019-01-26, 15:00,Exeter City V Cambridge United,Exeter City,Cambridge United
+1836,L2,2019-01-26, 15:00,Grimsby Town V Milton Keynes Dons,Grimsby Town,Milton Keynes Dons
+1837,L2,2019-01-26, 15:00,Mansfield Town V Tranmere Rovers,Mansfield Town,Tranmere Rovers
+1838,L2,2019-01-26, 15:00,Northampton Town V Morecambe,Northampton Town,Morecambe
+1839,L2,2019-01-26, 15:00,Notts County V Newport County AFC,Notts County,Newport County AFC
+1840,L2,2019-01-26, 15:00,Oldham Athletic V Yeovil Town,Oldham Athletic,Yeovil Town
+1841,L2,2019-01-26, 15:00,Port Vale V Carlisle United,Port Vale,Carlisle United
+1842,L2,2019-01-26, 15:00,Stevenage V Forest Green Rovers,Stevenage,Forest Green Rovers
+1843,L2,2019-01-26, 15:00,Swindon Town V Crawley Town,Swindon Town,Crawley Town
+1844,L2,2019-02-02, 15:00,Bury V Crawley Town,Bury,Crawley Town
+1845,L2,2019-02-02, 15:00,Cheltenham Town V Cambridge United,Cheltenham Town,Cambridge United
+1846,L2,2019-02-02, 15:00,Crewe Alexandra V Carlisle United,Crewe Alexandra,Carlisle United
+1847,L2,2019-02-02, 15:00,Exeter City V Milton Keynes Dons,Exeter City,Milton Keynes Dons
+1848,L2,2019-02-02, 15:00,Grimsby Town V Newport County AFC,Grimsby Town,Newport County AFC
+1849,L2,2019-02-02, 15:00,Mansfield Town V Macclesfield Town,Mansfield Town,Macclesfield Town
+1850,L2,2019-02-02, 15:00,Northampton Town V Colchester United,Northampton Town,Colchester United
+1851,L2,2019-02-02, 15:00,Notts County V Lincoln City,Notts County,Lincoln City
+1852,L2,2019-02-02, 15:00,Oldham Athletic V Morecambe,Oldham Athletic,Morecambe
+1853,L2,2019-02-02, 15:00,Port Vale V Tranmere Rovers,Port Vale,Tranmere Rovers
+1854,L2,2019-02-02, 15:00,Stevenage V Yeovil Town,Stevenage,Yeovil Town
+1855,L2,2019-02-02, 15:00,Swindon Town V Forest Green Rovers,Swindon Town,Forest Green Rovers
+1856,L2,2019-02-09, 15:00,Cambridge United V Port Vale,Cambridge United,Port Vale
+1857,L2,2019-02-09, 15:00,Carlisle United V Exeter City,Carlisle United,Exeter City
+1858,L2,2019-02-09, 15:00,Colchester United V Cheltenham Town,Colchester United,Cheltenham Town
+1859,L2,2019-02-09, 15:00,Crawley Town V Oldham Athletic,Crawley Town,Oldham Athletic
+1860,L2,2019-02-09, 15:00,Forest Green Rovers V Notts County,Forest Green Rovers,Notts County
+1861,L2,2019-02-09, 15:00,Lincoln City V Northampton Town,Lincoln City,Northampton Town
+1862,L2,2019-02-09, 15:00,Macclesfield Town V Crewe Alexandra,Macclesfield Town,Crewe Alexandra
+1863,L2,2019-02-09, 15:00,Milton Keynes Dons V Swindon Town,Milton Keynes Dons,Swindon Town
+1864,L2,2019-02-09, 15:00,Morecambe V Bury,Morecambe,Bury
+1865,L2,2019-02-09, 15:00,Newport County AFC V Mansfield Town,Newport County AFC,Mansfield Town
+1866,L2,2019-02-09, 15:00,Tranmere Rovers V Stevenage,Tranmere Rovers,Stevenage
+1867,L2,2019-02-09, 15:00,Yeovil Town V Grimsby Town,Yeovil Town,Grimsby Town
+1868,L2,2019-02-16, 15:00,Cambridge United V Tranmere Rovers,Cambridge United,Tranmere Rovers
+1869,L2,2019-02-16, 15:00,Carlisle United V Milton Keynes Dons,Carlisle United,Milton Keynes Dons
+1870,L2,2019-02-16, 15:00,Exeter City V Bury,Exeter City,Bury
+1871,L2,2019-02-16, 15:00,Forest Green Rovers V Yeovil Town,Forest Green Rovers,Yeovil Town
+1872,L2,2019-02-16, 15:00,Grimsby Town V Cheltenham Town,Grimsby Town,Cheltenham Town
+1873,L2,2019-02-16, 15:00,Lincoln City V Stevenage,Lincoln City,Stevenage
+1874,L2,2019-02-16, 15:00,Macclesfield Town V Colchester United,Macclesfield Town,Colchester United
+1875,L2,2019-02-16, 15:00,Newport County AFC V Swindon Town,Newport County AFC,Swindon Town
+1876,L2,2019-02-16, 15:00,Northampton Town V Crawley Town,Northampton Town,Crawley Town
+1877,L2,2019-02-16, 15:00,Notts County V Mansfield Town,Notts County,Mansfield Town
+1878,L2,2019-02-16, 15:00,Oldham Athletic V Crewe Alexandra,Oldham Athletic,Crewe Alexandra
+1879,L2,2019-02-16, 15:00,Port Vale V Morecambe,Port Vale,Morecambe
+1880,L2,2019-02-23, 15:00,Bury V Oldham Athletic,Bury,Oldham Athletic
+1881,L2,2019-02-23, 15:00,Cheltenham Town V Port Vale,Cheltenham Town,Port Vale
+1882,L2,2019-02-23, 15:00,Colchester United V Carlisle United,Colchester United,Carlisle United
+1883,L2,2019-02-23, 15:00,Crawley Town V Macclesfield Town,Crawley Town,Macclesfield Town
+1884,L2,2019-02-23, 15:00,Crewe Alexandra V Exeter City,Crewe Alexandra,Exeter City
+1885,L2,2019-02-23, 15:00,Mansfield Town V Forest Green Rovers,Mansfield Town,Forest Green Rovers
+1886,L2,2019-02-23, 15:00,Milton Keynes Dons V Newport County AFC,Milton Keynes Dons,Newport County AFC
+1887,L2,2019-02-23, 15:00,Morecambe V Lincoln City,Morecambe,Lincoln City
+1888,L2,2019-02-23, 15:00,Stevenage V Northampton Town,Stevenage,Northampton Town
+1889,L2,2019-02-23, 15:00,Swindon Town V Grimsby Town,Swindon Town,Grimsby Town
+1890,L2,2019-02-23, 15:00,Tranmere Rovers V Notts County,Tranmere Rovers,Notts County
+1891,L2,2019-02-23, 15:00,Yeovil Town V Cambridge United,Yeovil Town,Cambridge United
+1892,L2,2019-03-02, 15:00,Bury V Macclesfield Town,Bury,Macclesfield Town
+1893,L2,2019-03-02, 15:00,Crewe Alexandra V Northampton Town,Crewe Alexandra,Northampton Town
+1894,L2,2019-03-02, 15:00,Exeter City V Tranmere Rovers,Exeter City,Tranmere Rovers
+1895,L2,2019-03-02, 15:00,Forest Green Rovers V Lincoln City,Forest Green Rovers,Lincoln City
+1896,L2,2019-03-02, 15:00,Grimsby Town V Cambridge United,Grimsby Town,Cambridge United
+1897,L2,2019-03-02, 15:00,Mansfield Town V Cheltenham Town,Mansfield Town,Cheltenham Town
+1898,L2,2019-03-02, 15:00,Milton Keynes Dons V Crawley Town,Milton Keynes Dons,Crawley Town
+1899,L2,2019-03-02, 15:00,Newport County AFC V Carlisle United,Newport County AFC,Carlisle United
+1900,L2,2019-03-02, 15:00,Notts County V Port Vale,Notts County,Port Vale
+1901,L2,2019-03-02, 15:00,Oldham Athletic V Stevenage,Oldham Athletic,Stevenage
+1902,L2,2019-03-02, 15:00,Swindon Town V Colchester United,Swindon Town,Colchester United
+1903,L2,2019-03-02, 15:00,Yeovil Town V Morecambe,Yeovil Town,Morecambe
+1904,L2,2019-03-05, 19:45,Cheltenham Town V Bury,Cheltenham Town,Bury
+1905,L2,2019-03-08, 19:45,Lincoln City V Yeovil Town,Lincoln City,Yeovil Town
+1906,L2,2019-03-08, 19:45,Tranmere Rovers V Crewe Alexandra,Tranmere Rovers,Crewe Alexandra
+1907,L2,2019-03-09, 15:00,Cambridge United V Oldham Athletic,Cambridge United,Oldham Athletic
+1908,L2,2019-03-09, 15:00,Carlisle United V Swindon Town,Carlisle United,Swindon Town
+1909,L2,2019-03-09, 15:00,Cheltenham Town V Notts County,Cheltenham Town,Notts County
+1910,L2,2019-03-09, 15:00,Colchester United V Newport County AFC,Colchester United,Newport County AFC
+1911,L2,2019-03-09, 15:00,Crawley Town V Grimsby Town,Crawley Town,Grimsby Town
+1912,L2,2019-03-09, 15:00,Macclesfield Town V Milton Keynes Dons,Macclesfield Town,Milton Keynes Dons
+1913,L2,2019-03-09, 15:00,Morecambe V Forest Green Rovers,Morecambe,Forest Green Rovers
+1914,L2,2019-03-09, 15:00,Northampton Town V Exeter City,Northampton Town,Exeter City
+1915,L2,2019-03-09, 15:00,Port Vale V Mansfield Town,Port Vale,Mansfield Town
+1916,L2,2019-03-09, 15:00,Stevenage V Bury,Stevenage,Bury
+1917,L2,2019-03-12, 19:45,Cambridge United V Crewe Alexandra,Cambridge United,Crewe Alexandra
+1918,L2,2019-03-12, 19:45,Carlisle United V Notts County,Carlisle United,Notts County
+1919,L2,2019-03-12, 19:45,Colchester United V Forest Green Rovers,Colchester United,Forest Green Rovers
+1920,L2,2019-03-12, 19:45,Crawley Town V Mansfield Town,Crawley Town,Mansfield Town
+1921,L2,2019-03-12, 19:45,Lincoln City V Oldham Athletic,Lincoln City,Oldham Athletic
+1922,L2,2019-03-12, 19:45,Macclesfield Town V Exeter City,Macclesfield Town,Exeter City
+1923,L2,2019-03-12, 19:45,Morecambe V Milton Keynes Dons,Morecambe,Milton Keynes Dons
+1924,L2,2019-03-12, 19:45,Northampton Town V Newport County AFC,Northampton Town,Newport County AFC
+1925,L2,2019-03-12, 19:45,Port Vale V Yeovil Town,Port Vale,Yeovil Town
+1926,L2,2019-03-12, 19:45,Stevenage V Swindon Town,Stevenage,Swindon Town
+1927,L2,2019-03-12, 19:45,Tranmere Rovers V Grimsby Town,Tranmere Rovers,Grimsby Town
+1928,L2,2019-03-16, 13:00,Mansfield Town V Lincoln City,Mansfield Town,Lincoln City
+1929,L2,2019-03-16, 15:00,Bury V Cambridge United,Bury,Cambridge United
+1930,L2,2019-03-16, 15:00,Crewe Alexandra V Crawley Town,Crewe Alexandra,Crawley Town
+1931,L2,2019-03-16, 15:00,Exeter City V Colchester United,Exeter City,Colchester United
+1932,L2,2019-03-16, 15:00,Forest Green Rovers V Carlisle United,Forest Green Rovers,Carlisle United
+1933,L2,2019-03-16, 15:00,Grimsby Town V Northampton Town,Grimsby Town,Northampton Town
+1934,L2,2019-03-16, 15:00,Milton Keynes Dons V Stevenage,Milton Keynes Dons,Stevenage
+1935,L2,2019-03-16, 15:00,Newport County AFC V Cheltenham Town,Newport County AFC,Cheltenham Town
+1936,L2,2019-03-16, 15:00,Notts County V Morecambe,Notts County,Morecambe
+1937,L2,2019-03-16, 15:00,Oldham Athletic V Tranmere Rovers,Oldham Athletic,Tranmere Rovers
+1938,L2,2019-03-16, 15:00,Swindon Town V Port Vale,Swindon Town,Port Vale
+1939,L2,2019-03-16, 15:00,Yeovil Town V Macclesfield Town,Yeovil Town,Macclesfield Town
+1940,L2,2019-03-23, 15:00,Carlisle United V Cambridge United,Carlisle United,Cambridge United
+1941,L2,2019-03-23, 15:00,Cheltenham Town V Northampton Town,Cheltenham Town,Northampton Town
+1942,L2,2019-03-23, 15:00,Colchester United V Tranmere Rovers,Colchester United,Tranmere Rovers
+1943,L2,2019-03-23, 15:00,Crawley Town V Lincoln City,Crawley Town,Lincoln City
+1944,L2,2019-03-23, 15:00,Grimsby Town V Bury,Grimsby Town,Bury
+1945,L2,2019-03-23, 15:00,Macclesfield Town V Stevenage,Macclesfield Town,Stevenage
+1946,L2,2019-03-23, 15:00,Mansfield Town V Crewe Alexandra,Mansfield Town,Crewe Alexandra
+1947,L2,2019-03-23, 15:00,Milton Keynes Dons V Yeovil Town,Milton Keynes Dons,Yeovil Town
+1948,L2,2019-03-23, 15:00,Newport County AFC V Oldham Athletic,Newport County AFC,Oldham Athletic
+1949,L2,2019-03-23, 15:00,Notts County V Exeter City,Notts County,Exeter City
+1950,L2,2019-03-23, 15:00,Port Vale V Forest Green Rovers,Port Vale,Forest Green Rovers
+1951,L2,2019-03-23, 15:00,Swindon Town V Morecambe,Swindon Town,Morecambe
+1952,L2,2019-03-30, 15:00,Bury V Swindon Town,Bury,Swindon Town
+1953,L2,2019-03-30, 15:00,Cambridge United V Colchester United,Cambridge United,Colchester United
+1954,L2,2019-03-30, 15:00,Crewe Alexandra V Cheltenham Town,Crewe Alexandra,Cheltenham Town
+1955,L2,2019-03-30, 15:00,Exeter City V Mansfield Town,Exeter City,Mansfield Town
+1956,L2,2019-03-30, 15:00,Forest Green Rovers V Milton Keynes Dons,Forest Green Rovers,Milton Keynes Dons
+1957,L2,2019-03-30, 15:00,Lincoln City V Macclesfield Town,Lincoln City,Macclesfield Town
+1958,L2,2019-03-30, 15:00,Morecambe V Crawley Town,Morecambe,Crawley Town
+1959,L2,2019-03-30, 15:00,Northampton Town V Port Vale,Northampton Town,Port Vale
+1960,L2,2019-03-30, 15:00,Oldham Athletic V Grimsby Town,Oldham Athletic,Grimsby Town
+1961,L2,2019-03-30, 15:00,Stevenage V Notts County,Stevenage,Notts County
+1962,L2,2019-03-30, 15:00,Tranmere Rovers V Carlisle United,Tranmere Rovers,Carlisle United
+1963,L2,2019-03-30, 15:00,Yeovil Town V Newport County AFC,Yeovil Town,Newport County AFC
+1964,L2,2019-04-06, 15:00,Carlisle United V Bury,Carlisle United,Bury
+1965,L2,2019-04-06, 15:00,Cheltenham Town V Exeter City,Cheltenham Town,Exeter City
+1966,L2,2019-04-06, 15:00,Colchester United V Oldham Athletic,Colchester United,Oldham Athletic
+1967,L2,2019-04-06, 15:00,Crawley Town V Forest Green Rovers,Crawley Town,Forest Green Rovers
+1968,L2,2019-04-06, 15:00,Grimsby Town V Stevenage,Grimsby Town,Stevenage
+1969,L2,2019-04-06, 15:00,Macclesfield Town V Morecambe,Macclesfield Town,Morecambe
+1970,L2,2019-04-06, 15:00,Mansfield Town V Cambridge United,Mansfield Town,Cambridge United
+1971,L2,2019-04-06, 15:00,Milton Keynes Dons V Lincoln City,Milton Keynes Dons,Lincoln City
+1972,L2,2019-04-06, 15:00,Newport County AFC V Tranmere Rovers,Newport County AFC,Tranmere Rovers
+1973,L2,2019-04-06, 15:00,Notts County V Northampton Town,Notts County,Northampton Town
+1974,L2,2019-04-06, 15:00,Port Vale V Crewe Alexandra,Port Vale,Crewe Alexandra
+1975,L2,2019-04-06, 15:00,Swindon Town V Yeovil Town,Swindon Town,Yeovil Town
+1976,L2,2019-04-13, 15:00,Bury V Colchester United,Bury,Colchester United
+1977,L2,2019-04-13, 15:00,Cambridge United V Newport County AFC,Cambridge United,Newport County AFC
+1978,L2,2019-04-13, 15:00,Crewe Alexandra V Notts County,Crewe Alexandra,Notts County
+1979,L2,2019-04-13, 15:00,Exeter City V Port Vale,Exeter City,Port Vale
+1980,L2,2019-04-13, 15:00,Forest Green Rovers V Macclesfield Town,Forest Green Rovers,Macclesfield Town
+1981,L2,2019-04-13, 15:00,Lincoln City V Cheltenham Town,Lincoln City,Cheltenham Town
+1982,L2,2019-04-13, 15:00,Morecambe V Grimsby Town,Morecambe,Grimsby Town
+1983,L2,2019-04-13, 15:00,Northampton Town V Mansfield Town,Northampton Town,Mansfield Town
+1984,L2,2019-04-13, 15:00,Oldham Athletic V Swindon Town,Oldham Athletic,Swindon Town
+1985,L2,2019-04-13, 15:00,Stevenage V Carlisle United,Stevenage,Carlisle United
+1986,L2,2019-04-13, 15:00,Tranmere Rovers V Milton Keynes Dons,Tranmere Rovers,Milton Keynes Dons
+1987,L2,2019-04-13, 15:00,Yeovil Town V Crawley Town,Yeovil Town,Crawley Town
+1988,L2,2019-04-19, 13:00,Exeter City V Crawley Town,Exeter City,Crawley Town
+1989,L2,2019-04-19, 15:00,Cambridge United V Swindon Town,Cambridge United,Swindon Town
+1990,L2,2019-04-19, 15:00,Carlisle United V Lincoln City,Carlisle United,Lincoln City
+1991,L2,2019-04-19, 15:00,Cheltenham Town V Oldham Athletic,Cheltenham Town,Oldham Athletic
+1992,L2,2019-04-19, 15:00,Colchester United V Grimsby Town,Colchester United,Grimsby Town
+1993,L2,2019-04-19, 15:00,Crewe Alexandra V Yeovil Town,Crewe Alexandra,Yeovil Town
+1994,L2,2019-04-19, 15:00,Mansfield Town V Morecambe,Mansfield Town,Morecambe
+1995,L2,2019-04-19, 15:00,Newport County AFC V Bury,Newport County AFC,Bury
+1996,L2,2019-04-19, 15:00,Northampton Town V Macclesfield Town,Northampton Town,Macclesfield Town
+1997,L2,2019-04-19, 15:00,Notts County V Milton Keynes Dons,Notts County,Milton Keynes Dons
+1998,L2,2019-04-19, 15:00,Port Vale V Stevenage,Port Vale,Stevenage
+1999,L2,2019-04-19, 15:00,Tranmere Rovers V Forest Green Rovers,Tranmere Rovers,Forest Green Rovers
+2000,L2,2019-04-22, 15:00,Bury V Northampton Town,Bury,Northampton Town
+2001,L2,2019-04-22, 15:00,Crawley Town V Notts County,Crawley Town,Notts County
+2002,L2,2019-04-22, 15:00,Forest Green Rovers V Cambridge United,Forest Green Rovers,Cambridge United
+2003,L2,2019-04-22, 15:00,Grimsby Town V Carlisle United,Grimsby Town,Carlisle United
+2004,L2,2019-04-22, 15:00,Lincoln City V Tranmere Rovers,Lincoln City,Tranmere Rovers
+2005,L2,2019-04-22, 15:00,Macclesfield Town V Newport County AFC,Macclesfield Town,Newport County AFC
+2006,L2,2019-04-22, 15:00,Milton Keynes Dons V Port Vale,Milton Keynes Dons,Port Vale
+2007,L2,2019-04-22, 15:00,Morecambe V Cheltenham Town,Morecambe,Cheltenham Town
+2008,L2,2019-04-22, 15:00,Oldham Athletic V Mansfield Town,Oldham Athletic,Mansfield Town
+2009,L2,2019-04-22, 15:00,Stevenage V Exeter City,Stevenage,Exeter City
+2010,L2,2019-04-22, 15:00,Swindon Town V Crewe Alexandra,Swindon Town,Crewe Alexandra
+2011,L2,2019-04-22, 15:00,Yeovil Town V Colchester United,Yeovil Town,Colchester United
+2012,L2,2019-04-27, 15:00,Cambridge United V Morecambe,Cambridge United,Morecambe
+2013,L2,2019-04-27, 15:00,Carlisle United V Crawley Town,Carlisle United,Crawley Town
+2014,L2,2019-04-27, 15:00,Cheltenham Town V Swindon Town,Cheltenham Town,Swindon Town
+2015,L2,2019-04-27, 15:00,Colchester United V Milton Keynes Dons,Colchester United,Milton Keynes Dons
+2016,L2,2019-04-27, 15:00,Crewe Alexandra V Forest Green Rovers,Crewe Alexandra,Forest Green Rovers
+2017,L2,2019-04-27, 15:00,Exeter City V Oldham Athletic,Exeter City,Oldham Athletic
+2018,L2,2019-04-27, 15:00,Mansfield Town V Stevenage,Mansfield Town,Stevenage
+2019,L2,2019-04-27, 15:00,Newport County AFC V Lincoln City,Newport County AFC,Lincoln City
+2020,L2,2019-04-27, 15:00,Northampton Town V Yeovil Town,Northampton Town,Yeovil Town
+2021,L2,2019-04-27, 15:00,Notts County V Grimsby Town,Notts County,Grimsby Town
+2022,L2,2019-04-27, 15:00,Port Vale V Macclesfield Town,Port Vale,Macclesfield Town
+2023,L2,2019-04-27, 15:00,Tranmere Rovers V Bury,Tranmere Rovers,Bury
+2024,L2,2019-05-04, 15:00,Bury V Port Vale,Bury,Port Vale
+2025,L2,2019-05-04, 15:00,Crawley Town V Tranmere Rovers,Crawley Town,Tranmere Rovers
+2026,L2,2019-05-04, 15:00,Forest Green Rovers V Exeter City,Forest Green Rovers,Exeter City
+2027,L2,2019-05-04, 15:00,Grimsby Town V Crewe Alexandra,Grimsby Town,Crewe Alexandra
+2028,L2,2019-05-04, 15:00,Lincoln City V Colchester United,Lincoln City,Colchester United
+2029,L2,2019-05-04, 15:00,Macclesfield Town V Cambridge United,Macclesfield Town,Cambridge United
+2030,L2,2019-05-04, 15:00,Milton Keynes Dons V Mansfield Town,Milton Keynes Dons,Mansfield Town
+2031,L2,2019-05-04, 15:00,Morecambe V Newport County AFC,Morecambe,Newport County AFC
+2032,L2,2019-05-04, 15:00,Oldham Athletic V Northampton Town,Oldham Athletic,Northampton Town
+2033,L2,2019-05-04, 15:00,Stevenage V Cheltenham Town,Stevenage,Cheltenham Town
+2034,L2,2019-05-04, 15:00,Swindon Town V Notts County,Swindon Town,Notts County
+2035,L2,2019-05-04, 15:00,Yeovil Town V Carlisle United,Yeovil Town,Carlisle United

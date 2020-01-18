@@ -1,0 +1,25 @@
+
+body {
+    padding-top: 50px;
+    background-color: antiquewhite;
+}
+.home {
+  padding: 40px 15px;
+  text-align: center;
+}
+.navbar-inverse {
+    background-color: #80d4ff;
+    border-color: #80d4ff;
+}
+.sides{
+margin-left:15%;
+margin-right:15%;
+background-color:white;;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+background-color:antiquewhite;
+color:black;
+text-decoration:underline;
+font-weight:bold;
+}

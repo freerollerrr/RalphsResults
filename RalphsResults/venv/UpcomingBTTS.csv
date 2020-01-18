@@ -1,0 +1,381 @@
+GameID,League,Date,Fixture,Home Team,Away Team,BothTeamsToScore?,BTTS
+0,EPL,2018-08-10,Manchester United V Leicester City,Manchester United,Leicester City, ,?
+1,EPL,2018-08-11,Newcastle United V Tottenham Hotspur,Newcastle United,Tottenham Hotspur, ,?
+2,EPL,2018-08-11,Bournemouth V Cardiff City,Bournemouth,Cardiff City, ,?
+3,EPL,2018-08-11,Fulham V Crystal Palace,Fulham,Crystal Palace, ,?
+4,EPL,2018-08-11,Huddersfield Town V Chelsea,Huddersfield Town,Chelsea, ,?
+5,EPL,2018-08-11,Watford V Brighton and Hove Albion,Watford,Brighton and Hove Albion, ,?
+6,EPL,2018-08-11,Wolverhampton Wanderers V Everton,Wolverhampton Wanderers,Everton, ,?
+7,EPL,2018-08-12,Liverpool V West Ham United,Liverpool,West Ham United, ,?
+8,EPL,2018-08-12,Southampton V Burnley,Southampton,Burnley, ,?
+9,EPL,2018-08-12,Arsenal V Manchester City,Arsenal,Manchester City, ,?
+10,EPL,2018-08-18,Cardiff City V Newcastle United,Cardiff City,Newcastle United, ,?
+11,EPL,2018-08-18,Everton V Southampton,Everton,Southampton, ,?
+12,EPL,2018-08-18,Leicester City V Wolverhampton Wanderers,Leicester City,Wolverhampton Wanderers, ,?
+13,EPL,2018-08-18,Tottenham Hotspur V Fulham,Tottenham Hotspur,Fulham, ,?
+14,EPL,2018-08-18,West Ham United V Bournemouth,West Ham United,Bournemouth, ,?
+15,EPL,2018-08-18,Chelsea V Arsenal,Chelsea,Arsenal, ,?
+16,EPL,2018-08-19,Burnley V Watford,Burnley,Watford, ,?
+17,EPL,2018-08-19,Manchester City V Huddersfield Town,Manchester City,Huddersfield Town, ,?
+18,EPL,2018-08-19,Brighton and Hove Albion V Manchester United,Brighton and Hove Albion,Manchester United, ,?
+19,EPL,2018-08-20,Crystal Palace V Liverpool,Crystal Palace,Liverpool, ,?
+20,EPL,2018-08-25,Wolverhampton Wanderers V Manchester City,Wolverhampton Wanderers,Manchester City, ,?
+21,EPL,2018-08-25,Arsenal V West Ham United,Arsenal,West Ham United, ,?
+22,EPL,2018-08-25,Bournemouth V Everton,Bournemouth,Everton, ,?
+23,EPL,2018-08-25,Fulham V Burnley,Fulham,Burnley, ,?
+24,EPL,2018-08-25,Huddersfield Town V Cardiff City,Huddersfield Town,Cardiff City, ,?
+25,EPL,2018-08-25,Southampton V Leicester City,Southampton,Leicester City, ,?
+26,EPL,2018-08-25,Liverpool V Brighton and Hove Albion,Liverpool,Brighton and Hove Albion, ,?
+27,EPL,2018-08-26,Watford V Crystal Palace,Watford,Crystal Palace, ,?
+28,EPL,2018-08-26,Newcastle United V Chelsea,Newcastle United,Chelsea, ,?
+29,EPL,2018-08-27,Manchester United V Tottenham Hotspur,Manchester United,Tottenham Hotspur, ,?
+30,EPL,2018-09-01,Leicester City V Liverpool,Leicester City,Liverpool, ,?
+31,EPL,2018-09-01,Brighton and Hove Albion V Fulham,Brighton and Hove Albion,Fulham, ,?
+32,EPL,2018-09-01,Burnley V Manchester United,Burnley,Manchester United, ,?
+33,EPL,2018-09-01,Chelsea V Bournemouth,Chelsea,Bournemouth, ,?
+34,EPL,2018-09-01,Crystal Palace V Southampton,Crystal Palace,Southampton, ,?
+35,EPL,2018-09-01,Everton V Huddersfield Town,Everton,Huddersfield Town, ,?
+36,EPL,2018-09-01,West Ham United V Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers, ,?
+37,EPL,2018-09-01,Manchester City V Newcastle United,Manchester City,Newcastle United, ,?
+38,EPL,2018-09-02,Cardiff City V Arsenal,Cardiff City,Arsenal, ,?
+39,EPL,2018-09-02,Watford V Tottenham Hotspur,Watford,Tottenham Hotspur, ,?
+40,EPL,2018-09-15,Tottenham Hotspur V Liverpool,Tottenham Hotspur,Liverpool, ,?
+41,EPL,2018-09-15,Bournemouth V Leicester City,Bournemouth,Leicester City, ,?
+42,EPL,2018-09-15,Chelsea V Cardiff City,Chelsea,Cardiff City, ,?
+43,EPL,2018-09-15,Huddersfield Town V Crystal Palace,Huddersfield Town,Crystal Palace, ,?
+44,EPL,2018-09-15,Manchester City V Fulham,Manchester City,Fulham, ,?
+45,EPL,2018-09-15,Newcastle United V Arsenal,Newcastle United,Arsenal, ,?
+46,EPL,2018-09-15,Watford V Manchester United,Watford,Manchester United, ,?
+47,EPL,2018-09-16,Wolverhampton Wanderers V Burnley,Wolverhampton Wanderers,Burnley, ,?
+48,EPL,2018-09-16,Everton V West Ham United,Everton,West Ham United, ,?
+49,EPL,2018-09-17,Southampton V Brighton and Hove Albion,Southampton,Brighton and Hove Albion, ,?
+50,EPL,2018-09-22,Fulham V Watford,Fulham,Watford, ,?
+51,EPL,2018-09-22,Burnley V Bournemouth,Burnley,Bournemouth, ,?
+52,EPL,2018-09-22,Cardiff City V Manchester City,Cardiff City,Manchester City, ,?
+53,EPL,2018-09-22,Crystal Palace V Newcastle United,Crystal Palace,Newcastle United, ,?
+54,EPL,2018-09-22,Leicester City V Huddersfield Town,Leicester City,Huddersfield Town, ,?
+55,EPL,2018-09-22,Liverpool V Southampton,Liverpool,Southampton, ,?
+56,EPL,2018-09-22,Manchester United V Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers, ,?
+57,EPL,2018-09-22,Brighton and Hove Albion V Tottenham Hotspur,Brighton and Hove Albion,Tottenham Hotspur, ,?
+58,EPL,2018-09-23,West Ham United V Chelsea,West Ham United,Chelsea, ,?
+59,EPL,2018-09-23,Arsenal V Everton,Arsenal,Everton, ,?
+60,EPL,2018-09-29,West Ham United V Manchester United,West Ham United,Manchester United, ,?
+61,EPL,2018-09-29,Arsenal V Watford,Arsenal,Watford, ,?
+62,EPL,2018-09-29,Everton V Fulham,Everton,Fulham, ,?
+63,EPL,2018-09-29,Huddersfield Town V Tottenham Hotspur,Huddersfield Town,Tottenham Hotspur, ,?
+64,EPL,2018-09-29,Manchester City V Brighton and Hove Albion,Manchester City,Brighton and Hove Albion, ,?
+65,EPL,2018-09-29,Newcastle United V Leicester City,Newcastle United,Leicester City, ,?
+66,EPL,2018-09-29,Wolverhampton Wanderers V Southampton,Wolverhampton Wanderers,Southampton, ,?
+67,EPL,2018-09-29,Chelsea V Liverpool,Chelsea,Liverpool, ,?
+68,EPL,2018-09-30,Cardiff City V Burnley,Cardiff City,Burnley, ,?
+69,EPL,2018-10-01,Bournemouth V Crystal Palace,Bournemouth,Crystal Palace, ,?
+70,EPL,2018-10-05,Brighton and Hove Albion V West Ham United,Brighton and Hove Albion,West Ham United, ,?
+71,EPL,2018-10-06,Burnley V Huddersfield Town,Burnley,Huddersfield Town, ,?
+72,EPL,2018-10-06,Crystal Palace V Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers, ,?
+73,EPL,2018-10-06,Leicester City V Everton,Leicester City,Everton, ,?
+74,EPL,2018-10-06,Tottenham Hotspur V Cardiff City,Tottenham Hotspur,Cardiff City, ,?
+75,EPL,2018-10-06,Watford V Bournemouth,Watford,Bournemouth, ,?
+76,EPL,2018-10-06,Manchester United V Newcastle United,Manchester United,Newcastle United, ,?
+77,EPL,2018-10-07,Fulham V Arsenal,Fulham,Arsenal, ,?
+78,EPL,2018-10-07,Southampton V Chelsea,Southampton,Chelsea, ,?
+79,EPL,2018-10-07,Liverpool V Manchester City,Liverpool,Manchester City, ,?
+80,EPL,2018-10-20,Chelsea V Manchester United,Chelsea,Manchester United, ,?
+81,EPL,2018-10-20,Bournemouth V Southampton,Bournemouth,Southampton, ,?
+82,EPL,2018-10-20,Cardiff City V Fulham,Cardiff City,Fulham, ,?
+83,EPL,2018-10-20,Manchester City V Burnley,Manchester City,Burnley, ,?
+84,EPL,2018-10-20,Newcastle United V Brighton and Hove Albion,Newcastle United,Brighton and Hove Albion, ,?
+85,EPL,2018-10-20,West Ham United V Tottenham Hotspur,West Ham United,Tottenham Hotspur, ,?
+86,EPL,2018-10-20,Wolverhampton Wanderers V Watford,Wolverhampton Wanderers,Watford, ,?
+87,EPL,2018-10-20,Huddersfield Town V Liverpool,Huddersfield Town,Liverpool, ,?
+88,EPL,2018-10-21,Everton V Crystal Palace,Everton,Crystal Palace, ,?
+89,EPL,2018-10-22,Arsenal V Leicester City,Arsenal,Leicester City, ,?
+90,EPL,2018-10-27,Manchester United V Everton,Manchester United,Everton, ,?
+91,EPL,2018-10-27,Brighton and Hove Albion V Wolverhampton Wanderers,Brighton and Hove Albion,Wolverhampton Wanderers, ,?
+92,EPL,2018-10-27,Fulham V Bournemouth,Fulham,Bournemouth, ,?
+93,EPL,2018-10-27,Liverpool V Cardiff City,Liverpool,Cardiff City, ,?
+94,EPL,2018-10-27,Southampton V Newcastle United,Southampton,Newcastle United, ,?
+95,EPL,2018-10-27,Watford V Huddersfield Town,Watford,Huddersfield Town, ,?
+96,EPL,2018-10-27,Leicester City V West Ham United,Leicester City,West Ham United, ,?
+97,EPL,2018-10-28,Burnley V Chelsea,Burnley,Chelsea, ,?
+98,EPL,2018-10-28,Crystal Palace V Arsenal,Crystal Palace,Arsenal, ,?
+99,EPL,2018-10-28,Tottenham Hotspur V Manchester City,Tottenham Hotspur,Manchester City, ,?
+100,EPL,2018-11-03,Bournemouth V Manchester United,Bournemouth,Manchester United, ,?
+101,EPL,2018-11-03,Cardiff City V Leicester City,Cardiff City,Leicester City, ,?
+102,EPL,2018-11-03,Everton V Brighton and Hove Albion,Everton,Brighton and Hove Albion, ,?
+103,EPL,2018-11-03,Manchester City V Southampton,Manchester City,Southampton, ,?
+104,EPL,2018-11-03,Newcastle United V Watford,Newcastle United,Watford, ,?
+105,EPL,2018-11-03,West Ham United V Burnley,West Ham United,Burnley, ,?
+106,EPL,2018-11-03,Arsenal V Liverpool,Arsenal,Liverpool, ,?
+107,EPL,2018-11-04,Wolverhampton Wanderers V Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur, ,?
+108,EPL,2018-11-04,Chelsea V Crystal Palace,Chelsea,Crystal Palace, ,?
+109,EPL,2018-11-05,Huddersfield Town V Fulham,Huddersfield Town,Fulham, ,?
+110,EPL,2018-11-10,Cardiff City V Brighton and Hove Albion,Cardiff City,Brighton and Hove Albion, ,?
+111,EPL,2018-11-10,Huddersfield Town V West Ham United,Huddersfield Town,West Ham United, ,?
+112,EPL,2018-11-10,Leicester City V Burnley,Leicester City,Burnley, ,?
+113,EPL,2018-11-10,Newcastle United V Bournemouth,Newcastle United,Bournemouth, ,?
+114,EPL,2018-11-10,Southampton V Watford,Southampton,Watford, ,?
+115,EPL,2018-11-10,Crystal Palace V Tottenham Hotspur,Crystal Palace,Tottenham Hotspur, ,?
+116,EPL,2018-11-11,Liverpool V Fulham,Liverpool,Fulham, ,?
+117,EPL,2018-11-11,Chelsea V Everton,Chelsea,Everton, ,?
+118,EPL,2018-11-11,Arsenal V Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers, ,?
+119,EPL,2018-11-11,Manchester City V Manchester United,Manchester City,Manchester United, ,?
+120,EPL,2018-11-24,Brighton and Hove Albion V Leicester City,Brighton and Hove Albion,Leicester City, ,?
+121,EPL,2018-11-24,Everton V Cardiff City,Everton,Cardiff City, ,?
+122,EPL,2018-11-24,Fulham V Southampton,Fulham,Southampton, ,?
+123,EPL,2018-11-24,Manchester United V Crystal Palace,Manchester United,Crystal Palace, ,?
+124,EPL,2018-11-24,Watford V Liverpool,Watford,Liverpool, ,?
+125,EPL,2018-11-24,West Ham United V Manchester City,West Ham United,Manchester City, ,?
+126,EPL,2018-11-24,Tottenham Hotspur V Chelsea,Tottenham Hotspur,Chelsea, ,?
+127,EPL,2018-11-25,Bournemouth V Arsenal,Bournemouth,Arsenal, ,?
+128,EPL,2018-11-25,Wolverhampton Wanderers V Huddersfield Town,Wolverhampton Wanderers,Huddersfield Town, ,?
+129,EPL,2018-11-26,Burnley V Newcastle United,Burnley,Newcastle United, ,?
+130,EPL,2018-12-01,Arsenal V Tottenham Hotspur,Arsenal,Tottenham Hotspur, ,?
+131,EPL,2018-12-01,Cardiff City V Wolverhampton Wanderers,Cardiff City,Wolverhampton Wanderers, ,?
+132,EPL,2018-12-01,Chelsea V Fulham,Chelsea,Fulham, ,?
+133,EPL,2018-12-01,Crystal Palace V Burnley,Crystal Palace,Burnley, ,?
+134,EPL,2018-12-01,Huddersfield Town V Brighton and Hove Albion,Huddersfield Town,Brighton and Hove Albion, ,?
+135,EPL,2018-12-01,Leicester City V Watford,Leicester City,Watford, ,?
+136,EPL,2018-12-01,Liverpool V Everton,Liverpool,Everton, ,?
+137,EPL,2018-12-01,Manchester City V Bournemouth,Manchester City,Bournemouth, ,?
+138,EPL,2018-12-01,Newcastle United V West Ham United,Newcastle United,West Ham United, ,?
+139,EPL,2018-12-01,Southampton V Manchester United,Southampton,Manchester United, ,?
+140,EPL,2018-12-04,Bournemouth V Huddersfield Town,Bournemouth,Huddersfield Town, ,?
+141,EPL,2018-12-04,Brighton and Hove Albion V Crystal Palace,Brighton and Hove Albion,Crystal Palace, ,?
+142,EPL,2018-12-04,Burnley V Liverpool,Burnley,Liverpool, ,?
+143,EPL,2018-12-04,Fulham V Leicester City,Fulham,Leicester City, ,?
+144,EPL,2018-12-04,Watford V Manchester City,Watford,Manchester City, ,?
+145,EPL,2018-12-04,West Ham United V Cardiff City,West Ham United,Cardiff City, ,?
+146,EPL,2018-12-04,Wolverhampton Wanderers V Chelsea,Wolverhampton Wanderers,Chelsea, ,?
+147,EPL,2018-12-04,Manchester United V Arsenal,Manchester United,Arsenal, ,?
+148,EPL,2018-12-05,Everton V Newcastle United,Everton,Newcastle United, ,?
+149,EPL,2018-12-05,Tottenham Hotspur V Southampton,Tottenham Hotspur,Southampton, ,?
+150,EPL,2018-12-08,Arsenal V Huddersfield Town,Arsenal,Huddersfield Town, ,?
+151,EPL,2018-12-08,Bournemouth V Liverpool,Bournemouth,Liverpool, ,?
+152,EPL,2018-12-08,Burnley V Brighton and Hove Albion,Burnley,Brighton and Hove Albion, ,?
+153,EPL,2018-12-08,Cardiff City V Southampton,Cardiff City,Southampton, ,?
+154,EPL,2018-12-08,Chelsea V Manchester City,Chelsea,Manchester City, ,?
+155,EPL,2018-12-08,Everton V Watford,Everton,Watford, ,?
+156,EPL,2018-12-08,Leicester City V Tottenham Hotspur,Leicester City,Tottenham Hotspur, ,?
+157,EPL,2018-12-08,Manchester United V Fulham,Manchester United,Fulham, ,?
+158,EPL,2018-12-08,Newcastle United V Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers, ,?
+159,EPL,2018-12-08,West Ham United V Crystal Palace,West Ham United,Crystal Palace, ,?
+160,EPL,2018-12-15,Brighton and Hove Albion V Chelsea,Brighton and Hove Albion,Chelsea, ,?
+161,EPL,2018-12-15,Crystal Palace V Leicester City,Crystal Palace,Leicester City, ,?
+162,EPL,2018-12-15,Fulham V West Ham United,Fulham,West Ham United, ,?
+163,EPL,2018-12-15,Huddersfield Town V Newcastle United,Huddersfield Town,Newcastle United, ,?
+164,EPL,2018-12-15,Liverpool V Manchester United,Liverpool,Manchester United, ,?
+165,EPL,2018-12-15,Manchester City V Everton,Manchester City,Everton, ,?
+166,EPL,2018-12-15,Southampton V Arsenal,Southampton,Arsenal, ,?
+167,EPL,2018-12-15,Tottenham Hotspur V Burnley,Tottenham Hotspur,Burnley, ,?
+168,EPL,2018-12-15,Watford V Cardiff City,Watford,Cardiff City, ,?
+169,EPL,2018-12-15,Wolverhampton Wanderers V Bournemouth,Wolverhampton Wanderers,Bournemouth, ,?
+170,EPL,2018-12-22,Arsenal V Burnley,Arsenal,Burnley, ,?
+171,EPL,2018-12-22,Bournemouth V Brighton and Hove Albion,Bournemouth,Brighton and Hove Albion, ,?
+172,EPL,2018-12-22,Cardiff City V Manchester United,Cardiff City,Manchester United, ,?
+173,EPL,2018-12-22,Chelsea V Leicester City,Chelsea,Leicester City, ,?
+174,EPL,2018-12-22,Everton V Tottenham Hotspur,Everton,Tottenham Hotspur, ,?
+175,EPL,2018-12-22,Huddersfield Town V Southampton,Huddersfield Town,Southampton, ,?
+176,EPL,2018-12-22,Manchester City V Crystal Palace,Manchester City,Crystal Palace, ,?
+177,EPL,2018-12-22,Newcastle United V Fulham,Newcastle United,Fulham, ,?
+178,EPL,2018-12-22,West Ham United V Watford,West Ham United,Watford, ,?
+179,EPL,2018-12-22,Wolverhampton Wanderers V Liverpool,Wolverhampton Wanderers,Liverpool, ,?
+180,EPL,2018-12-26,Brighton and Hove Albion V Arsenal,Brighton and Hove Albion,Arsenal, ,?
+181,EPL,2018-12-26,Burnley V Everton,Burnley,Everton, ,?
+182,EPL,2018-12-26,Crystal Palace V Cardiff City,Crystal Palace,Cardiff City, ,?
+183,EPL,2018-12-26,Fulham V Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers, ,?
+184,EPL,2018-12-26,Leicester City V Manchester City,Leicester City,Manchester City, ,?
+185,EPL,2018-12-26,Liverpool V Newcastle United,Liverpool,Newcastle United, ,?
+186,EPL,2018-12-26,Manchester United V Huddersfield Town,Manchester United,Huddersfield Town, ,?
+187,EPL,2018-12-26,Southampton V West Ham United,Southampton,West Ham United, ,?
+188,EPL,2018-12-26,Tottenham Hotspur V Bournemouth,Tottenham Hotspur,Bournemouth, ,?
+189,EPL,2018-12-26,Watford V Chelsea,Watford,Chelsea, ,?
+190,EPL,2018-12-29,Brighton and Hove Albion V Everton,Brighton and Hove Albion,Everton, ,?
+191,EPL,2018-12-29,Burnley V West Ham United,Burnley,West Ham United, ,?
+192,EPL,2018-12-29,Crystal Palace V Chelsea,Crystal Palace,Chelsea, ,?
+193,EPL,2018-12-29,Fulham V Huddersfield Town,Fulham,Huddersfield Town, ,?
+194,EPL,2018-12-29,Leicester City V Cardiff City,Leicester City,Cardiff City, ,?
+195,EPL,2018-12-29,Liverpool V Arsenal,Liverpool,Arsenal, ,?
+196,EPL,2018-12-29,Manchester United V Bournemouth,Manchester United,Bournemouth, ,?
+197,EPL,2018-12-29,Southampton V Manchester City,Southampton,Manchester City, ,?
+198,EPL,2018-12-29,Tottenham Hotspur V Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers, ,?
+199,EPL,2018-12-29,Watford V Newcastle United,Watford,Newcastle United, ,?
+200,EPL,2019-01-01,Arsenal V Fulham,Arsenal,Fulham, ,?
+201,EPL,2019-01-01,Bournemouth V Watford,Bournemouth,Watford, ,?
+202,EPL,2019-01-01,Cardiff City V Tottenham Hotspur,Cardiff City,Tottenham Hotspur, ,?
+203,EPL,2019-01-01,Chelsea V Southampton,Chelsea,Southampton, ,?
+204,EPL,2019-01-01,Everton V Leicester City,Everton,Leicester City, ,?
+205,EPL,2019-01-01,Huddersfield Town V Burnley,Huddersfield Town,Burnley, ,?
+206,EPL,2019-01-01,Manchester City V Liverpool,Manchester City,Liverpool, ,?
+207,EPL,2019-01-01,Newcastle United V Manchester United,Newcastle United,Manchester United, ,?
+208,EPL,2019-01-01,West Ham United V Brighton and Hove Albion,West Ham United,Brighton and Hove Albion, ,?
+209,EPL,2019-01-01,Wolverhampton Wanderers V Crystal Palace,Wolverhampton Wanderers,Crystal Palace, ,?
+210,EPL,2019-01-12,Brighton and Hove Albion V Liverpool,Brighton and Hove Albion,Liverpool, ,?
+211,EPL,2019-01-12,Burnley V Fulham,Burnley,Fulham, ,?
+212,EPL,2019-01-12,Cardiff City V Huddersfield Town,Cardiff City,Huddersfield Town, ,?
+213,EPL,2019-01-12,Chelsea V Newcastle United,Chelsea,Newcastle United, ,?
+214,EPL,2019-01-12,Crystal Palace V Watford,Crystal Palace,Watford, ,?
+215,EPL,2019-01-12,Everton V Bournemouth,Everton,Bournemouth, ,?
+216,EPL,2019-01-12,Leicester City V Southampton,Leicester City,Southampton, ,?
+217,EPL,2019-01-12,Manchester City V Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers, ,?
+218,EPL,2019-01-12,Tottenham Hotspur V Manchester United,Tottenham Hotspur,Manchester United, ,?
+219,EPL,2019-01-12,West Ham United V Arsenal,West Ham United,Arsenal, ,?
+220,EPL,2019-01-19,Arsenal V Chelsea,Arsenal,Chelsea, ,?
+221,EPL,2019-01-19,Bournemouth V West Ham United,Bournemouth,West Ham United, ,?
+222,EPL,2019-01-19,Fulham V Tottenham Hotspur,Fulham,Tottenham Hotspur, ,?
+223,EPL,2019-01-19,Huddersfield Town V Manchester City,Huddersfield Town,Manchester City, ,?
+224,EPL,2019-01-19,Liverpool V Crystal Palace,Liverpool,Crystal Palace, ,?
+225,EPL,2019-01-19,Manchester United V Brighton and Hove Albion,Manchester United,Brighton and Hove Albion, ,?
+226,EPL,2019-01-19,Newcastle United V Cardiff City,Newcastle United,Cardiff City, ,?
+227,EPL,2019-01-19,Southampton V Everton,Southampton,Everton, ,?
+228,EPL,2019-01-19,Watford V Burnley,Watford,Burnley, ,?
+229,EPL,2019-01-19,Wolverhampton Wanderers V Leicester City,Wolverhampton Wanderers,Leicester City, ,?
+230,EPL,2019-01-29,Arsenal V Cardiff City,Arsenal,Cardiff City, ,?
+231,EPL,2019-01-29,Bournemouth V Chelsea,Bournemouth,Chelsea, ,?
+232,EPL,2019-01-29,Fulham V Brighton and Hove Albion,Fulham,Brighton and Hove Albion, ,?
+233,EPL,2019-01-29,Huddersfield Town V Everton,Huddersfield Town,Everton, ,?
+234,EPL,2019-01-29,Wolverhampton Wanderers V West Ham United,Wolverhampton Wanderers,West Ham United, ,?
+235,EPL,2019-01-29,Manchester United V Burnley,Manchester United,Burnley, ,?
+236,EPL,2019-01-30,Newcastle United V Manchester City,Newcastle United,Manchester City, ,?
+237,EPL,2019-01-30,Southampton V Crystal Palace,Southampton,Crystal Palace, ,?
+238,EPL,2019-01-30,Liverpool V Leicester City,Liverpool,Leicester City, ,?
+239,EPL,2019-01-30,Tottenham Hotspur V Watford,Tottenham Hotspur,Watford, ,?
+240,EPL,2019-02-02,Brighton and Hove Albion V Watford,Brighton and Hove Albion,Watford, ,?
+241,EPL,2019-02-02,Burnley V Southampton,Burnley,Southampton, ,?
+242,EPL,2019-02-02,Cardiff City V Bournemouth,Cardiff City,Bournemouth, ,?
+243,EPL,2019-02-02,Chelsea V Huddersfield Town,Chelsea,Huddersfield Town, ,?
+244,EPL,2019-02-02,Crystal Palace V Fulham,Crystal Palace,Fulham, ,?
+245,EPL,2019-02-02,Everton V Wolverhampton Wanderers,Everton,Wolverhampton Wanderers, ,?
+246,EPL,2019-02-02,Leicester City V Manchester United,Leicester City,Manchester United, ,?
+247,EPL,2019-02-02,Manchester City V Arsenal,Manchester City,Arsenal, ,?
+248,EPL,2019-02-02,Tottenham Hotspur V Newcastle United,Tottenham Hotspur,Newcastle United, ,?
+249,EPL,2019-02-02,West Ham United V Liverpool,West Ham United,Liverpool, ,?
+250,EPL,2019-02-09,Brighton and Hove Albion V Burnley,Brighton and Hove Albion,Burnley, ,?
+251,EPL,2019-02-09,Crystal Palace V West Ham United,Crystal Palace,West Ham United, ,?
+252,EPL,2019-02-09,Fulham V Manchester United,Fulham,Manchester United, ,?
+253,EPL,2019-02-09,Huddersfield Town V Arsenal,Huddersfield Town,Arsenal, ,?
+254,EPL,2019-02-09,Liverpool V Bournemouth,Liverpool,Bournemouth, ,?
+255,EPL,2019-02-09,Manchester City V Chelsea,Manchester City,Chelsea, ,?
+256,EPL,2019-02-09,Southampton V Cardiff City,Southampton,Cardiff City, ,?
+257,EPL,2019-02-09,Tottenham Hotspur V Leicester City,Tottenham Hotspur,Leicester City, ,?
+258,EPL,2019-02-09,Watford V Everton,Watford,Everton, ,?
+259,EPL,2019-02-09,Wolverhampton Wanderers V Newcastle United,Wolverhampton Wanderers,Newcastle United, ,?
+260,EPL,2019-02-23,Arsenal V Southampton,Arsenal,Southampton, ,?
+261,EPL,2019-02-23,Bournemouth V Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers, ,?
+262,EPL,2019-02-23,Burnley V Tottenham Hotspur,Burnley,Tottenham Hotspur, ,?
+263,EPL,2019-02-23,Cardiff City V Watford,Cardiff City,Watford, ,?
+264,EPL,2019-02-23,Chelsea V Brighton and Hove Albion,Chelsea,Brighton and Hove Albion, ,?
+265,EPL,2019-02-23,Everton V Manchester City,Everton,Manchester City, ,?
+266,EPL,2019-02-23,Leicester City V Crystal Palace,Leicester City,Crystal Palace, ,?
+267,EPL,2019-02-23,Manchester United V Liverpool,Manchester United,Liverpool, ,?
+268,EPL,2019-02-23,Newcastle United V Huddersfield Town,Newcastle United,Huddersfield Town, ,?
+269,EPL,2019-02-23,West Ham United V Fulham,West Ham United,Fulham, ,?
+270,EPL,2019-02-26,Arsenal V Bournemouth,Arsenal,Bournemouth, ,?
+271,EPL,2019-02-26,Cardiff City V Everton,Cardiff City,Everton, ,?
+272,EPL,2019-02-26,Huddersfield Town V Wolverhampton Wanderers,Huddersfield Town,Wolverhampton Wanderers, ,?
+273,EPL,2019-02-26,Leicester City V Brighton and Hove Albion,Leicester City,Brighton and Hove Albion, ,?
+274,EPL,2019-02-26,Crystal Palace V Manchester United,Crystal Palace,Manchester United, ,?
+275,EPL,2019-02-27,Chelsea V Tottenham Hotspur,Chelsea,Tottenham Hotspur, ,?
+276,EPL,2019-02-27,Newcastle United V Burnley,Newcastle United,Burnley, ,?
+277,EPL,2019-02-27,Southampton V Fulham,Southampton,Fulham, ,?
+278,EPL,2019-02-27,Liverpool V Watford,Liverpool,Watford, ,?
+279,EPL,2019-02-27,Manchester City V West Ham United,Manchester City,West Ham United, ,?
+280,EPL,2019-03-02,Bournemouth V Manchester City,Bournemouth,Manchester City, ,?
+281,EPL,2019-03-02,Brighton and Hove Albion V Huddersfield Town,Brighton and Hove Albion,Huddersfield Town, ,?
+282,EPL,2019-03-02,Burnley V Crystal Palace,Burnley,Crystal Palace, ,?
+283,EPL,2019-03-02,Everton V Liverpool,Everton,Liverpool, ,?
+284,EPL,2019-03-02,Fulham V Chelsea,Fulham,Chelsea, ,?
+285,EPL,2019-03-02,Manchester United V Southampton,Manchester United,Southampton, ,?
+286,EPL,2019-03-02,Tottenham Hotspur V Arsenal,Tottenham Hotspur,Arsenal, ,?
+287,EPL,2019-03-02,Watford V Leicester City,Watford,Leicester City, ,?
+288,EPL,2019-03-02,West Ham United V Newcastle United,West Ham United,Newcastle United, ,?
+289,EPL,2019-03-02,Wolverhampton Wanderers V Cardiff City,Wolverhampton Wanderers,Cardiff City, ,?
+290,EPL,2019-03-09,Arsenal V Manchester United,Arsenal,Manchester United, ,?
+291,EPL,2019-03-09,Cardiff City V West Ham United,Cardiff City,West Ham United, ,?
+292,EPL,2019-03-09,Chelsea V Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers, ,?
+293,EPL,2019-03-09,Crystal Palace V Brighton and Hove Albion,Crystal Palace,Brighton and Hove Albion, ,?
+294,EPL,2019-03-09,Huddersfield Town V Bournemouth,Huddersfield Town,Bournemouth, ,?
+295,EPL,2019-03-09,Leicester City V Fulham,Leicester City,Fulham, ,?
+296,EPL,2019-03-09,Liverpool V Burnley,Liverpool,Burnley, ,?
+297,EPL,2019-03-09,Manchester City V Watford,Manchester City,Watford, ,?
+298,EPL,2019-03-09,Newcastle United V Everton,Newcastle United,Everton, ,?
+299,EPL,2019-03-09,Southampton V Tottenham Hotspur,Southampton,Tottenham Hotspur, ,?
+300,EPL,2019-03-16,Bournemouth V Newcastle United,Bournemouth,Newcastle United, ,?
+301,EPL,2019-03-16,Brighton and Hove Albion V Cardiff City,Brighton and Hove Albion,Cardiff City, ,?
+302,EPL,2019-03-16,Burnley V Leicester City,Burnley,Leicester City, ,?
+303,EPL,2019-03-16,Everton V Chelsea,Everton,Chelsea, ,?
+304,EPL,2019-03-16,Fulham V Liverpool,Fulham,Liverpool, ,?
+305,EPL,2019-03-16,Manchester United V Manchester City,Manchester United,Manchester City, ,?
+306,EPL,2019-03-16,Tottenham Hotspur V Crystal Palace,Tottenham Hotspur,Crystal Palace, ,?
+307,EPL,2019-03-16,Watford V Southampton,Watford,Southampton, ,?
+308,EPL,2019-03-16,West Ham United V Huddersfield Town,West Ham United,Huddersfield Town, ,?
+309,EPL,2019-03-16,Wolverhampton Wanderers V Arsenal,Wolverhampton Wanderers,Arsenal, ,?
+310,EPL,2019-03-30,Arsenal V Newcastle United,Arsenal,Newcastle United, ,?
+311,EPL,2019-03-30,Brighton and Hove Albion V Southampton,Brighton and Hove Albion,Southampton, ,?
+312,EPL,2019-03-30,Burnley V Wolverhampton Wanderers,Burnley,Wolverhampton Wanderers, ,?
+313,EPL,2019-03-30,Cardiff City V Chelsea,Cardiff City,Chelsea, ,?
+314,EPL,2019-03-30,Crystal Palace V Huddersfield Town,Crystal Palace,Huddersfield Town, ,?
+315,EPL,2019-03-30,Fulham V Manchester City,Fulham,Manchester City, ,?
+316,EPL,2019-03-30,Leicester City V Bournemouth,Leicester City,Bournemouth, ,?
+317,EPL,2019-03-30,Liverpool V Tottenham Hotspur,Liverpool,Tottenham Hotspur, ,?
+318,EPL,2019-03-30,Manchester United V Watford,Manchester United,Watford, ,?
+319,EPL,2019-03-30,West Ham United V Everton,West Ham United,Everton, ,?
+320,EPL,2019-04-06,Bournemouth V Burnley,Bournemouth,Burnley, ,?
+321,EPL,2019-04-06,Chelsea V West Ham United,Chelsea,West Ham United, ,?
+322,EPL,2019-04-06,Everton V Arsenal,Everton,Arsenal, ,?
+323,EPL,2019-04-06,Huddersfield Town V Leicester City,Huddersfield Town,Leicester City, ,?
+324,EPL,2019-04-06,Manchester City V Cardiff City,Manchester City,Cardiff City, ,?
+325,EPL,2019-04-06,Newcastle United V Crystal Palace,Newcastle United,Crystal Palace, ,?
+326,EPL,2019-04-06,Southampton V Liverpool,Southampton,Liverpool, ,?
+327,EPL,2019-04-06,Tottenham Hotspur V Brighton and Hove Albion,Tottenham Hotspur,Brighton and Hove Albion, ,?
+328,EPL,2019-04-06,Watford V Fulham,Watford,Fulham, ,?
+329,EPL,2019-04-06,Wolverhampton Wanderers V Manchester United,Wolverhampton Wanderers,Manchester United, ,?
+330,EPL,2019-04-13,Brighton and Hove Albion V Bournemouth,Brighton and Hove Albion,Bournemouth, ,?
+331,EPL,2019-04-13,Burnley V Cardiff City,Burnley,Cardiff City, ,?
+332,EPL,2019-04-13,Crystal Palace V Manchester City,Crystal Palace,Manchester City, ,?
+333,EPL,2019-04-13,Fulham V Everton,Fulham,Everton, ,?
+334,EPL,2019-04-13,Leicester City V Newcastle United,Leicester City,Newcastle United, ,?
+335,EPL,2019-04-13,Liverpool V Chelsea,Liverpool,Chelsea, ,?
+336,EPL,2019-04-13,Manchester United V West Ham United,Manchester United,West Ham United, ,?
+337,EPL,2019-04-13,Southampton V Wolverhampton Wanderers,Southampton,Wolverhampton Wanderers, ,?
+338,EPL,2019-04-13,Tottenham Hotspur V Huddersfield Town,Tottenham Hotspur,Huddersfield Town, ,?
+339,EPL,2019-04-13,Watford V Arsenal,Watford,Arsenal, ,?
+340,EPL,2019-04-20,Arsenal V Crystal Palace,Arsenal,Crystal Palace, ,?
+341,EPL,2019-04-20,Bournemouth V Fulham,Bournemouth,Fulham, ,?
+342,EPL,2019-04-20,Cardiff City V Liverpool,Cardiff City,Liverpool, ,?
+343,EPL,2019-04-20,Chelsea V Burnley,Chelsea,Burnley, ,?
+344,EPL,2019-04-20,Everton V Manchester United,Everton,Manchester United, ,?
+345,EPL,2019-04-20,Huddersfield Town V Watford,Huddersfield Town,Watford, ,?
+346,EPL,2019-04-20,Manchester City V Tottenham Hotspur,Manchester City,Tottenham Hotspur, ,?
+347,EPL,2019-04-20,Newcastle United V Southampton,Newcastle United,Southampton, ,?
+348,EPL,2019-04-20,West Ham United V Leicester City,West Ham United,Leicester City, ,?
+349,EPL,2019-04-20,Wolverhampton Wanderers V Brighton and Hove Albion,Wolverhampton Wanderers,Brighton and Hove Albion, ,?
+350,EPL,2019-04-27,Brighton and Hove Albion V Newcastle United,Brighton and Hove Albion,Newcastle United, ,?
+351,EPL,2019-04-27,Burnley V Manchester City,Burnley,Manchester City, ,?
+352,EPL,2019-04-27,Crystal Palace V Everton,Crystal Palace,Everton, ,?
+353,EPL,2019-04-27,Fulham V Cardiff City,Fulham,Cardiff City, ,?
+354,EPL,2019-04-27,Leicester City V Arsenal,Leicester City,Arsenal, ,?
+355,EPL,2019-04-27,Liverpool V Huddersfield Town,Liverpool,Huddersfield Town, ,?
+356,EPL,2019-04-27,Manchester United V Chelsea,Manchester United,Chelsea, ,?
+357,EPL,2019-04-27,Southampton V Bournemouth,Southampton,Bournemouth, ,?
+358,EPL,2019-04-27,Tottenham Hotspur V West Ham United,Tottenham Hotspur,West Ham United, ,?
+359,EPL,2019-04-27,Watford V Wolverhampton Wanderers,Watford,Wolverhampton Wanderers, ,?
+360,EPL,2019-05-04,Arsenal V Brighton and Hove Albion,Arsenal,Brighton and Hove Albion, ,?
+361,EPL,2019-05-04,Bournemouth V Tottenham Hotspur,Bournemouth,Tottenham Hotspur, ,?
+362,EPL,2019-05-04,Cardiff City V Crystal Palace,Cardiff City,Crystal Palace, ,?
+363,EPL,2019-05-04,Chelsea V Watford,Chelsea,Watford, ,?
+364,EPL,2019-05-04,Everton V Burnley,Everton,Burnley, ,?
+365,EPL,2019-05-04,Huddersfield Town V Manchester United,Huddersfield Town,Manchester United, ,?
+366,EPL,2019-05-04,Manchester City V Leicester City,Manchester City,Leicester City, ,?
+367,EPL,2019-05-04,Newcastle United V Liverpool,Newcastle United,Liverpool, ,?
+368,EPL,2019-05-04,West Ham United V Southampton,West Ham United,Southampton, ,?
+369,EPL,2019-05-04,Wolverhampton Wanderers V Fulham,Wolverhampton Wanderers,Fulham, ,?
+370,EPL,2019-05-12,Brighton and Hove Albion V Manchester City,Brighton and Hove Albion,Manchester City, ,?
+371,EPL,2019-05-12,Burnley V Arsenal,Burnley,Arsenal, ,?
+372,EPL,2019-05-12,Crystal Palace V Bournemouth,Crystal Palace,Bournemouth, ,?
+373,EPL,2019-05-12,Fulham V Newcastle United,Fulham,Newcastle United, ,?
+374,EPL,2019-05-12,Leicester City V Chelsea,Leicester City,Chelsea, ,?
+375,EPL,2019-05-12,Liverpool V Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers, ,?
+376,EPL,2019-05-12,Manchester United V Cardiff City,Manchester United,Cardiff City, ,?
+377,EPL,2019-05-12,Southampton V Huddersfield Town,Southampton,Huddersfield Town, ,?
+378,EPL,2019-05-12,Tottenham Hotspur V Everton,Tottenham Hotspur,Everton, ,?
+379,EPL,2019-05-12,Watford V West Ham United,Watford,West Ham United, ,?

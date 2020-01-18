@@ -1,0 +1,381 @@
+League,Date,Fixture,Will BTS?,BTTS%
+EPL,2018-08-10,Manchester United V Leicester City,Yes,63.15
+EPL,2018-08-11,Newcastle United V Tottenham Hotspur,No,48.7
+EPL,2018-08-11,Bournemouth V Cardiff City,No,42.1
+EPL,2018-08-11,Fulham V Crystal Palace,Yes,50.0
+EPL,2018-08-11,Huddersfield Town V Chelsea,No,42.1
+EPL,2018-08-11,Watford V Brighton and Hove Albion,Yes,56.55
+EPL,2018-08-11,Wolverhampton Wanderers V Everton,No,47.35
+EPL,2018-08-12,Liverpool V West Ham United,No,46.05
+EPL,2018-08-12,Southampton V Burnley,Yes,60.55
+EPL,2018-08-12,Arsenal V Manchester City,Yes,56.55
+EPL,2018-08-18,Cardiff City V Newcastle United,No,43.45
+EPL,2018-08-18,Everton V Southampton,Yes,55.25
+EPL,2018-08-18,Leicester City V Wolverhampton Wanderers,Yes,53.95
+EPL,2018-08-18,Tottenham Hotspur V Fulham,Yes,50.0
+EPL,2018-08-18,West Ham United V Bournemouth,No,46.05
+EPL,2018-08-18,Chelsea V Arsenal,Yes,55.25
+EPL,2018-08-19,Burnley V Watford,Yes,57.9
+EPL,2018-08-19,Manchester City V Huddersfield Town,No,43.4
+EPL,2018-08-19,Brighton and Hove Albion V Manchester United,Yes,60.5
+EPL,2018-08-20,Crystal Palace V Liverpool,No,47.35
+EPL,2018-08-25,Wolverhampton Wanderers V Manchester City,No,47.35
+EPL,2018-08-25,Arsenal V West Ham United,Yes,57.9
+EPL,2018-08-25,Bournemouth V Everton,No,44.7
+EPL,2018-08-25,Fulham V Burnley,Yes,52.65
+EPL,2018-08-25,Huddersfield Town V Cardiff City,No,40.8
+EPL,2018-08-25,Southampton V Leicester City,Yes,61.85
+EPL,2018-08-25,Liverpool V Brighton and Hove Albion,No,48.65
+EPL,2018-08-26,Watford V Crystal Palace,Yes,55.25
+EPL,2018-08-26,Newcastle United V Chelsea,No,44.75
+EPL,2018-08-27,Manchester United V Tottenham Hotspur,Yes,59.2
+EPL,2018-09-01,Leicester City V Liverpool,Yes,51.3
+EPL,2018-09-01,Brighton and Hove Albion V Fulham,Yes,51.3
+EPL,2018-09-01,Burnley V Manchester United,Yes,61.85
+EPL,2018-09-01,Chelsea V Bournemouth,No,43.4
+EPL,2018-09-01,Crystal Palace V Southampton,Yes,57.9
+EPL,2018-09-01,Everton V Huddersfield Town,No,43.4
+EPL,2018-09-01,West Ham United V Wolverhampton Wanderers,No,48.7
+EPL,2018-09-01,Manchester City V Newcastle United,No,46.05
+EPL,2018-09-02,Cardiff City V Arsenal,Yes,53.95
+EPL,2018-09-02,Watford V Tottenham Hotspur,Yes,55.25
+EPL,2018-09-15,Tottenham Hotspur V Liverpool,No,47.35
+EPL,2018-09-15,Bournemouth V Leicester City,Yes,51.3
+EPL,2018-09-15,Chelsea V Cardiff City,No,40.8
+EPL,2018-09-15,Huddersfield Town V Crystal Palace,No,46.05
+EPL,2018-09-15,Manchester City V Fulham,No,47.35
+EPL,2018-09-15,Newcastle United V Arsenal,Yes,57.9
+EPL,2018-09-15,Watford V Manchester United,Yes,64.45
+EPL,2018-09-16,Wolverhampton Wanderers V Burnley,Yes,52.65
+EPL,2018-09-16,Everton V West Ham United,No,46.05
+EPL,2018-09-17,Southampton V Brighton and Hove Albion,Yes,59.2
+EPL,2018-09-22,Fulham V Watford,Yes,55.25
+EPL,2018-09-22,Burnley V Bournemouth,Yes,50.0
+EPL,2018-09-22,Cardiff City V Manchester City,No,42.1
+EPL,2018-09-22,Crystal Palace V Newcastle United,No,48.7
+EPL,2018-09-22,Leicester City V Huddersfield Town,Yes,50.0
+EPL,2018-09-22,Liverpool V Southampton,Yes,55.25
+EPL,2018-09-22,Manchester United V Wolverhampton Wanderers,Yes,59.2
+EPL,2018-09-22,Brighton and Hove Albion V Tottenham Hotspur,Yes,51.3
+EPL,2018-09-23,West Ham United V Chelsea,No,44.75
+EPL,2018-09-23,Arsenal V Everton,Yes,56.55
+EPL,2018-09-29,West Ham United V Manchester United,Yes,57.9
+EPL,2018-09-29,Arsenal V Watford,Yes,64.45
+EPL,2018-09-29,Everton V Fulham,No,47.35
+EPL,2018-09-29,Huddersfield Town V Tottenham Hotspur,No,46.05
+EPL,2018-09-29,Manchester City V Brighton and Hove Albion,No,48.65
+EPL,2018-09-29,Newcastle United V Leicester City,Yes,52.65
+EPL,2018-09-29,Wolverhampton Wanderers V Southampton,Yes,57.9
+EPL,2018-09-29,Chelsea V Liverpool,No,43.4
+EPL,2018-09-30,Cardiff City V Burnley,No,47.4
+EPL,2018-10-01,Bournemouth V Crystal Palace,No,47.35
+EPL,2018-10-05,Brighton and Hove Albion V West Ham United,Yes,50.0
+EPL,2018-10-06,Burnley V Huddersfield Town,No,48.7
+EPL,2018-10-06,Crystal Palace V Wolverhampton Wanderers,Yes,50.0
+EPL,2018-10-06,Leicester City V Everton,Yes,51.3
+EPL,2018-10-06,Tottenham Hotspur V Cardiff City,No,44.75
+EPL,2018-10-06,Watford V Bournemouth,Yes,52.6
+EPL,2018-10-06,Manchester United V Newcastle United,Yes,57.9
+EPL,2018-10-07,Fulham V Arsenal,Yes,59.2
+EPL,2018-10-07,Southampton V Chelsea,Yes,53.95
+EPL,2018-10-07,Liverpool V Manchester City,No,44.7
+EPL,2018-10-20,Chelsea V Manchester United,Yes,55.25
+EPL,2018-10-20,Bournemouth V Southampton,Yes,55.25
+EPL,2018-10-20,Cardiff City V Fulham,No,44.75
+EPL,2018-10-20,Manchester City V Burnley,Yes,50.0
+EPL,2018-10-20,Newcastle United V Brighton and Hove Albion,Yes,50.0
+EPL,2018-10-20,West Ham United V Tottenham Hotspur,No,48.7
+EPL,2018-10-20,Wolverhampton Wanderers V Watford,Yes,55.25
+EPL,2018-10-20,Huddersfield Town V Liverpool,No,43.4
+EPL,2018-10-21,Everton V Crystal Palace,No,47.35
+EPL,2018-10-22,Arsenal V Leicester City,Yes,63.15
+EPL,2018-10-27,Manchester United V Everton,Yes,56.55
+EPL,2018-10-27,Brighton and Hove Albion V Wolverhampton Wanderers,Yes,51.3
+EPL,2018-10-27,Fulham V Bournemouth,No,47.35
+EPL,2018-10-27,Liverpool V Cardiff City,No,42.1
+EPL,2018-10-27,Southampton V Newcastle United,Yes,56.6
+EPL,2018-10-27,Watford V Huddersfield Town,Yes,51.3
+EPL,2018-10-27,Leicester City V West Ham United,Yes,52.65
+EPL,2018-10-28,Burnley V Chelsea,No,48.7
+EPL,2018-10-28,Crystal Palace V Arsenal,Yes,59.2
+EPL,2018-10-28,Tottenham Hotspur V Manchester City,No,47.35
+EPL,2018-11-03,Bournemouth V Manchester United,Yes,56.55
+EPL,2018-11-03,Cardiff City V Leicester City,No,48.7
+EPL,2018-11-03,Everton V Brighton and Hove Albion,No,48.65
+EPL,2018-11-03,Manchester City V Southampton,Yes,55.25
+EPL,2018-11-03,Newcastle United V Watford,Yes,53.95
+EPL,2018-11-03,West Ham United V Burnley,Yes,51.35
+EPL,2018-11-03,Arsenal V Liverpool,Yes,56.55
+EPL,2018-11-04,Wolverhampton Wanderers V Tottenham Hotspur,Yes,50.0
+EPL,2018-11-04,Chelsea V Crystal Palace,No,46.05
+EPL,2018-11-05,Huddersfield Town V Fulham,No,46.05
+EPL,2018-11-10,Cardiff City V Brighton and Hove Albion,No,46.05
+EPL,2018-11-10,Huddersfield Town V West Ham United,No,44.75
+EPL,2018-11-10,Leicester City V Burnley,Yes,56.6
+EPL,2018-11-10,Newcastle United V Bournemouth,No,46.05
+EPL,2018-11-10,Southampton V Watford,Yes,63.15
+EPL,2018-11-10,Crystal Palace V Tottenham Hotspur,Yes,50.0
+EPL,2018-11-11,Liverpool V Fulham,No,47.35
+EPL,2018-11-11,Chelsea V Everton,No,43.4
+EPL,2018-11-11,Arsenal V Wolverhampton Wanderers,Yes,59.2
+EPL,2018-11-11,Manchester City V Manchester United,Yes,56.55
+EPL,2018-11-24,Brighton and Hove Albion V Leicester City,Yes,55.25
+EPL,2018-11-24,Everton V Cardiff City,No,42.1
+EPL,2018-11-24,Fulham V Southampton,Yes,57.9
+EPL,2018-11-24,Manchester United V Crystal Palace,Yes,59.2
+EPL,2018-11-24,Watford V Liverpool,Yes,52.6
+EPL,2018-11-24,West Ham United V Manchester City,No,46.05
+EPL,2018-11-24,Tottenham Hotspur V Chelsea,No,46.05
+EPL,2018-11-25,Bournemouth V Arsenal,Yes,56.55
+EPL,2018-11-25,Wolverhampton Wanderers V Huddersfield Town,No,46.05
+EPL,2018-11-26,Burnley V Newcastle United,Yes,51.35
+EPL,2018-12-01,Arsenal V Tottenham Hotspur,Yes,59.2
+EPL,2018-12-01,Cardiff City V Wolverhampton Wanderers,No,44.75
+EPL,2018-12-01,Chelsea V Fulham,No,46.05
+EPL,2018-12-01,Crystal Palace V Burnley,Yes,52.65
+EPL,2018-12-01,Huddersfield Town V Brighton and Hove Albion,No,47.35
+EPL,2018-12-01,Leicester City V Watford,Yes,59.2
+EPL,2018-12-01,Liverpool V Everton,No,44.7
+EPL,2018-12-01,Manchester City V Bournemouth,No,44.7
+EPL,2018-12-01,Newcastle United V West Ham United,No,47.4
+EPL,2018-12-01,Southampton V Manchester United,Yes,67.1
+EPL,2018-12-04,Bournemouth V Huddersfield Town,No,43.4
+EPL,2018-12-04,Brighton and Hove Albion V Crystal Palace,Yes,51.3
+EPL,2018-12-04,Burnley V Liverpool,Yes,50.0
+EPL,2018-12-04,Fulham V Leicester City,Yes,53.95
+EPL,2018-12-04,Watford V Manchester City,Yes,52.6
+EPL,2018-12-04,West Ham United V Cardiff City,No,43.45
+EPL,2018-12-04,Wolverhampton Wanderers V Chelsea,No,46.05
+EPL,2018-12-04,Manchester United V Arsenal,Yes,68.4
+EPL,2018-12-05,Everton V Newcastle United,No,46.05
+EPL,2018-12-05,Tottenham Hotspur V Southampton,Yes,57.9
+EPL,2018-12-08,Arsenal V Huddersfield Town,Yes,55.25
+EPL,2018-12-08,Bournemouth V Liverpool,No,44.7
+EPL,2018-12-08,Burnley V Brighton and Hove Albion,Yes,53.95
+EPL,2018-12-08,Cardiff City V Southampton,Yes,52.65
+EPL,2018-12-08,Chelsea V Manchester City,No,43.4
+EPL,2018-12-08,Everton V Watford,Yes,52.6
+EPL,2018-12-08,Leicester City V Tottenham Hotspur,Yes,53.95
+EPL,2018-12-08,Manchester United V Fulham,Yes,59.2
+EPL,2018-12-08,Newcastle United V Wolverhampton Wanderers,No,48.7
+EPL,2018-12-08,West Ham United V Crystal Palace,No,48.7
+EPL,2018-12-15,Brighton and Hove Albion V Chelsea,No,47.35
+EPL,2018-12-15,Crystal Palace V Leicester City,Yes,53.95
+EPL,2018-12-15,Fulham V West Ham United,No,48.7
+EPL,2018-12-15,Huddersfield Town V Newcastle United,No,44.75
+EPL,2018-12-15,Liverpool V Manchester United,Yes,56.55
+EPL,2018-12-15,Manchester City V Everton,No,44.7
+EPL,2018-12-15,Southampton V Arsenal,Yes,67.1
+EPL,2018-12-15,Tottenham Hotspur V Burnley,Yes,52.65
+EPL,2018-12-15,Watford V Cardiff City,Yes,50.0
+EPL,2018-12-15,Wolverhampton Wanderers V Bournemouth,No,47.35
+EPL,2018-12-22,Arsenal V Burnley,Yes,61.85
+EPL,2018-12-22,Bournemouth V Brighton and Hove Albion,No,48.65
+EPL,2018-12-22,Cardiff City V Manchester United,Yes,53.95
+EPL,2018-12-22,Chelsea V Leicester City,Yes,50.0
+EPL,2018-12-22,Everton V Tottenham Hotspur,No,47.35
+EPL,2018-12-22,Huddersfield Town V Southampton,Yes,53.95
+EPL,2018-12-22,Manchester City V Crystal Palace,No,47.35
+EPL,2018-12-22,Newcastle United V Fulham,No,48.7
+EPL,2018-12-22,West Ham United V Watford,Yes,53.95
+EPL,2018-12-22,Wolverhampton Wanderers V Liverpool,No,47.35
+EPL,2018-12-26,Brighton and Hove Albion V Arsenal,Yes,60.5
+EPL,2018-12-26,Burnley V Everton,Yes,50.0
+EPL,2018-12-26,Crystal Palace V Cardiff City,No,44.75
+EPL,2018-12-26,Fulham V Wolverhampton Wanderers,Yes,50.0
+EPL,2018-12-26,Leicester City V Manchester City,Yes,51.3
+EPL,2018-12-26,Liverpool V Newcastle United,No,46.05
+EPL,2018-12-26,Manchester United V Huddersfield Town,Yes,55.25
+EPL,2018-12-26,Southampton V West Ham United,Yes,56.6
+EPL,2018-12-26,Tottenham Hotspur V Bournemouth,No,47.35
+EPL,2018-12-26,Watford V Chelsea,Yes,51.3
+EPL,2018-12-29,Brighton and Hove Albion V Everton,No,48.65
+EPL,2018-12-29,Burnley V West Ham United,Yes,51.35
+EPL,2018-12-29,Crystal Palace V Chelsea,No,46.05
+EPL,2018-12-29,Fulham V Huddersfield Town,No,46.05
+EPL,2018-12-29,Leicester City V Cardiff City,No,48.7
+EPL,2018-12-29,Liverpool V Arsenal,Yes,56.55
+EPL,2018-12-29,Manchester United V Bournemouth,Yes,56.55
+EPL,2018-12-29,Southampton V Manchester City,Yes,55.25
+EPL,2018-12-29,Tottenham Hotspur V Wolverhampton Wanderers,Yes,50.0
+EPL,2018-12-29,Watford V Newcastle United,Yes,53.95
+EPL,2019-01-01,Arsenal V Fulham,Yes,59.2
+EPL,2019-01-01,Bournemouth V Watford,Yes,52.6
+EPL,2019-01-01,Cardiff City V Tottenham Hotspur,No,44.75
+EPL,2019-01-01,Chelsea V Southampton,Yes,53.95
+EPL,2019-01-01,Everton V Leicester City,Yes,51.3
+EPL,2019-01-01,Huddersfield Town V Burnley,No,48.7
+EPL,2019-01-01,Manchester City V Liverpool,No,44.7
+EPL,2019-01-01,Newcastle United V Manchester United,Yes,57.9
+EPL,2019-01-01,West Ham United V Brighton and Hove Albion,Yes,50.0
+EPL,2019-01-01,Wolverhampton Wanderers V Crystal Palace,Yes,50.0
+EPL,2019-01-12,Brighton and Hove Albion V Liverpool,No,48.65
+EPL,2019-01-12,Burnley V Fulham,Yes,52.65
+EPL,2019-01-12,Cardiff City V Huddersfield Town,No,40.8
+EPL,2019-01-12,Chelsea V Newcastle United,No,44.75
+EPL,2019-01-12,Crystal Palace V Watford,Yes,55.25
+EPL,2019-01-12,Everton V Bournemouth,No,44.7
+EPL,2019-01-12,Leicester City V Southampton,Yes,61.85
+EPL,2019-01-12,Manchester City V Wolverhampton Wanderers,No,47.35
+EPL,2019-01-12,Tottenham Hotspur V Manchester United,Yes,59.2
+EPL,2019-01-12,West Ham United V Arsenal,Yes,57.9
+EPL,2019-01-19,Arsenal V Chelsea,Yes,55.25
+EPL,2019-01-19,Bournemouth V West Ham United,No,46.05
+EPL,2019-01-19,Fulham V Tottenham Hotspur,Yes,50.0
+EPL,2019-01-19,Huddersfield Town V Manchester City,No,43.4
+EPL,2019-01-19,Liverpool V Crystal Palace,No,47.35
+EPL,2019-01-19,Manchester United V Brighton and Hove Albion,Yes,60.5
+EPL,2019-01-19,Newcastle United V Cardiff City,No,43.45
+EPL,2019-01-19,Southampton V Everton,Yes,55.25
+EPL,2019-01-19,Watford V Burnley,Yes,57.9
+EPL,2019-01-19,Wolverhampton Wanderers V Leicester City,Yes,53.95
+EPL,2019-01-29,Arsenal V Cardiff City,Yes,53.95
+EPL,2019-01-29,Bournemouth V Chelsea,No,43.4
+EPL,2019-01-29,Fulham V Brighton and Hove Albion,Yes,51.3
+EPL,2019-01-29,Huddersfield Town V Everton,No,43.4
+EPL,2019-01-29,Wolverhampton Wanderers V West Ham United,No,48.7
+EPL,2019-01-29,Manchester United V Burnley,Yes,61.85
+EPL,2019-01-30,Newcastle United V Manchester City,No,46.05
+EPL,2019-01-30,Southampton V Crystal Palace,Yes,57.9
+EPL,2019-01-30,Liverpool V Leicester City,Yes,51.3
+EPL,2019-01-30,Tottenham Hotspur V Watford,Yes,55.25
+EPL,2019-02-02,Brighton and Hove Albion V Watford,Yes,56.55
+EPL,2019-02-02,Burnley V Southampton,Yes,60.55
+EPL,2019-02-02,Cardiff City V Bournemouth,No,42.1
+EPL,2019-02-02,Chelsea V Huddersfield Town,No,42.1
+EPL,2019-02-02,Crystal Palace V Fulham,Yes,50.0
+EPL,2019-02-02,Everton V Wolverhampton Wanderers,No,47.35
+EPL,2019-02-02,Leicester City V Manchester United,Yes,63.15
+EPL,2019-02-02,Manchester City V Arsenal,Yes,56.55
+EPL,2019-02-02,Tottenham Hotspur V Newcastle United,No,48.7
+EPL,2019-02-02,West Ham United V Liverpool,No,46.05
+EPL,2019-02-09,Brighton and Hove Albion V Burnley,Yes,53.95
+EPL,2019-02-09,Crystal Palace V West Ham United,No,48.7
+EPL,2019-02-09,Fulham V Manchester United,Yes,59.2
+EPL,2019-02-09,Huddersfield Town V Arsenal,Yes,55.25
+EPL,2019-02-09,Liverpool V Bournemouth,No,44.7
+EPL,2019-02-09,Manchester City V Chelsea,No,43.4
+EPL,2019-02-09,Southampton V Cardiff City,Yes,52.65
+EPL,2019-02-09,Tottenham Hotspur V Leicester City,Yes,53.95
+EPL,2019-02-09,Watford V Everton,Yes,52.6
+EPL,2019-02-09,Wolverhampton Wanderers V Newcastle United,No,48.7
+EPL,2019-02-23,Arsenal V Southampton,Yes,67.1
+EPL,2019-02-23,Bournemouth V Wolverhampton Wanderers,No,47.35
+EPL,2019-02-23,Burnley V Tottenham Hotspur,Yes,52.65
+EPL,2019-02-23,Cardiff City V Watford,Yes,50.0
+EPL,2019-02-23,Chelsea V Brighton and Hove Albion,No,47.35
+EPL,2019-02-23,Everton V Manchester City,No,44.7
+EPL,2019-02-23,Leicester City V Crystal Palace,Yes,53.95
+EPL,2019-02-23,Manchester United V Liverpool,Yes,56.55
+EPL,2019-02-23,Newcastle United V Huddersfield Town,No,44.75
+EPL,2019-02-23,West Ham United V Fulham,No,48.7
+EPL,2019-02-26,Arsenal V Bournemouth,Yes,56.55
+EPL,2019-02-26,Cardiff City V Everton,No,42.1
+EPL,2019-02-26,Huddersfield Town V Wolverhampton Wanderers,No,46.05
+EPL,2019-02-26,Leicester City V Brighton and Hove Albion,Yes,55.25
+EPL,2019-02-26,Crystal Palace V Manchester United,Yes,59.2
+EPL,2019-02-27,Chelsea V Tottenham Hotspur,No,46.05
+EPL,2019-02-27,Newcastle United V Burnley,Yes,51.35
+EPL,2019-02-27,Southampton V Fulham,Yes,57.9
+EPL,2019-02-27,Liverpool V Watford,Yes,52.6
+EPL,2019-02-27,Manchester City V West Ham United,No,46.05
+EPL,2019-03-02,Bournemouth V Manchester City,No,44.7
+EPL,2019-03-02,Brighton and Hove Albion V Huddersfield Town,No,47.35
+EPL,2019-03-02,Burnley V Crystal Palace,Yes,52.65
+EPL,2019-03-02,Everton V Liverpool,No,44.7
+EPL,2019-03-02,Fulham V Chelsea,No,46.05
+EPL,2019-03-02,Manchester United V Southampton,Yes,67.1
+EPL,2019-03-02,Tottenham Hotspur V Arsenal,Yes,59.2
+EPL,2019-03-02,Watford V Leicester City,Yes,59.2
+EPL,2019-03-02,West Ham United V Newcastle United,No,47.4
+EPL,2019-03-02,Wolverhampton Wanderers V Cardiff City,No,44.75
+EPL,2019-03-09,Arsenal V Manchester United,Yes,68.4
+EPL,2019-03-09,Cardiff City V West Ham United,No,43.45
+EPL,2019-03-09,Chelsea V Wolverhampton Wanderers,No,46.05
+EPL,2019-03-09,Crystal Palace V Brighton and Hove Albion,Yes,51.3
+EPL,2019-03-09,Huddersfield Town V Bournemouth,No,43.4
+EPL,2019-03-09,Leicester City V Fulham,Yes,53.95
+EPL,2019-03-09,Liverpool V Burnley,Yes,50.0
+EPL,2019-03-09,Manchester City V Watford,Yes,52.6
+EPL,2019-03-09,Newcastle United V Everton,No,46.05
+EPL,2019-03-09,Southampton V Tottenham Hotspur,Yes,57.9
+EPL,2019-03-16,Bournemouth V Newcastle United,No,46.05
+EPL,2019-03-16,Brighton and Hove Albion V Cardiff City,No,46.05
+EPL,2019-03-16,Burnley V Leicester City,Yes,56.6
+EPL,2019-03-16,Everton V Chelsea,No,43.4
+EPL,2019-03-16,Fulham V Liverpool,No,47.35
+EPL,2019-03-16,Manchester United V Manchester City,Yes,56.55
+EPL,2019-03-16,Tottenham Hotspur V Crystal Palace,Yes,50.0
+EPL,2019-03-16,Watford V Southampton,Yes,63.15
+EPL,2019-03-16,West Ham United V Huddersfield Town,No,44.75
+EPL,2019-03-16,Wolverhampton Wanderers V Arsenal,Yes,59.2
+EPL,2019-03-30,Arsenal V Newcastle United,Yes,57.9
+EPL,2019-03-30,Brighton and Hove Albion V Southampton,Yes,59.2
+EPL,2019-03-30,Burnley V Wolverhampton Wanderers,Yes,52.65
+EPL,2019-03-30,Cardiff City V Chelsea,No,40.8
+EPL,2019-03-30,Crystal Palace V Huddersfield Town,No,46.05
+EPL,2019-03-30,Fulham V Manchester City,No,47.35
+EPL,2019-03-30,Leicester City V Bournemouth,Yes,51.3
+EPL,2019-03-30,Liverpool V Tottenham Hotspur,No,47.35
+EPL,2019-03-30,Manchester United V Watford,Yes,64.45
+EPL,2019-03-30,West Ham United V Everton,No,46.05
+EPL,2019-04-06,Bournemouth V Burnley,Yes,50.0
+EPL,2019-04-06,Chelsea V West Ham United,No,44.75
+EPL,2019-04-06,Everton V Arsenal,Yes,56.55
+EPL,2019-04-06,Huddersfield Town V Leicester City,Yes,50.0
+EPL,2019-04-06,Manchester City V Cardiff City,No,42.1
+EPL,2019-04-06,Newcastle United V Crystal Palace,No,48.7
+EPL,2019-04-06,Southampton V Liverpool,Yes,55.25
+EPL,2019-04-06,Tottenham Hotspur V Brighton and Hove Albion,Yes,51.3
+EPL,2019-04-06,Watford V Fulham,Yes,55.25
+EPL,2019-04-06,Wolverhampton Wanderers V Manchester United,Yes,59.2
+EPL,2019-04-13,Brighton and Hove Albion V Bournemouth,No,48.65
+EPL,2019-04-13,Burnley V Cardiff City,No,47.4
+EPL,2019-04-13,Crystal Palace V Manchester City,No,47.35
+EPL,2019-04-13,Fulham V Everton,No,47.35
+EPL,2019-04-13,Leicester City V Newcastle United,Yes,52.65
+EPL,2019-04-13,Liverpool V Chelsea,No,43.4
+EPL,2019-04-13,Manchester United V West Ham United,Yes,57.9
+EPL,2019-04-13,Southampton V Wolverhampton Wanderers,Yes,57.9
+EPL,2019-04-13,Tottenham Hotspur V Huddersfield Town,No,46.05
+EPL,2019-04-13,Watford V Arsenal,Yes,64.45
+EPL,2019-04-20,Arsenal V Crystal Palace,Yes,59.2
+EPL,2019-04-20,Bournemouth V Fulham,No,47.35
+EPL,2019-04-20,Cardiff City V Liverpool,No,42.1
+EPL,2019-04-20,Chelsea V Burnley,No,48.7
+EPL,2019-04-20,Everton V Manchester United,Yes,56.55
+EPL,2019-04-20,Huddersfield Town V Watford,Yes,51.3
+EPL,2019-04-20,Manchester City V Tottenham Hotspur,No,47.35
+EPL,2019-04-20,Newcastle United V Southampton,Yes,56.6
+EPL,2019-04-20,West Ham United V Leicester City,Yes,52.65
+EPL,2019-04-20,Wolverhampton Wanderers V Brighton and Hove Albion,Yes,51.3
+EPL,2019-04-27,Brighton and Hove Albion V Newcastle United,Yes,50.0
+EPL,2019-04-27,Burnley V Manchester City,Yes,50.0
+EPL,2019-04-27,Crystal Palace V Everton,No,47.35
+EPL,2019-04-27,Fulham V Cardiff City,No,44.75
+EPL,2019-04-27,Leicester City V Arsenal,Yes,63.15
+EPL,2019-04-27,Liverpool V Huddersfield Town,No,43.4
+EPL,2019-04-27,Manchester United V Chelsea,Yes,55.25
+EPL,2019-04-27,Southampton V Bournemouth,Yes,55.25
+EPL,2019-04-27,Tottenham Hotspur V West Ham United,No,48.7
+EPL,2019-04-27,Watford V Wolverhampton Wanderers,Yes,55.25
+EPL,2019-05-04,Arsenal V Brighton and Hove Albion,Yes,60.5
+EPL,2019-05-04,Bournemouth V Tottenham Hotspur,No,47.35
+EPL,2019-05-04,Cardiff City V Crystal Palace,No,44.75
+EPL,2019-05-04,Chelsea V Watford,Yes,51.3
+EPL,2019-05-04,Everton V Burnley,Yes,50.0
+EPL,2019-05-04,Huddersfield Town V Manchester United,Yes,55.25
+EPL,2019-05-04,Manchester City V Leicester City,Yes,51.3
+EPL,2019-05-04,Newcastle United V Liverpool,No,46.05
+EPL,2019-05-04,West Ham United V Southampton,Yes,56.6
+EPL,2019-05-04,Wolverhampton Wanderers V Fulham,Yes,50.0
+EPL,2019-05-12,Brighton and Hove Albion V Manchester City,No,48.65
+EPL,2019-05-12,Burnley V Arsenal,Yes,61.85
+EPL,2019-05-12,Crystal Palace V Bournemouth,No,47.35
+EPL,2019-05-12,Fulham V Newcastle United,No,48.7
+EPL,2019-05-12,Leicester City V Chelsea,Yes,50.0
+EPL,2019-05-12,Liverpool V Wolverhampton Wanderers,No,47.35
+EPL,2019-05-12,Manchester United V Cardiff City,Yes,53.95
+EPL,2019-05-12,Southampton V Huddersfield Town,Yes,53.95
+EPL,2019-05-12,Tottenham Hotspur V Everton,No,47.35
+EPL,2019-05-12,Watford V West Ham United,Yes,53.95

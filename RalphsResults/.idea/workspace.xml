@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ddeaf88-5c1c-4472-9fb7-c651f90d0914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VzNf6WcR2wG3YV69XvwjHuYqRx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RalphsResults" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\FlaskWithDash\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="DataSanatize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskWithDash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DataSanatize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GenerateData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskWithDash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/GenerateData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="FlaskWithDash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="showDash" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="FlaskWithDash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/showDash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.DataSanatize" />
+      <item itemvalue="Python.GenerateData" />
+      <item itemvalue="Python.showDash" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.showDash" />
+        <item itemvalue="Python.DataSanatize" />
+        <item itemvalue="Python.GenerateData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ddeaf88-5c1c-4472-9fb7-c651f90d0914" name="Default Changelist" comment="" />
+      <created>1578252063885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578252063885</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4174" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578617544612">
+      <screen x="3440" y="0" width="2560" height="1400" />
+    </state>
+    <state x="4174" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/3440.0.2560.1400@3440.0.2560.1400" timestamp="1578617544612" />
+    <state x="590" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578772006729">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="590" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578344860385" />
+    <state x="590" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1578772006729" />
+    <state x="1500" y="456" key="FileChooserDialogImpl" timestamp="1578341865241">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1500" y="456" key="FileChooserDialogImpl/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578341865241" />
+    <state width="1696" height="397" key="GridCell.Tab.0.bottom" timestamp="1579125672425">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1696" height="397" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578349750681" />
+    <state width="1696" height="397" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125672425" />
+    <state width="1696" height="397" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.2560.1400@3440.0.2560.1400" timestamp="1578847179583" />
+    <state width="1696" height="397" key="GridCell.Tab.0.center" timestamp="1579125672425">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1696" height="397" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578349750681" />
+    <state width="1696" height="397" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125672425" />
+    <state width="1696" height="397" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.2560.1400@3440.0.2560.1400" timestamp="1578847179583" />
+    <state width="1696" height="397" key="GridCell.Tab.0.left" timestamp="1579125672424">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1696" height="397" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578349750681" />
+    <state width="1696" height="397" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125672424" />
+    <state width="1696" height="397" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.2560.1400@3440.0.2560.1400" timestamp="1578847179583" />
+    <state width="1696" height="397" key="GridCell.Tab.0.right" timestamp="1579125672425">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1696" height="397" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578349750681" />
+    <state width="1696" height="397" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125672425" />
+    <state width="1696" height="397" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.2560.1400@3440.0.2560.1400" timestamp="1578847179583" />
+    <state width="1696" height="488" key="GridCell.Tab.1.bottom" timestamp="1579125489775">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1698" height="488" key="GridCell.Tab.1.bottom/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578257732440" />
+    <state width="1696" height="488" key="GridCell.Tab.1.bottom/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125489775" />
+    <state width="1696" height="488" key="GridCell.Tab.1.center" timestamp="1579125489775">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1698" height="488" key="GridCell.Tab.1.center/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578257732440" />
+    <state width="1696" height="488" key="GridCell.Tab.1.center/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125489775" />
+    <state width="1696" height="488" key="GridCell.Tab.1.left" timestamp="1579125489775">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1698" height="488" key="GridCell.Tab.1.left/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578257732440" />
+    <state width="1696" height="488" key="GridCell.Tab.1.left/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125489775" />
+    <state width="1696" height="488" key="GridCell.Tab.1.right" timestamp="1579125489775">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1698" height="488" key="GridCell.Tab.1.right/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578257732440" />
+    <state width="1696" height="488" key="GridCell.Tab.1.right/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579125489775" />
+    <state x="1823" y="295" key="SettingsEditor" timestamp="1578347340007">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1823" y="295" key="SettingsEditor/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578347340007" />
+    <state x="4494" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1579117414554">
+      <screen x="3440" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1416" y="525" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/3440.0.1280.680@0.0.3440.1400" timestamp="1578337249625" />
+    <state x="4494" y="525" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1579117414554" />
+    <state x="1361" y="426" width="700" height="530" key="recent.locations.popup" timestamp="1578609093000">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1361" y="426" width="700" height="530" key="recent.locations.popup/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1578609093000" />
+    <state x="1056" y="339" width="672" height="678" key="search.everywhere.popup" timestamp="1578795285748">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1056" y="339" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1578795285748" />
+  </component>
+</project>
